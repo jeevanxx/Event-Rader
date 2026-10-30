@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Event Radar</title>
+<meta name="description" content="Hackathons, workshops and tech events you can join across Tamil Nadu, Kerala, Bengaluru and online, checked daily.">
+<meta name="theme-color" content="#1f6f5c">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/favicon-64.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Event Radar">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&family=JetBrains+Mono:wght@500;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="appbar">
+  <div class="in">
+    <div class="brand"><img src="icons/icon-192.png" alt=""><span>Event Radar</span></div>
+    <button class="barbtn" id="installBtn" hidden>Install app</button>
+    <button class="barbtn solid" id="notifyBtn" hidden>Turn on alerts</button>
+  </div>
+</div>
+
+<div class="wrap">
+  <header>
+    <span class="eyebrow">Hackathons · Workshops · Meetups · Challenges</span>
+    <h1>Events you can actually join</h1>
+    <p class="sub">From Kanyakumari to Bengaluru and online. Checked every morning: new events, changed dates and closing registrations come straight to your notifications.</p>
+    <span class="scout" id="scout"></span>
+  </header>
+
+  <section class="notice" id="iosHint" hidden>
+    <p><strong>Install on iPhone:</strong> tap the Share button, then <b>Add to Home Screen</b>. Notifications work after you open the app from the home screen.</p>
+  </section>
+
+  <section class="notice" id="pushPanel" hidden>
+    <p id="pushText"></p>
+    <div class="row" id="pushActions"></div>
+  </section>
+
+  <section class="picks" id="picks" hidden>
+    <h2>Best picks for you</h2>
+    <ol id="pickList"></ol>
+  </section>
+
+  <div class="bar">
+    <div class="row" id="views" role="group" aria-label="Show">
+      <button class="chip" data-view="upcoming" aria-pressed="true">Upcoming<span class="n" id="n-upcoming"></span></button>
+      <button class="chip" data-view="interested" aria-pressed="false">Interested<span class="n" id="n-interested"></span></button>
+      <button class="chip" data-view="registered" aria-pressed="false">Registered<span class="n" id="n-registered"></span></button>
+      <button class="chip" data-view="skipped" aria-pressed="false">Skipped<span class="n" id="n-skipped"></span></button>
+      <button class="chip" data-view="past" aria-pressed="false">Past<span class="n" id="n-past"></span></button>
+    </div>
+    <div class="row" id="regions" role="group" aria-label="Region">
+      <button class="chip" data-region="all" aria-pressed="true">All places</button>
+      <button class="chip" data-region="kanyakumari" aria-pressed="false">Kanyakumari</button>
+      <button class="chip" data-region="tamilnadu" aria-pressed="false">Tamil Nadu</button>
+      <button class="chip" data-region="kerala" aria-pressed="false">Kerala</button>
+      <button class="chip" data-region="bangalore" aria-pressed="false">Bengaluru</button>
+      <button class="chip" data-region="online" aria-pressed="false">Online</button>
+    </div>
+  </div>
+
+  <div class="status" id="status" role="status"></div>
+  <div class="list" id="list">
+    <div class="empty"><strong>Loading events…</strong>New finds from the daily check show up here.</div>
+  </div>
+</div>
+<div class="toast" id="toast" role="status" hidden></div>
+<script src="app.js"></script>
+</body>
+</html>
