@@ -2,13 +2,39 @@
 import crypto from "node:crypto";
 import webpush from "web-push";
 
-const { GITHUB_TOKEN, GITHUB_REPOSITORY, VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY, SUB_PRIVATE_KEY } = process.env;
+const { GITHUB_TOKEN, GITHUB_REPOSITORY } = process.env;
 export const OWNER = (GITHUB_REPOSITORY || "").split("/")[0];
 export const LABEL = "push-subscription";
 export const APP_URL = `https://${OWNER}.github.io/${(GITHUB_REPOSITORY || "").split("/")[1]}/`;
 
+// The VAPID public key is public by design (the app ships it), so it lives here instead of in a secret.
+export const VAPID_PUBLIC_KEY = "BOVqmwOmYWGHcrA42Y3-Bww5A1QiQzLji_gXJ3dIgZK-2iBRCxJU9eoHb200QO-QDHo5E_KMsv-SnqxqKaP9-yc";
+
+// Secrets pasted through the GitHub UI often pick up spaces, line breaks, quotes or "Value:" labels. Clean them up.
+function cleanB64url(v) {
+  return String(v || "")
+    .replace(/^\s*(value|secret|vapid_private_key)\s*[:=]\s*/i, "")
+    .replace(/["'\s]/g, "")
+    .replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+}
+function cleanPem(v) {
+  const s = String(v || "").replace(/\r/g, "").trim();
+  const m = s.match(/-----BEGIN (?:RSA )?PRIVATE KEY-----[\s\S]*?-----END (?:RSA )?PRIVATE KEY-----/);
+  if (!m) return "";
+  // Rebuild the PEM so wrapped, unwrapped or space-separated pastes all work.
+  const head = m[0].match(/-----BEGIN [^-]+-----/)[0];
+  const tail = m[0].match(/-----END [^-]+-----/)[0];
+  const body = m[0].slice(head.length, m[0].length - tail.length).replace(/[^A-Za-z0-9+/=]/g, "");
+  return `${head}\n${body.match(/.{1,64}/g).join("\n")}\n${tail}\n`;
+}
+const VAPID_PRIVATE_KEY = cleanB64url(process.env.VAPID_PRIVATE_KEY);
+export const SUB_PRIVATE_KEY = cleanPem(process.env.SUB_PRIVATE_KEY);
+
 export function setupPush() {
-  if (!VAPID_PUBLIC_KEY || !VAPID_PRIVATE_KEY || !SUB_PRIVATE_KEY) throw new Error("Missing VAPID or subscription key secrets.");
+  const problems = [];
+  if (!/^[A-Za-z0-9_-]{43}$/.test(VAPID_PRIVATE_KEY)) problems.push(`VAPID_PRIVATE_KEY looks wrong (expected 43 characters, got ${VAPID_PRIVATE_KEY.length})`);
+  if (!SUB_PRIVATE_KEY) problems.push("SUB_PRIVATE_KEY is missing its -----BEGIN PRIVATE KEY----- / -----END PRIVATE KEY----- lines");
+  if (problems.length) throw new Error("Secret problem: " + problems.join("; "));
   webpush.setVapidDetails("mailto:noreply@github.com", VAPID_PUBLIC_KEY, VAPID_PRIVATE_KEY);
 }
 
