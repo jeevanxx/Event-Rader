@@ -13,7 +13,10 @@ export const VAPID_PUBLIC_KEY = "BOVqmwOmYWGHcrA42Y3-Bww5A1QiQzLji_gXJ3dIgZK-2iB
 // Secrets pasted through the GitHub UI often pick up spaces, line breaks, quotes or "Value:" labels. Clean them up.
 function cleanB64url(v) {
   return String(v || "")
-    .replace(/^\s*(value|secret|vapid_private_key)\s*[:=]\s*/i, "")
+    // Drop anything copied from the setup file before the key itself, e.g. "Secret 2 Name: VAPID_PRIVATE_KEY Value:".
+    .replace(/^[\s\S]*\bvalue\s*(\([^)]*\))?\s*:/i, "")
+    .replace(/^\s*(secret|vapid_private_key)\s*[:=]\s*/i, "")
+    .replace(/-{3,}/g, "")
     .replace(/["'\s]/g, "")
     .replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
 }
