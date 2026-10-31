@@ -1,5 +1,5 @@
 // Event Radar service worker: offline shell, fresh event data, push notifications.
-const VERSION = "v1";
+const VERSION = "v2";
 const SHELL = `radar-shell-${VERSION}`;
 const DATA = "radar-data";
 const SHELL_FILES = [

@@ -148,7 +148,14 @@
       if (!res.ok) throw new Error(res.status);
       const data = await res.json();
       events = Array.isArray(data.events) ? data.events : [];
-      if (data.lastRun) $("scout").textContent = `Last checked ${data.lastRun}${typeof data.added === "number" ? ` · ${data.added} new` : ""}`;
+      let line = data.lastRun ? `Last checked ${data.lastRun}${typeof data.added === "number" ? ` · ${data.added} new` : ""}` : "";
+      try {
+        const cov = await (await fetch("data/coverage.json?t=" + Date.now(), { cache: "no-store" })).json();
+        const secs = Object.values(cov.sections || {});
+        if (secs.length) line += ` · ${secs.filter((s) => s.checked).length} of ${secs.length} source groups checked`;
+        if (cov.notes) $("scout").title = cov.notes;
+      } catch (_) {}
+      if (line) $("scout").textContent = line;
       $("status").textContent = navigator.onLine ? "" : "You're offline. Showing the last saved list.";
       render();
     } catch (err) {
