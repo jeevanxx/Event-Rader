@@ -1,6 +1,6 @@
 {
   "lastRun": "31 Oct 2026",
-  "added": 4,
+  "added": 6,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -22,8 +22,14 @@
       "warning": "Registration closes 31 Oct 2026 at 11:59 PM IST. Register at konfhub.com/gih2026 if you want in.",
       "url": "https://greatindianhackathon.in/",
       "sources": [
-        {"title": "Knowafest listing", "url": "https://www.knowafest.com/explore/events/2026/02/1221-great-indian-hackathon-2026-sahrdaya-college-engineering-technology-thrissur"},
-        {"title": "Registration (KonfHub)", "url": "https://konfhub.com/gih2026"}
+        {
+          "title": "Knowafest listing",
+          "url": "https://www.knowafest.com/explore/events/2026/02/1221-great-indian-hackathon-2026-sahrdaya-college-engineering-technology-thrissur"
+        },
+        {
+          "title": "Registration (KonfHub)",
+          "url": "https://konfhub.com/gih2026"
+        }
       ],
       "verifiedAt": "31 Oct 2026",
       "fit": 68,
@@ -54,9 +60,18 @@
       "warning": "Sources disagree. Devnovate (the organizer) and Hackathon Radar list 14 Nov with registration until 7 Nov, but Internshala lists 30 Oct and shows it as closed. The daily check will keep verifying this.",
       "url": "https://devnovate.co/event/hack-with-bangalore-40",
       "sources": [
-        {"title": "Devnovate (organizer)", "url": "https://devnovate.co/event/hack-with-bangalore-40"},
-        {"title": "Hackathon Radar", "url": "https://www.hackathonradar.com/database/hackathon/hack-with-bangalore-4-0-2026"},
-        {"title": "Internshala", "url": "https://internshala.com/competitions/hack-with-bangalore-4-0/"}
+        {
+          "title": "Devnovate (organizer)",
+          "url": "https://devnovate.co/event/hack-with-bangalore-40"
+        },
+        {
+          "title": "Hackathon Radar",
+          "url": "https://www.hackathonradar.com/database/hackathon/hack-with-bangalore-4-0-2026"
+        },
+        {
+          "title": "Internshala",
+          "url": "https://internshala.com/competitions/hack-with-bangalore-4-0/"
+        }
       ],
       "verifiedAt": "31 Oct 2026",
       "fit": 82,
@@ -84,9 +99,18 @@
       "summary": "Karnataka government's 29th tech summit. Not hands-on coding, but strong for networking and seeing hiring booths and startups.",
       "url": "https://www.bengalurutechsummit.com",
       "sources": [
-        {"title": "Internshala listing", "url": "https://internshala.com/competitions/bengaluru-tech-summit-2026/"},
-        {"title": "CareerIndia attendee guide", "url": "https://www.careerindia.com/news/bengaluru-tech-summit-2026-ai-robotics-pavilion-hiring-guide-011-67733.html"},
-        {"title": "BioSpectrum", "url": "https://biospectrumindia.com/news/16/28219/karnataka-to-host-29th-edition-of-bengaluru-tech-summit-2026-on-nov-17-19-at-biec.html"}
+        {
+          "title": "Internshala listing",
+          "url": "https://internshala.com/competitions/bengaluru-tech-summit-2026/"
+        },
+        {
+          "title": "CareerIndia attendee guide",
+          "url": "https://www.careerindia.com/news/bengaluru-tech-summit-2026-ai-robotics-pavilion-hiring-guide-011-67733.html"
+        },
+        {
+          "title": "BioSpectrum",
+          "url": "https://biospectrumindia.com/news/16/28219/karnataka-to-host-29th-edition-of-bengaluru-tech-summit-2026-on-nov-17-19-at-biec.html"
+        }
       ],
       "verifiedAt": "31 Oct 2026",
       "fit": 60,
@@ -108,12 +132,87 @@
       "summary": "GDG Bangalore's yearly Google developer conference. The 2026 date isn't announced. DevFest season runs Oct 1 to Dec 31, and last year's Bengaluru edition was on 6 December.",
       "url": "https://developers.google.com/community/devfest",
       "sources": [
-        {"title": "Google DevFest", "url": "https://developers.google.com/community/devfest"},
-        {"title": "DevFest Bengaluru 2025", "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bengaluru-2025"}
+        {
+          "title": "Google DevFest",
+          "url": "https://developers.google.com/community/devfest"
+        },
+        {
+          "title": "DevFest Bengaluru 2025",
+          "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bengaluru-2025"
+        }
       ],
       "verifiedAt": "31 Oct 2026",
       "fit": 55,
       "fitReason": "Great talks on Google's AI tools and good networking, but there's no date or venue yet, so you can't plan around it.",
+      "isNew": true,
+      "added": "2026-10-31"
+    },
+    {
+      "id": "cloud-community-days-devfest-trivandrum-2026",
+      "title": "Cloud Community Days × DevFest 2026 Trivandrum",
+      "kind": "conference",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "city": "Trivandrum",
+      "region": "kerala",
+      "mode": "In person",
+      "venue": "Digital University Kerala, Technocity Campus",
+      "address": "Mangalapuram, Thonnakkal PO, Pallippuram, Trivandrum, Kerala 695317",
+      "organizer": "GDG Trivandrum and GDG Cloud Trivandrum (Google Developer Groups)",
+      "cost": "Ticketed; price not shown on the event page",
+      "eligibility": "Listed as suitable for beginners and experienced developers; student eligibility not stated separately",
+      "theme": "Cloud computing, AI and Google technologies",
+      "perks": "Talks, hands-on workshops, networking",
+      "summary": "Trivandrum's DevFest for 2026, combined with Cloud Community Days. A full day (9 AM to 5 PM) of talks and hands-on workshops on Google Cloud and AI.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-trivandrum-presents-cloud-community-days-x-devfest-2026/cohost-gdg-thiruvananthapuram",
+      "sources": [
+        {
+          "title": "GDG event page",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-trivandrum-presents-cloud-community-days-x-devfest-2026/cohost-gdg-thiruvananthapuram"
+        },
+        {
+          "title": "GDG Thiruvananthapuram",
+          "url": "https://gdg.community.dev/gdg-thiruvananthapuram/"
+        }
+      ],
+      "verifiedAt": "31 Oct 2026",
+      "fit": 84,
+      "fitReason": "The closest DevFest to you: Trivandrum is a short trip from Nagercoil, so it's a day out, not an overnight trip. Beginner-friendly, Google AI and Cloud workshops, and a great place to meet Kerala's developer community. Ticket price isn't shown yet.",
+      "isNew": true,
+      "added": "2026-10-31"
+    },
+    {
+      "id": "huddle-global-2026",
+      "title": "Huddle Global 2026",
+      "kind": "conference",
+      "start": "2026-11-12",
+      "end": "2026-11-14",
+      "city": "Kovalam, Trivandrum",
+      "region": "kerala",
+      "mode": "In person",
+      "venue": "The Leela Raviz, Kovalam",
+      "address": "Kovalam, Trivandrum, Kerala",
+      "organizer": "Kerala Startup Mission (KSUM)",
+      "cost": "Gold pass ₹7,000, Diamond pass ₹9,000; no student pass listed",
+      "eligibility": "Aimed at startups, investors, mentors and corporates; student eligibility not stated",
+      "theme": "Startups: investment, business, tech, networking and sustainability tracks",
+      "perks": "Product expo, mentor and investor connect (Diamond), lunch and networking",
+      "summary": "Kerala Startup Mission's big 3-day startup summit, close to you in Kovalam. More for founders and investors than coding.",
+      "warning": "Expensive for a student (₹7,000+), and no student pass is listed. Worth asking KSUM or your college's IEDC whether volunteer or student passes exist.",
+      "url": "https://tickets.startupmission.in/huddle-global-2026",
+      "sources": [
+        {
+          "title": "StartupGrantsIndia listing",
+          "url": "https://www.startupgrantsindia.com/events/huddle-global-2026"
+        },
+        {
+          "title": "Channel IAM",
+          "url": "https://en.channeliam.com/2026/10/17/huddle-global-app-ai-chatbot-ksum/"
+        }
+      ],
+      "verifiedAt": "31 Oct 2026",
+      "fit": 48,
+      "fitReason": "Very relevant to your goal of building an online business, and it's close by. But the ₹7,000 ticket is a lot for a student, so only go if you find a student or volunteer pass.",
       "isNew": true,
       "added": "2026-10-31"
     }
