@@ -1,6 +1,6 @@
 {
-  "lastRun": "31 Oct 2026",
-  "added": 6,
+  "lastRun": "1 Nov 2026",
+  "added": 9,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -19,7 +19,7 @@
       "theme": "Android app development with Kotlin and Jetpack Compose",
       "perks": "24-hour hackathon, 1-week internship, industry keynotes, MOOC course, certificate for everyone",
       "summary": "Fully remote Android hackathon you can do from home. The listing window runs Nov 1 to Dec 31; the exact 24-hour hackathon dates aren't stated.",
-      "warning": "Registration closes 31 Oct 2026 at 11:59 PM IST. Register at konfhub.com/gih2026 if you want in.",
+      "warning": "Registration closed 31 Oct 2026 (11:59 PM IST). Kept here because the hackathon itself runs Nov to Dec; skip unless the organizers reopen registration.",
       "url": "https://greatindianhackathon.in/",
       "sources": [
         {
@@ -31,9 +31,9 @@
           "url": "https://konfhub.com/gih2026"
         }
       ],
-      "verifiedAt": "31 Oct 2026",
-      "fit": 68,
-      "fitReason": "Zero travel, beginner-friendly, cheap, and comes with an internship and certificate. Lower score only because it's Android/Kotlin, not your usual web and AI stack, and registration closes tonight.",
+      "verifiedAt": "1 Nov 2026",
+      "fit": 30,
+      "fitReason": "Registration has closed, so you can't join this edition. Watch for next year's.",
       "isNew": true,
       "added": "2026-10-31"
     },
@@ -57,7 +57,7 @@
       "perks": "Workshops, free meals and swag, internship opportunities with possible PPOs",
       "bring": "Your own laptop",
       "summary": "8-hour in-person hackathon at Microsoft's Bengaluru office. Beginner-friendly, with workshops on the day.",
-      "warning": "Sources disagree. Devnovate (the organizer) and Hackathon Radar list 14 Nov with registration until 7 Nov, but Internshala lists 30 Oct and shows it as closed. The daily check will keep verifying this.",
+      "warning": "Still conflicting as of 1 Nov: Hackathon Radar lists 14 Nov 2026 at Microsoft Office Bengaluru (students only), but Internshala lists 30 Oct 2026 and marks it Closed. The organizer's page (Devnovate) couldn't be loaded today. Confirm on devnovate.co before booking travel.",
       "url": "https://devnovate.co/event/hack-with-bangalore-40",
       "sources": [
         {
@@ -73,9 +73,9 @@
           "url": "https://internshala.com/competitions/hack-with-bangalore-4-0/"
         }
       ],
-      "verifiedAt": "31 Oct 2026",
-      "fit": 82,
-      "fitReason": "Free, open to beginners, at a big-tech office, with PPO chances. Your OctaHarvest team could go together, and it pairs with the Tech Summit three days later in one Bengaluru trip.",
+      "verifiedAt": "1 Nov 2026",
+      "fit": 70,
+      "fitReason": "Free, beginner-friendly, at Microsoft's Bengaluru office with PPO chances, but the date conflict is still unresolved, so treat it as uncertain.",
       "isNew": true,
       "added": "2026-10-31"
     },
@@ -120,32 +120,37 @@
     },
     {
       "id": "devfest-bengaluru-2026",
-      "title": "DevFest Bengaluru 2026",
+      "title": "DevFest Bengaluru 2026 (GDG Bangalore)",
       "kind": "conference",
       "city": "Bengaluru",
       "region": "bangalore",
       "mode": "In person",
-      "venue": "Not announced",
+      "venue": "Google Ananta",
       "organizer": "GDG Bangalore (Google Developer Groups)",
-      "cost": "Not announced; last year had paid tickets",
-      "eligibility": "Open to students and developers",
-      "summary": "GDG Bangalore's yearly Google developer conference. The 2026 date isn't announced. DevFest season runs Oct 1 to Dec 31, and last year's Bengaluru edition was on 6 December.",
-      "url": "https://developers.google.com/community/devfest",
+      "cost": "Ticketed via KonfHub; price not shown on the GDG page",
+      "eligibility": "Open to developers, designers, founders and students",
+      "summary": "GDG Bangalore's main DevFest, 9 AM to 6 PM at Google's Ananta campus. Date and venue are now confirmed.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bengaluru-2026/",
       "sources": [
         {
-          "title": "Google DevFest",
-          "url": "https://developers.google.com/community/devfest"
+          "title": "GDG Bangalore event page",
+          "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bengaluru-2026/"
         },
         {
-          "title": "DevFest Bengaluru 2025",
-          "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-devfest-bengaluru-2025"
+          "title": "Tickets (KonfHub)",
+          "url": "https://konfhub.com/devfestblr26"
         }
       ],
-      "verifiedAt": "31 Oct 2026",
-      "fit": 55,
-      "fitReason": "Great talks on Google's AI tools and good networking, but there's no date or venue yet, so you can't plan around it.",
+      "verifiedAt": "1 Nov 2026",
+      "fit": 62,
+      "fitReason": "Inside Google's office, strong AI and Gemini content, and great networking. It's an overnight trip from Nagercoil for one day, and the ticket price isn't shown yet.",
       "isNew": true,
-      "added": "2026-10-31"
+      "added": "2026-10-31",
+      "start": "2026-12-05",
+      "end": "2026-12-05",
+      "address": "Rio Business Park, Mahadevapura, Krishnarajapuram Hobli, Bengaluru 560037",
+      "theme": "AI (AI Studio, Gemini), Android, Flutter, Google Cloud, Web",
+      "perks": "Tech talks, hands-on workshops, creator rooms, networking"
     },
     {
       "id": "cloud-community-days-devfest-trivandrum-2026",
@@ -215,6 +220,290 @@
       "fitReason": "Very relevant to your goal of building an online business, and it's close by. But the ₹7,000 ticket is a lot for a student, so only go if you find a student or volunteer pass.",
       "isNew": true,
       "added": "2026-10-31"
+    },
+    {
+      "id": "devfest-gdg-cloud-bengaluru-2026",
+      "title": "DevFest 2026 (GDG Cloud Bengaluru)",
+      "kind": "conference",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Google Ananta",
+      "address": "Rio Business Park, Mahadevapura, Krishnarajapuram Hobli, Bengaluru East 560037",
+      "organizer": "GDG Cloud Bengaluru (Google Developer Groups)",
+      "cost": "Ticketed via KonfHub; price not shown",
+      "eligibility": "Aimed at cloud practitioners, AI builders and community leaders; student eligibility not stated",
+      "theme": "Google Cloud, AI, agent platforms, scalable architecture",
+      "perks": "Talks and networking",
+      "summary": "GDG Cloud Bengaluru's DevFest, 8:30 AM to 6 PM at Google Ananta. Same weekend as two free Bengaluru AI hackathons (21 and 22 Nov).",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-devfest-2026/",
+      "sources": [
+        {
+          "title": "GDG Cloud Bengaluru event page",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-devfest-2026/"
+        },
+        {
+          "title": "Tickets (KonfHub)",
+          "url": "https://konfhub.com/devfest-blr-2026"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 56,
+      "fitReason": "Good cloud and AI content at Google's office, but more advanced and less student-focused than the GDG Bangalore DevFest on 5 Dec.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "apify-ai-tools-that-earn-bengaluru-2026",
+      "title": "AI Tools that Earn: Apify Hackathon",
+      "kind": "hackathon",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Zostel Plus Bangalore (Whitefield)",
+      "address": "Whitefield, Bengaluru (street address not published)",
+      "organizer": "Apify",
+      "cost": "Free",
+      "team": "1–4 (solo allowed)",
+      "eligibility": "Some coding experience needed; no Apify experience required. Student eligibility not stated.",
+      "prizes": "₹75,000 / ₹50,000 / ₹25,000 for top 3; Apify credits for 4th–10th",
+      "theme": "Build AI tools people would pay for, published as an Actor on Apify Store",
+      "bring": "Laptop",
+      "summary": "One-day (8 AM to 6 PM) build hackathon about AI tools that can earn money. Spots are limited and registration is required.",
+      "url": "https://indiahackathons.com/events/ai-tools-that-earn-a-hackathon-by-apify",
+      "sources": [
+        {
+          "title": "India Hackathons listing",
+          "url": "https://indiahackathons.com/events/ai-tools-that-earn-a-hackathon-by-apify"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 68,
+      "fitReason": "Free, solo-friendly, real cash prizes, and the theme (AI tools that earn) matches your online business goal. Needs a Bengaluru trip, but pairs with DevFest Cloud on 21 Nov.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "agora-voice-ai-hackathon-bengaluru-2026",
+      "title": "Build with Agora: Voice AI Hackathon",
+      "kind": "hackathon",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Bengaluru (address shown after registration)",
+      "address": "Street address not published yet",
+      "organizer": "Agora, listed by KNOTiC",
+      "cost": "Free",
+      "eligibility": "Developers of any kind (AI/ML, mobile, web, indie hackers, founders); student eligibility not stated",
+      "prizes": "US$3,000 in cash and gadgets",
+      "theme": "Real-time voice and conversational AI using Agora's SDKs",
+      "summary": "One-day voice AI hackathon, 8:30 AM to 6:30 PM. You can join with a team or find one there.",
+      "url": "https://indiahackathons.com/events/build-with-agora-bengaluru-2026-voice-ai-hackathon",
+      "sources": [
+        {
+          "title": "India Hackathons listing",
+          "url": "https://indiahackathons.com/events/build-with-agora-bengaluru-2026-voice-ai-hackathon"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 58,
+      "fitReason": "Free and on an exciting AI topic, but aimed at working developers and the venue is hidden until you register.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "international-hackathon-5-kit-2026",
+      "title": "International Hackathon 5.0",
+      "kind": "hackathon",
+      "start": "2026-11-14",
+      "end": "2026-12-26",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "KIT – Kalaignarkarunanidhi Institute of Technology, Coimbatore, with ECLearnix EdTech",
+      "cost": "Free",
+      "eligibility": "Not stated on the listing; check the registration page",
+      "prizes": "₹30,000 overall, plus internship and campus ambassador opportunities",
+      "perks": "Certificate for all participants",
+      "theme": "Open challenges, SaaS products, business solutions, AI and student collaboration",
+      "summary": "Two-round online hackathon: submit a PPT by 12 Nov, present on 14 Nov, finalists build and present on 26 Dec.",
+      "url": "https://www.eclearnix.com/course/ih5o/",
+      "sources": [
+        {
+          "title": "Knowafest listing",
+          "url": "https://www.knowafest.com/event/international-hackathon-50-2026-free-registration-rs30000-cash-prize"
+        },
+        {
+          "title": "Registration (ECLearnix)",
+          "url": "https://www.eclearnix.com/course/ih5o/"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 72,
+      "fitReason": "Free, online, and has a SaaS track that fits what you want to build. No travel, and the PPT-first format suits a beginner. Eligibility isn't spelled out, so check when registering.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "paypal-ai-hackathon-2026",
+      "title": "PayPal AI Hackathon",
+      "kind": "competition",
+      "start": "2026-10-01",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online (Devpost)",
+      "organizer": "PayPal",
+      "cost": "Free (not stated as paid)",
+      "eligibility": "Anyone of legal age where they live; India is eligible. Individuals or teams.",
+      "prizes": "US$67,500 total; 1st US$12,000, plus five US$5,000 category awards",
+      "theme": "Any project that meaningfully uses the PayPal developer platform and AI, with a working prototype",
+      "summary": "Global online build competition. Submissions close 12 Nov (1:30 AM IST on 13 Nov); winners around 21 Dec.",
+      "url": "https://paypalaihackathon.devpost.com/",
+      "sources": [
+        {
+          "title": "StartupGrantsIndia listing",
+          "url": "https://www.startupgrantsindia.com/competitions/paypal-ai-hackathon"
+        },
+        {
+          "title": "Devpost page",
+          "url": "https://paypalaihackathon.devpost.com/"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 55,
+      "fitReason": "Huge prizes and payments plus AI is useful for an online business, but it's global, competitive, and you'd need to learn PayPal's APIs in under two weeks.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "nexconn-build-challenge-2026",
+      "title": "Nexconn Build Challenge 2026",
+      "kind": "competition",
+      "start": "2026-10-23",
+      "end": "2026-11-22",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Nexconn (listed on Reskilll)",
+      "eligibility": "Not stated",
+      "prizes": "US$5,000 pool across 5 winners, plus 2 years of Nexconn's free chat plan",
+      "theme": "Build a real-time chat app with the Nexconn Chat SDK (voice/video optional)",
+      "summary": "Month-long online challenge to build a chat-based app. Runs until 22 Nov.",
+      "url": "https://reskilll.com/hack/nexconn/",
+      "sources": [
+        {
+          "title": "Reskilll",
+          "url": "https://reskilll.com/hack/nexconn/"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 52,
+      "fitReason": "Online and doable with your web skills, but it's a sponsor SDK challenge and eligibility isn't stated.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "devfest-coimbatore-2026",
+      "title": "DevFest Coimbatore 2026",
+      "kind": "conference",
+      "start": "2026-12-12",
+      "end": "2026-12-12",
+      "city": "Coimbatore",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Not announced yet (Kumaraguru Institutions is the venue partner)",
+      "address": "Coimbatore, Tamil Nadu",
+      "organizer": "GDG Coimbatore (Google Developer Groups)",
+      "cost": "Student pass available; price not announced",
+      "eligibility": "Separate Student and Professional passes",
+      "theme": "Build with Gemini + Cloud Community Days; Anybody Can Build; Builders & Creators Academy",
+      "summary": "Coimbatore's DevFest. Registrations are opening soon and the exact venue will be announced on the event site.",
+      "warning": "Registration isn't open yet and the venue isn't announced. The daily check will watch for both.",
+      "url": "https://devfest26.gdgcbe.com/",
+      "sources": [
+        {
+          "title": "DevFest Coimbatore site",
+          "url": "https://devfest26.gdgcbe.com/"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 64,
+      "fitReason": "Has a student pass and an 'Anybody Can Build' track that suits beginners. Coimbatore is a long trip from Nagercoil, so it's less convenient than DevFest Trivandrum.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "crimeathon-simats-2026",
+      "title": "Crimeathon 2026",
+      "kind": "hackathon",
+      "start": "2026-11-19",
+      "end": "2026-11-20",
+      "deadline": "2026-11-15",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "SIMATS Engineering (Saveetha Institute of Medical and Technical Sciences)",
+      "address": "Saveetha Nagar, Thandalam, Chennai 602105",
+      "organizer": "SIMATS Engineering",
+      "cost": "400 (listed as paid; currency not shown)",
+      "eligibility": "Not stated",
+      "perks": "Certificates for all participants; prizes not specified",
+      "theme": "Crime and investigation: cybersecurity challenges and digital forensics",
+      "summary": "Cybersecurity and forensics hackathon at SIMATS, Chennai.",
+      "warning": "The listing contradicts itself: the header says 19–20 Nov with registration until 15 Nov, but the About section says 23–24 Oct and lists 20 Oct as a key date. Check crimeathon.in before registering.",
+      "url": "https://crimeathon.in/",
+      "sources": [
+        {
+          "title": "Knowafest listing",
+          "url": "https://www.knowafest.com/event/crimeathon-2026"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 40,
+      "fitReason": "Paid, far away, on a topic outside your web and AI focus, and the dates are unclear.",
+      "isNew": true,
+      "added": "2026-11-01"
+    },
+    {
+      "id": "scipy-india-2026",
+      "title": "SciPy India 2026",
+      "kind": "conference",
+      "start": "2026-12-19",
+      "end": "2026-12-20",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "IC&SR Building, IIT Madras",
+      "address": "IIT Madras, Chennai",
+      "organizer": "SciPy India community (supported by FOSS United)",
+      "eligibility": "Not stated on the listing checked",
+      "theme": "Python for science, data and AI",
+      "summary": "Two-day Python conference at IIT Madras, listed as a 'must attend' FOSS event.",
+      "warning": "Only verified from FOSS United's event timeline today; the official site (scipy.in/2026) couldn't be loaded, so fee and registration details are unknown.",
+      "url": "https://fossunited.org/c/scipy-india/2026",
+      "sources": [
+        {
+          "title": "FOSS United events timeline",
+          "url": "https://fossunited.org/events/timeline"
+        }
+      ],
+      "verifiedAt": "1 Nov 2026",
+      "fit": 50,
+      "fitReason": "A respected open-source Python conference at IIT Madras, good for learning and networking, but far, and the cost is unknown.",
+      "isNew": true,
+      "added": "2026-11-01"
     }
   ]
 }

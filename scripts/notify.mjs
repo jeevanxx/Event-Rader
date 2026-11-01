@@ -22,7 +22,7 @@ const upcoming = (e) => { const end = e.end || e.start; return !end || end >= to
 const prevById = new Map((prev.events || []).map((e) => [e.id, e]));
 const events = (cur.events || []).filter(upcoming);
 
-const added = events.filter((e) => !prevById.has(e.id));
+const added = events.filter((e) => !prevById.has(e.id)).sort((a, b) => (b.fit ?? 0) - (a.fit ?? 0));
 const changes = [];
 for (const e of events) {
   const p = prevById.get(e.id);
@@ -32,7 +32,7 @@ for (const e of events) {
   if (p.deadline !== e.deadline && e.deadline) bits.push(`register by ${fmt(e.deadline)}`);
   if (p.venue !== e.venue && e.venue) bits.push(`venue: ${e.venue}`);
   if (p.warning && !e.warning) bits.push("details confirmed");
-  else if (e.warning && e.warning !== p.warning && /closed|cancel|postpon/i.test(e.warning)) bits.push(e.warning.split(".")[0]);
+  else if (e.warning && e.warning !== p.warning && /closed|cancel|postpon/i.test(e.warning)) bits.push(e.warning.split(/ \(|[.:]/)[0].slice(0, 60));
   if (bits.length) changes.push(`${e.title}: ${bits.join(", ")}`);
 }
 const closing = events.filter((e) => { const n = dayDiff(e.deadline); return n !== null && n >= 0 && n <= 3; });
