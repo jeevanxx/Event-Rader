@@ -1,6 +1,6 @@
 {
-  "lastRun": "1 Nov 2026",
-  "added": 9,
+  "lastRun": "2 Nov 2026",
+  "added": 2,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -57,7 +57,7 @@
       "perks": "Workshops, free meals and swag, internship opportunities with possible PPOs",
       "bring": "Your own laptop",
       "summary": "8-hour in-person hackathon at Microsoft's Bengaluru office. Beginner-friendly, with workshops on the day.",
-      "warning": "Still conflicting as of 1 Nov: Hackathon Radar lists 14 Nov 2026 at Microsoft Office Bengaluru (students only), but Internshala lists 30 Oct 2026 and marks it Closed. The organizer's page (Devnovate) couldn't be loaded today. Confirm on devnovate.co before booking travel.",
+      "warning": "Still unconfirmed as of 2 Nov: Hackathon Radar lists 14 Nov 2026 at Microsoft Office Bengaluru (students only), while Internshala lists 30 Oct and Closed. Devnovate (the organizer) can't be loaded by the checker. Confirm on devnovate.co before booking travel.",
       "url": "https://devnovate.co/event/hack-with-bangalore-40",
       "sources": [
         {
@@ -73,7 +73,7 @@
           "url": "https://internshala.com/competitions/hack-with-bangalore-4-0/"
         }
       ],
-      "verifiedAt": "1 Nov 2026",
+      "verifiedAt": "2 Nov 2026",
       "fit": 70,
       "fitReason": "Free, beginner-friendly, at Microsoft's Bengaluru office with PPO chances, but the date conflict is still unresolved, so treat it as uncertain.",
       "isNew": true,
@@ -180,7 +180,7 @@
           "url": "https://gdg.community.dev/gdg-thiruvananthapuram/"
         }
       ],
-      "verifiedAt": "31 Oct 2026",
+      "verifiedAt": "2 Nov 2026",
       "fit": 84,
       "fitReason": "The closest DevFest to you: Trivandrum is a short trip from Nagercoil, so it's a day out, not an overnight trip. Beginner-friendly, Google AI and Cloud workshops, and a great place to meet Kerala's developer community. Ticket price isn't shown yet.",
       "isNew": true,
@@ -490,20 +490,81 @@
       "organizer": "SciPy India community (supported by FOSS United)",
       "eligibility": "Not stated on the listing checked",
       "theme": "Python for science, data and AI",
-      "summary": "Two-day Python conference at IIT Madras, listed as a 'must attend' FOSS event.",
-      "warning": "Only verified from FOSS United's event timeline today; the official site (scipy.in/2026) couldn't be loaded, so fee and registration details are unknown.",
+      "summary": "Two-day Python conference at IIT Madras: 19 Dec is hands-on workshops (3-hour sessions), 20 Dec is talks and posters.",
+      "warning": "Ticket price and registration details aren't published yet (the call for talks closed 1 Nov). The daily check will watch for registration opening.",
       "url": "https://fossunited.org/c/scipy-india/2026",
       "sources": [
         {
           "title": "FOSS United events timeline",
           "url": "https://fossunited.org/events/timeline"
+        },
+        {
+          "title": "SciPy India 2026 announcement",
+          "url": "https://discuss.python.org/t/scipy-india-2026-19th-20th-december-in-chennai-india-cfp-open/108760"
         }
       ],
-      "verifiedAt": "1 Nov 2026",
+      "verifiedAt": "2 Nov 2026",
       "fit": 50,
       "fitReason": "A respected open-source Python conference at IIT Madras, good for learning and networking, but far, and the cost is unknown.",
       "isNew": true,
       "added": "2026-11-01"
+    },
+    {
+      "id": "google-cloud-community-day-kochi-2026",
+      "title": "Google Cloud Community Day Kochi 2026",
+      "kind": "conference",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "city": "Kochi",
+      "region": "kerala",
+      "mode": "In person",
+      "venue": "Holiday Inn, Kochi",
+      "address": "Kochi, Kerala (street address not stated)",
+      "organizer": "GDG Cloud Kochi (Google Developer Groups)",
+      "cost": "Not stated",
+      "eligibility": "Not stated",
+      "theme": "Gemini, AI agents and Google Cloud",
+      "summary": "Kochi's Google Cloud community conference on Gemini and AI agents. Ticket and registration details aren't on the site yet.",
+      "warning": "Time, ticket price and registration link aren't published yet.",
+      "url": "https://ccd.gdgcloudkochi.com/",
+      "sources": [
+        {
+          "title": "Cloud Community Day Kochi site",
+          "url": "https://ccd.gdgcloudkochi.com/"
+        }
+      ],
+      "verifiedAt": "2 Nov 2026",
+      "fit": 58,
+      "fitReason": "Strong AI agents and Gemini content, but Kochi is a long trip and nothing about cost or registration is known yet. DevFest Trivandrum on 28 Nov covers similar ground much closer to home.",
+      "isNew": true,
+      "added": "2026-11-02"
+    },
+    {
+      "id": "build-and-blend-18-chennai-2026",
+      "title": "Build & Blend 18 (Doing Things AI meetup)",
+      "kind": "meetup",
+      "start": "2026-11-04",
+      "end": "2026-11-04",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Madras Adda, Chennai",
+      "organizer": "Doing Things AI",
+      "cost": "Not stated",
+      "theme": "AI and machine learning community meetup",
+      "summary": "Evening AI meetup in Chennai on Wednesday 4 Nov at 7 PM.",
+      "url": "https://scene044.in/events/build-and-blend-18-doing-things-ai-129",
+      "sources": [
+        {
+          "title": "Scene044 listing",
+          "url": "https://scene044.in/events/build-and-blend-18-doing-things-ai-129"
+        }
+      ],
+      "verifiedAt": "2 Nov 2026",
+      "fit": 28,
+      "fitReason": "A weeknight evening meetup in Chennai is impractical from Nagercoil. Listed so you know the community exists if you're ever in Chennai.",
+      "isNew": true,
+      "added": "2026-11-02"
     }
   ]
 }

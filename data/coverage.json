@@ -1,20 +1,19 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "sections": {
     "A": {
       "checked": true,
       "found": 0,
-      "updated": 3
+      "updated": 2
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 6
+      "found": 1
     },
     "C": {
       "checked": true,
-      "partial": true,
-      "found": 3
+      "found": 1
     },
     "D": {
       "checked": true,
@@ -24,12 +23,12 @@
     "E": {
       "checked": true,
       "partial": true,
-      "found": 1
+      "found": 0
     },
     "F": {
       "checked": true,
       "partial": true,
-      "found": 1
+      "found": 0
     },
     "G": {
       "checked": true,
@@ -37,5 +36,5 @@
       "found": 0
     }
   },
-  "notes": "Partial today. Unstop event pages and Devnovate don't load from the checker (several Tamil Nadu college hackathons found there, e.g. Hackfinity 3.0 at RIT and Horizon XT at SRM Trichy, could not be verified, so they were not added). Luma and Meetup were not checked. GDG Madurai/Trichy/Kochi/Kozhikode pages not checked today. Knowafest, StartupGrantsIndia, Reskilll, India Hackathons, FOSS United and GDG Bangalore/Cloud Bengaluru/Coimbatore/Trivandrum were checked."
+  "notes": "Filled yesterday's gaps: GDG Madurai, Cloud Madurai, Cloud Kochi and Kozhikode checked; Chennai meetup listings (Scene044, Luma) checked. Coimbatore college hackathons on Knowafest were all past events. DevFest Coimbatore and Crimeathon official sites couldn't be loaded today, so their warnings stay. Unstop and Devnovate pages still don't load from the checker."
 }
