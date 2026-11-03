@@ -1,6 +1,6 @@
 {
-  "lastRun": "2 Nov 2026",
-  "added": 2,
+  "lastRun": "3 Nov 2026",
+  "added": 5,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -57,7 +57,7 @@
       "perks": "Workshops, free meals and swag, internship opportunities with possible PPOs",
       "bring": "Your own laptop",
       "summary": "8-hour in-person hackathon at Microsoft's Bengaluru office. Beginner-friendly, with workshops on the day.",
-      "warning": "Still unconfirmed as of 2 Nov: Hackathon Radar lists 14 Nov 2026 at Microsoft Office Bengaluru (students only), while Internshala lists 30 Oct and Closed. Devnovate (the organizer) can't be loaded by the checker. Confirm on devnovate.co before booking travel.",
+      "warning": "Still unconfirmed as of 3 Nov: Hackathon Radar lists 14 Nov 2026 at Microsoft Office Bengaluru (students only), while Internshala lists 30 Oct and Closed. Devnovate (the organizer) can't be loaded by the checker. Confirm on devnovate.co before booking travel.",
       "url": "https://devnovate.co/event/hack-with-bangalore-40",
       "sources": [
         {
@@ -462,15 +462,19 @@
       "perks": "Certificates for all participants; prizes not specified",
       "theme": "Crime and investigation: cybersecurity challenges and digital forensics",
       "summary": "Cybersecurity and forensics hackathon at SIMATS, Chennai.",
-      "warning": "The listing contradicts itself: the header says 19–20 Nov with registration until 15 Nov, but the About section says 23–24 Oct and lists 20 Oct as a key date. Check crimeathon.in before registering.",
+      "warning": "Two listings (Knowafest, Eventopia) now both give 19–20 Nov with registration until 15 Nov, but both still carry an older '23–24 October' line in the description, and the venue is named as both SIMATS Engineering and Saveetha Engineering College. Confirm on crimeathon.in before paying.",
       "url": "https://crimeathon.in/",
       "sources": [
         {
           "title": "Knowafest listing",
           "url": "https://www.knowafest.com/event/crimeathon-2026"
+        },
+        {
+          "title": "Eventopia listing",
+          "url": "https://eventopia.in/event/crimeathon-2026-10-23-d2d"
         }
       ],
-      "verifiedAt": "1 Nov 2026",
+      "verifiedAt": "3 Nov 2026",
       "fit": 40,
       "fitReason": "Paid, far away, on a topic outside your web and AI focus, and the dates are unclear.",
       "isNew": true,
@@ -521,21 +525,24 @@
       "venue": "Holiday Inn, Kochi",
       "address": "Kochi, Kerala (street address not stated)",
       "organizer": "GDG Cloud Kochi (Google Developer Groups)",
-      "cost": "Not stated",
+      "cost": "Free (registration required)",
       "eligibility": "Not stated",
       "theme": "Gemini, AI agents and Google Cloud",
-      "summary": "Kochi's Google Cloud community conference on Gemini and AI agents. Ticket and registration details aren't on the site yet.",
-      "warning": "Time, ticket price and registration link aren't published yet.",
-      "url": "https://ccd.gdgcloudkochi.com/",
+      "summary": "Kochi's Google Cloud community conference on Gemini and AI agents, 9 AM to 6:30 PM. Free, but you must register on the GDG page.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kochi-presents-google-cloud-community-day-kochi-2026/",
       "sources": [
         {
           "title": "Cloud Community Day Kochi site",
           "url": "https://ccd.gdgcloudkochi.com/"
+        },
+        {
+          "title": "StartupGrantsIndia listing",
+          "url": "https://www.startupgrantsindia.com/events/google-cloud-community-day-kochi-2026"
         }
       ],
-      "verifiedAt": "2 Nov 2026",
-      "fit": 58,
-      "fitReason": "Strong AI agents and Gemini content, but Kochi is a long trip and nothing about cost or registration is known yet. DevFest Trivandrum on 28 Nov covers similar ground much closer to home.",
+      "verifiedAt": "3 Nov 2026",
+      "fit": 64,
+      "fitReason": "Free, with strong Gemini and AI agents content. Kochi is a long trip from Nagercoil, though; DevFest Trivandrum two weeks later is closer.",
       "isNew": true,
       "added": "2026-11-02"
     },
@@ -565,6 +572,166 @@
       "fitReason": "A weeknight evening meetup in Chennai is impractical from Nagercoil. Listed so you know the community exists if you're ever in Chennai.",
       "isNew": true,
       "added": "2026-11-02"
+    },
+    {
+      "id": "firstcommit-26-campuscode",
+      "title": "FirstCommit '26",
+      "kind": "hackathon",
+      "start": "2026-11-14",
+      "end": "2026-11-16",
+      "deadline": "2026-11-13",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "CampusCode",
+      "cost": "Free",
+      "team": "1–4 (inter-college teams allowed)",
+      "eligibility": "College students across India",
+      "prizes": "₹3,000 pool for the top 3; digital certificate for everyone; winners featured on CampusCode's LinkedIn",
+      "theme": "Build for Campus, AI in Action (agents, automation, LLM apps), Open Innovation",
+      "summary": "24-hour online hackathon in three rounds: idea, build, judging. Final dates may shift by a day; organizers announce them on their WhatsApp channel.",
+      "warning": "Listed as 14–16 Nov, but the description calls 14–15 Nov tentative. The organizer's contact fields on the listing are placeholders, so register via campuscode.co.in.",
+      "url": "https://eventopia.in/event/firstcommit-26-national-level-online-hackathon-by-campuscode-2026-11-14-j86",
+      "sources": [
+        {
+          "title": "Eventopia listing",
+          "url": "https://eventopia.in/event/firstcommit-26-national-level-online-hackathon-by-campuscode-2026-11-14-j86"
+        }
+      ],
+      "verifiedAt": "3 Nov 2026",
+      "fit": 66,
+      "fitReason": "Free, online, solo or team, and the 'Build for Campus' and 'AI in Action' tracks fit projects like CampusAid and Guardian Eye. Small prizes and a lesser-known organizer.",
+      "isNew": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "hacksprint-3-karpagam-2027",
+      "title": "HackSprint 3.0",
+      "kind": "hackathon",
+      "start": "2027-01-29",
+      "end": "2027-01-30",
+      "deadline": "2026-12-28",
+      "city": "Coimbatore",
+      "region": "tamilnadu",
+      "mode": "Hybrid",
+      "venue": "Karpagam Academy of Higher Education (KAHE)",
+      "address": "Coimbatore, Tamil Nadu",
+      "organizer": "Department of CSE, Karpagam Academy of Higher Education, with the Metaverse Association",
+      "cost": "Free",
+      "eligibility": "National-level, open to developers and innovators from across India (formal rules not published)",
+      "perks": "Physical certificates for all participants; prizes to be announced",
+      "theme": "Agrotech, MedTech, EduTech, WildVisionTech, Open Innovation",
+      "summary": "Online preliminary round, then a 36-hour offline final at KAHE Coimbatore. Register by 28 Dec.",
+      "warning": "Final-round dates are 'to be announced once confirmed'; team size and prizes aren't published yet.",
+      "url": "https://eventopia.in/event/hacksprint-30-2027-01-29-6u5",
+      "sources": [
+        {
+          "title": "Eventopia listing",
+          "url": "https://eventopia.in/event/hacksprint-30-2027-01-29-6u5"
+        }
+      ],
+      "verifiedAt": "3 Nov 2026",
+      "fit": 62,
+      "fitReason": "Free, with an online first round you can do from home and an EduTech track. You'd only travel to Coimbatore if you reach the final.",
+      "isNew": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "trivora-2026-coimbatore",
+      "title": "TRIVORA 2026 Hackathon",
+      "kind": "hackathon",
+      "start": "2026-12-05",
+      "end": "2026-12-06",
+      "city": "Coimbatore",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "SNS iHub",
+      "address": "Coimbatore, Tamil Nadu",
+      "organizer": "HackHere",
+      "cost": "₹1,000 per team",
+      "eligibility": "Students and professionals",
+      "theme": "Generative AI combined with cloud computing; each team gets its own problem statement",
+      "summary": "24-hour national hackathon on generative AI and cloud at SNS iHub, Coimbatore.",
+      "url": "https://unstop.com/hackathons/trivora-hackhere-1760462",
+      "sources": [
+        {
+          "title": "TheTN.ai listing",
+          "url": "https://thetn.ai/events/trivora-2026/"
+        }
+      ],
+      "verifiedAt": "3 Nov 2026",
+      "fit": 50,
+      "fitReason": "Right topic (GenAI and cloud), but it's paid, overnight, and in Coimbatore; prizes and team size aren't published.",
+      "isNew": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "cobot-ex-2026-crescent",
+      "title": "COBOT-EX 2026 (Expo & Hackathon)",
+      "kind": "hackathon",
+      "start": "2026-11-10",
+      "end": "2026-11-10",
+      "deadline": "2026-11-05",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "B.S. Abdur Rahman Crescent Institute of Science and Technology",
+      "address": "Vandalur, Chennai",
+      "organizer": "Crescent Institute (likely its Cobotics Club; not confirmed on the listing)",
+      "cost": "₹250 per team",
+      "team": "Hackathon: up to 2; Project Expo: up to 3",
+      "eligibility": "College students; described as inter-college",
+      "prizes": "Project Expo ₹10,000 pool; Hackathon ₹5,000 pool; certificates for all",
+      "theme": "IoT, robotics, automation, AI/ML",
+      "summary": "One-day inter-college project expo and hackathon in Chennai.",
+      "url": "https://eventopia.in/event/cobotex-2026-intercollege-expo-hackathon-2026-11-10-y72",
+      "sources": [
+        {
+          "title": "Eventopia listing",
+          "url": "https://eventopia.in/event/cobotex-2026-intercollege-expo-hackathon-2026-11-10-y72"
+        }
+      ],
+      "verifiedAt": "3 Nov 2026",
+      "fit": 34,
+      "fitReason": "Leans toward robotics and IoT, needs a Chennai trip for a single day, and registration closes 5 Nov.",
+      "isNew": true,
+      "added": "2026-11-03"
+    },
+    {
+      "id": "sakthi-hackathon-2-mcet",
+      "title": "Sakthi Hackathon 2.0",
+      "kind": "hackathon",
+      "deadline": "2026-11-24",
+      "city": "Pollachi",
+      "region": "tamilnadu",
+      "mode": "Hybrid",
+      "venue": "Dr. Mahalingam College of Engineering and Technology (MCET), NPT Campus",
+      "address": "Udumalai Road, Pollachi 642003, Tamil Nadu",
+      "organizer": "MCET with its Student Research Council (SRC) Innovation Nexus; partner: iTNT Hub, Government of Tamil Nadu",
+      "cost": "Free to register; finalists pay ₹1,000 per team",
+      "team": "Up to 4",
+      "eligibility": "Students of any AICTE/UGC-recognised engineering or polytechnic institution in India (BE/BTech/ME/MTech/MCA/BSc/MSc)",
+      "prizes": "₹1,00,000 / ₹50,000 / ₹25,000, plus five ₹5,000 awards (₹2 lakh+ total)",
+      "theme": "Industry problems: automation, IIoT, AI/ML decision support, predictive maintenance, analytics, sustainability (hardware or software tracks)",
+      "summary": "24-hour national inter-college hackathon with industry problem statements. Round 2 submissions are due 24 Nov; the grand final is at MCET Pollachi.",
+      "warning": "The Round 1 shortlist has already been published, so new teams may no longer be able to enter. Grand final dates aren't stated. Check the portal before planning anything.",
+      "url": "https://hackathon.drmcet.ac.in/",
+      "sources": [
+        {
+          "title": "Sakthi Hackathon site",
+          "url": "https://hackathon.drmcet.ac.in/"
+        },
+        {
+          "title": "Problem statements",
+          "url": "https://hackathon.drmcet.ac.in/problem-statements/"
+        }
+      ],
+      "verifiedAt": "3 Nov 2026",
+      "fit": 40,
+      "fitReason": "Big prizes and open to all colleges, but Round 1 looks finished, so joining now is probably not possible.",
+      "isNew": true,
+      "added": "2026-11-03"
     }
   ]
 }
