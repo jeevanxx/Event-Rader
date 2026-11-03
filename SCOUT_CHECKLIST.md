@@ -25,6 +25,11 @@ Every upcoming event in `data/events.json`: open its `url` and every `sources` l
 12. KonfHub and Townscript: tech events in the regions above
 13. dev.events: Chennai, Bengaluru, Kochi
 14. AllEvents: Nagercoil, Kanyakumari, Trivandrum, Madurai, Tirunelveli tech events
+15. Eventopia: eventopia.in/events/state/tamil-nadu and the Kerala state page (works well; good for college hackathons)
+16. TheTN.ai hackathon list: thetn.ai/hackathons (Tamil Nadu AI hackathons by city and date)
+17. India Hackathons (indiahackathons.com, Bengaluru and online), StartupGrantsIndia events, Scene044 (Chennai meetups)
+
+Note: Unstop, Devnovate, Hackathon Radar and some college sites often can't be loaded by the checker. Find the same event on Eventopia, Knowafest, TheTN.ai or a search result instead, and say so in the coverage notes.
 
 ## C. Google developer communities (gdg.community.dev chapter pages)
 - Tamil Nadu: GDG Chennai, GDG Cloud Chennai, GDG Coimbatore, GDG Madurai, GDG Trichy, GDG Salem, GDG Tirunelveli (if any)
