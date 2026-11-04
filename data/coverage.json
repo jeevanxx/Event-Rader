@@ -1,15 +1,16 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "sections": {
     "A": {
       "checked": true,
+      "partial": true,
       "found": 0,
-      "updated": 3
+      "updated": 2
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 4
+      "found": 1
     },
     "C": {
       "checked": true,
@@ -19,17 +20,17 @@
     "D": {
       "checked": true,
       "partial": true,
-      "found": 1
+      "found": 0
     },
     "E": {
       "checked": true,
       "partial": true,
-      "found": 0
+      "found": 1
     },
     "F": {
       "checked": true,
       "partial": true,
-      "found": 4
+      "found": 0
     },
     "G": {
       "checked": true,
@@ -37,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "New sources today: Eventopia (Tamil Nadu), TheTN.ai hackathon list, college sites. Hackathon Radar, DevFest Coimbatore's site and crimeathon.in couldn't be loaded. Kerala platforms showed no new joinable events. Unstop and Devnovate pages still don't load from the checker."
+  "notes": "Several sources refused direct loading today (Eventopia's Tamil Nadu page, TheTN.ai, Knowafest hackathons), so they were covered through search results instead and may have missed new listings. Kerala Eventopia page: nothing new. dev.events Bengaluru list is mostly global online hackathons (not added). DevFest Coimbatore registration still not open."
 }
