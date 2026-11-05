@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "sections": {
     "A": {
       "checked": true,
@@ -10,7 +10,7 @@
     "B": {
       "checked": true,
       "partial": true,
-      "found": 1
+      "found": 2
     },
     "C": {
       "checked": true,
@@ -23,9 +23,8 @@
       "found": 0
     },
     "E": {
-      "checked": true,
-      "partial": true,
-      "found": 1
+      "checked": false,
+      "found": 0
     },
     "F": {
       "checked": true,
@@ -38,5 +37,5 @@
       "found": 0
     }
   },
-  "notes": "Several sources refused direct loading today (Eventopia's Tamil Nadu page, TheTN.ai, Knowafest hackathons), so they were covered through search results instead and may have missed new listings. Kerala Eventopia page: nothing new. dev.events Bengaluru list is mostly global online hackathons (not added). DevFest Coimbatore registration still not open."
+  "notes": "Eventopia (Tamil Nadu), TheTN.ai and Knowafest's Tamil Nadu page loaded today: no new events you can join beyond those already listed. Kanyakumari colleges (St. Xavier's hackathon page) show nothing upcoming. GDG Trivandrum and GDG Chennai pages wouldn't load. Company/community events (E) not checked today. Innovibe (Sathyabama, online) skipped because its dates aren't published."
 }
