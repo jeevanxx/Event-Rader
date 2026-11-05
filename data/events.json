@@ -1,6 +1,6 @@
 {
   "lastRun": "5 Nov 2026",
-  "added": 2,
+  "added": 64,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -838,6 +838,1834 @@
       "fitReason": "A weekday afternoon event aimed at DevRev's own users. Not worth a trip from Nagercoil.",
       "isNew": true,
       "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1795122",
+      "title": "Coding Track - NITS Hacks 9.0",
+      "kind": "hackathon",
+      "end": "2026-11-11",
+      "deadline": "2026-11-09",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "National Institute of Technology (NIT), Silchar",
+      "cost": "Free",
+      "team": "2–3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹1,10,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/coding-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1795122",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/coding-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1795122"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1794955",
+      "title": "Software Track – NITS Hacks 9.0",
+      "kind": "hackathon",
+      "end": "2026-11-09",
+      "deadline": "2026-11-09",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "National Institute of Technology (NIT), Silchar",
+      "cost": "Free",
+      "team": "2–5",
+      "eligibility": "Engineering Students, Undergraduate",
+      "url": "https://unstop.com/hackathons/software-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1794955",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/software-track-nits-hacks-90-national-institute-of-technology-nit-silchar-1794955"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1795047",
+      "title": "Db2Hack 2026 | Build AI Applications on IBM Db2",
+      "kind": "hackathon",
+      "end": "2026-11-10",
+      "deadline": "2026-11-08",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "GL Bajaj Group of Institutions, Mathura, Uttar Pradesh",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/db2hack-2026-build-ai-applications-on-ibm-db2-gl-bajaj-group-of-institutions-mathura-uttar-pradesh-1795047"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1794522",
+      "title": "CodeElitePune - Hack With Pune",
+      "kind": "hackathon",
+      "end": "2026-12-17",
+      "deadline": "2026-12-03",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "HackWithPune",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "All",
+      "url": "https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/codeelitepune-hack-with-pune-hackwithpune-1794522"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1793341",
+      "title": "DoomForge",
+      "kind": "hackathon",
+      "end": "2026-12-06",
+      "deadline": "2026-12-06",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Vit Chennai, Kelambakkam - Vandalur Rd, Chennai, Keelakottiyur, Tamil Nadu 600127",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Vellore Institute of Technology (VIT), Chennai",
+      "cost": "Free",
+      "team": "1–3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/doomforge-vellore-institute-of-technology-vit-chennai-1793341",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/doomforge-vellore-institute-of-technology-vit-chennai-1793341"
+        }
+      ],
+      "fit": 57,
+      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1791573",
+      "title": "MassX CTF 2026",
+      "kind": "hackathon",
+      "end": "2026-11-14",
+      "deadline": "2026-11-14",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Panipat Institute of Engineering & Technology (PIET), Panipat",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1790680",
+      "title": "National Online Hackathon 2026",
+      "kind": "hackathon",
+      "end": "2026-12-01",
+      "deadline": "2026-12-01",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "EDXcellence LLP",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1792826",
+      "title": "CodeCrafters India 2026 - National Hackathon",
+      "kind": "hackathon",
+      "end": "2026-12-14",
+      "deadline": "2026-12-02",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "HackWithPune",
+      "cost": "Free",
+      "team": "1–6",
+      "eligibility": "All",
+      "url": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1793392",
+      "title": "404 Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-30",
+      "deadline": "2026-11-27",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "haX baby",
+      "cost": "Free",
+      "team": "1–3",
+      "eligibility": "All",
+      "prizes": "₹85,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1792269",
+      "title": "Agentic AI Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-15",
+      "deadline": "2026-11-14",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Product Space",
+      "cost": "Free",
+      "team": "1–2",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹1,00,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1793030",
+      "title": "Hack Paradise",
+      "kind": "hackathon",
+      "end": "2026-11-17",
+      "deadline": "2026-11-17",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
+      "cost": "Free",
+      "team": "3–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate",
+      "prizes": "₹25,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1791313",
+      "title": "CodeAstra India 2026 – National Hackathon",
+      "kind": "hackathon",
+      "end": "2026-12-14",
+      "deadline": "2026-12-02",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "WeCodeCoders",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/codeastra-india-2026-national-hackathon-wecodecoders-1791313",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/codeastra-india-2026-national-hackathon-wecodecoders-1791313"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1785416",
+      "title": "Madlab - The Ultimate Innovation Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-18",
+      "deadline": "2026-11-13",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Shri Chinai College of Commerce & Economics",
+      "cost": "Free",
+      "team": "1–5",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1782683",
+      "title": "CTF - Capture The Flag",
+      "kind": "hackathon",
+      "end": "2027-01-06",
+      "deadline": "2026-12-01",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Free",
+      "team": "1–2",
+      "eligibility": "All",
+      "prizes": "₹70,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/ctf-capture-the-flag-iit-madras-1782683",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/ctf-capture-the-flag-iit-madras-1782683"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1783515",
+      "title": "Code Conquest",
+      "kind": "hackathon",
+      "end": "2027-01-04",
+      "deadline": "2026-12-10",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "IIT Madras",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Free",
+      "team": "2–3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹50,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/rovermaggedon-iit-madras-1783515",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/rovermaggedon-iit-madras-1783515"
+        }
+      ],
+      "fit": 57,
+      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1783838",
+      "title": "Innovate - Online Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-14",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Aveeranex (OPC) Private Limited",
+      "cost": "Free",
+      "team": "1–2",
+      "eligibility": "All",
+      "url": "https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1784666",
+      "title": "Hackday",
+      "kind": "hackathon",
+      "end": "2026-11-15",
+      "deadline": "2026-11-13",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "TrishulX",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "All",
+      "url": "https://unstop.com/hackathons/hackday-trishulx-1784666",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/hackday-trishulx-1784666"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771951",
+      "title": "Competitive Programming",
+      "kind": "hackathon",
+      "end": "2026-11-20",
+      "deadline": "2026-11-15",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Acharya Institute of Technology",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Acharya Institute of Technology",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹2,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/competitive-programming-acharya-institute-of-technology-1771951",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/competitive-programming-acharya-institute-of-technology-1771951"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1782949",
+      "title": "Reverse Coding X",
+      "kind": "hackathon",
+      "end": "2026-12-12",
+      "deadline": "2026-12-12",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "IIT MADRAS",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/reverse-coding-x-iit-madras-1782949",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/reverse-coding-x-iit-madras-1782949"
+        }
+      ],
+      "fit": 57,
+      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1780955",
+      "title": "Vidyutspanda - Hardware Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-20",
+      "deadline": "2026-11-11",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Dayananda Sagar University (DSU) - Main Campus: Devarakaggalahalli, Harohalli, Kanakapura Road, Ramanagara District, Bengaluru, Karnataka 562112",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Dayananda Sagar University, Bengaluru, Karnataka",
+      "cost": "Paid (amount on the listing)",
+      "team": "3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate",
+      "url": "https://unstop.com/hackathons/vidyutspanda-hardware-hackathon-dayananda-sagar-university-bengaluru-karnataka-1780955",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/vidyutspanda-hardware-hackathon-dayananda-sagar-university-bengaluru-karnataka-1780955"
+        }
+      ],
+      "fit": 41,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1781449",
+      "title": "NeuroHack",
+      "kind": "hackathon",
+      "end": "2027-01-06",
+      "deadline": "2026-12-04",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "IIT Madras",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/neurohack-2027-iit-madras-1781449",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/neurohack-2027-iit-madras-1781449"
+        }
+      ],
+      "fit": 57,
+      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771798",
+      "title": "Catalyst - Solo AI Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-15",
+      "deadline": "2026-11-14",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Makers Need More (MnM)",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "prizes": "₹15,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1777504",
+      "title": "Agents that act. Systems that answer. | Free Virtual Agentic-AI Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-28",
+      "deadline": "2026-11-28",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Studentchakra",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/hackathons/agents-that-act-systems-that-answer-studentchakra-1777504",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/agents-that-act-systems-that-answer-studentchakra-1777504"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1773675",
+      "title": "StarForge : 24-Hour National Level Hackathon",
+      "kind": "hackathon",
+      "end": "2026-12-13",
+      "deadline": "2026-11-20",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "BMS Institute of Technology and Management",
+      "address": "Bangalore, Karnataka",
+      "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "cost": "Free",
+      "team": "3–4",
+      "eligibility": "All",
+      "prizes": "₹65,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/starforge-24-hour-hackathon-bms-institute-of-technology-and-management-bmsitm-bangalore-1773675",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/starforge-24-hour-hackathon-bms-institute-of-technology-and-management-bmsitm-bangalore-1773675"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1773229",
+      "title": "Out of Bounds - Web Game Development Hackathon (Paid)",
+      "kind": "hackathon",
+      "end": "2026-11-29",
+      "deadline": "2026-11-10",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Code Variant",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "All",
+      "prizes": "₹11,500 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1774417",
+      "title": "AI BuildFest 2026",
+      "kind": "hackathon",
+      "end": "2026-12-12",
+      "deadline": "2026-12-08",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Frontend Arena",
+      "cost": "Free",
+      "team": "2–4",
+      "eligibility": "All",
+      "prizes": "₹28,500 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/ai-buildfest-2026-frontend-arena-1774417"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1773211",
+      "title": "Build with Agora - BLR",
+      "kind": "hackathon",
+      "end": "2026-11-21",
+      "deadline": "2026-11-16",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Bangalore",
+      "address": "Bangalore, Karnataka",
+      "organizer": "KNOTiC",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "prizes": "₹2,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/build-with-agora-blr-knotic-1773211",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/build-with-agora-blr-knotic-1773211"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771966",
+      "title": "Ideathon",
+      "kind": "hackathon",
+      "end": "2026-11-10",
+      "deadline": "2026-11-10",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Acharya Institute of Technology",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Acharya Institute of Technology",
+      "cost": "Free",
+      "team": "2–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹6,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/ideathon-acharya-institute-of-technology-1771966",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/ideathon-acharya-institute-of-technology-1771966"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771961",
+      "title": "Prompt to Product",
+      "kind": "hackathon",
+      "end": "2026-11-19",
+      "deadline": "2026-11-16",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Acharya Institute of Technology",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Acharya Institute of Technology",
+      "cost": "Free",
+      "team": "2–3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹6,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/prompt-to-product-acharya-institute-of-technology-1771961",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/prompt-to-product-acharya-institute-of-technology-1771961"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771958",
+      "title": "Capture The Flag",
+      "kind": "hackathon",
+      "end": "2026-11-19",
+      "deadline": "2026-11-16",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Acharya Institute of Technology",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Acharya Institute of Technology",
+      "cost": "Free",
+      "team": "2–3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹6,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/capture-the-flag-acharya-institute-of-technology-1771958",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/capture-the-flag-acharya-institute-of-technology-1771958"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771496",
+      "title": "The Big Hack 2.0",
+      "kind": "hackathon",
+      "end": "2026-11-21",
+      "deadline": "2026-11-10",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Acharya Institute of Technology",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Acharya Institute of Technology",
+      "cost": "Free",
+      "team": "2–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹50,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/the-big-hack-20-acharya-institute-of-technology-1771496",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/the-big-hack-20-acharya-institute-of-technology-1771496"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1768100",
+      "title": "Ooty Hacks",
+      "kind": "hackathon",
+      "end": "2026-12-17",
+      "deadline": "2026-12-17",
+      "city": "Ooty",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "To be announced Later",
+      "address": "Ooty, Tamil Nadu",
+      "organizer": "Hackhere",
+      "cost": "Paid (amount on the listing)",
+      "team": "1–4",
+      "eligibility": "All",
+      "url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/ooty-hacks-hackhere-1768100"
+        }
+      ],
+      "fit": 45,
+      "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1769121",
+      "title": "Homingo Hack Days: Online AI Hackathon",
+      "kind": "hackathon",
+      "end": "2026-12-06",
+      "deadline": "2026-11-15",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Homingo",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "All",
+      "prizes": "₹5,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/homingo-hack-days-online-ai-hackathon-homingo-1769121",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/homingo-hack-days-online-ai-hackathon-homingo-1769121"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1765465",
+      "title": "The DevForge - Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-27",
+      "deadline": "2026-11-12",
+      "city": "Bangalore Urban",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Wipro Limited - Gate 6 (Scaler New Campus) Doddathoguru",
+      "address": "Bangalore Urban, Karnataka",
+      "organizer": "Scaler School of Technology, Bengaluru, Karnataka",
+      "cost": "Free",
+      "team": "2–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹50,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/the-devforge-hackathon-scaler-school-of-technology-bengaluru-karnataka-1765465",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/the-devforge-hackathon-scaler-school-of-technology-bengaluru-karnataka-1765465"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1765493",
+      "title": "AlgoSSTrike",
+      "kind": "hackathon",
+      "end": "2026-11-28",
+      "deadline": "2026-11-14",
+      "city": "Bangalore Urban",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Wipro Limited - Gate 6 (Scaler New Campus) Doddathoguru",
+      "address": "Bangalore Urban, Karnataka",
+      "organizer": "Scaler School of Technology, Bengaluru, Karnataka",
+      "cost": "Free",
+      "team": "3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹20,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/algosstrike-scaler-school-of-technology-bengaluru-karnataka-1765493",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/algosstrike-scaler-school-of-technology-bengaluru-karnataka-1765493"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1762519",
+      "title": "Anna AI OS Founding Builder Challenge 2026",
+      "kind": "hackathon",
+      "end": "2026-11-30",
+      "deadline": "2026-11-30",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Talentsec Technology (Hong Kong) Limited",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "prizes": "₹80,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/hackathons/anna-ai-os-founding-builder-challenge-2026-talentsec-technology-hong-kong-limited-1762519",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/anna-ai-os-founding-builder-challenge-2026-talentsec-technology-hong-kong-limited-1762519"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1745979",
+      "title": "NASA Space Apps Challenge 2026",
+      "kind": "hackathon",
+      "end": "2026-11-15",
+      "deadline": "2026-11-15",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "National Institute of Technology (NIT), Raipur",
+      "cost": "Free",
+      "team": "1–6",
+      "eligibility": "All",
+      "url": "https://unstop.com/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1794999",
+      "title": "IIT Bombay's Techfest Artificial Intelligence Workshop",
+      "kind": "workshop",
+      "end": "2026-11-18",
+      "deadline": "2026-11-18",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Indian Institute of Technology (IIT), Bombay",
+      "cost": "Free",
+      "team": "1–15",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/workshops-webinars/iit-bombays-techfest-artificial-intelligence-workshop-techfest-iitbombay-iit-bombay-1794999",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/iit-bombays-techfest-artificial-intelligence-workshop-techfest-iitbombay-iit-bombay-1794999"
+        }
+      ],
+      "fit": 62,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1791395",
+      "title": "Advanced Computing for The Future: Supercomputing, Artificial Intelligence and Data Science",
+      "kind": "workshop",
+      "end": "2026-12-25",
+      "deadline": "2026-12-25",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Maharaja Institute of Technology (MIT), Mysore",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/advanced-computing-for-the-future-supercomputing-artificial-intelligence-and-data-science-httpsmitmys-1791395",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/advanced-computing-for-the-future-supercomputing-artificial-intelligence-and-data-science-httpsmitmys-1791395"
+        }
+      ],
+      "fit": 62,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1792767",
+      "title": "Beyond the AI Hype: The Changing Landscape of Full Stack Development",
+      "kind": "workshop",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "TechBairn Research",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/beyond-the-ai-hype-the-changing-landscape-of-full-stack-development-techbairn-research-1792767",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/beyond-the-ai-hype-the-changing-landscape-of-full-stack-development-techbairn-research-1792767"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1787584",
+      "title": "Tech Careers in the Age of AI: What to Learn, How to Prepare & Get Hired",
+      "kind": "workshop",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "TechBairn",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/workshops-webinars/tech-careers-in-the-age-of-ai-what-to-learn-how-to-prepare-get-hired-techbairn-1787584",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/tech-careers-in-the-age-of-ai-what-to-learn-how-to-prepare-get-hired-techbairn-1787584"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1787580",
+      "title": "Is Full Stack Development Still in Demand? Exploring the Future of Software Careers",
+      "kind": "workshop",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "TechBairn Research",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/is-full-stack-development-still-in-demand-exploring-the-future-of-software-careers-techbairn-research-1787580",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/is-full-stack-development-still-in-demand-exploring-the-future-of-software-careers-techbairn-research-1787580"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1784648",
+      "title": "Build Your First AI Agent",
+      "kind": "workshop",
+      "end": "2026-11-13",
+      "deadline": "2026-11-13",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Pregrad",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1785071",
+      "title": "AI in Modern Tech: Understanding the Bigger Picture",
+      "kind": "workshop",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "TechBairn",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/ai-in-modern-tech-understanding-the-bigger-picture-techbairn-1785071",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/ai-in-modern-tech-understanding-the-bigger-picture-techbairn-1785071"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1764958",
+      "title": "Next Gen Full Stack Development Workshop",
+      "kind": "workshop",
+      "end": "2027-01-03",
+      "deadline": "2027-01-02",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "IIT Madras",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Paid (amount on the listing)",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958"
+        }
+      ],
+      "fit": 50,
+      "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1764968",
+      "title": "AI Voice Agents Workshop",
+      "kind": "workshop",
+      "end": "2027-01-06",
+      "deadline": "2027-01-05",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Indian institute of technology Madras",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Paid (amount on the listing)",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/ai-voice-agents-workshop-iit-madras-1764968",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/ai-voice-agents-workshop-iit-madras-1764968"
+        }
+      ],
+      "fit": 50,
+      "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1773657",
+      "title": "IoT and Arduino Workshop",
+      "kind": "workshop",
+      "end": "2027-01-06",
+      "deadline": "2027-01-04",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Indian Institute of technology Madras",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Paid (amount on the listing)",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/iot-and-arduino-workshop-iit-madras-1773657",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/iot-and-arduino-workshop-iit-madras-1773657"
+        }
+      ],
+      "fit": 42,
+      "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1764985",
+      "title": "IoT demonstration using Raspberry Pi",
+      "kind": "workshop",
+      "end": "2027-01-04",
+      "deadline": "2027-01-03",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "IIT Madras",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Paid (amount on the listing)",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/iot-demonstration-using-raspberry-pi-iit-madras-1764985",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/iot-demonstration-using-raspberry-pi-iit-madras-1764985"
+        }
+      ],
+      "fit": 42,
+      "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1764953",
+      "title": "Generative AI workshop",
+      "kind": "workshop",
+      "end": "2027-01-03",
+      "deadline": "2027-01-02",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "IIT Madras",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "cost": "Paid (amount on the listing)",
+      "team": "1",
+      "eligibility": "All",
+      "url": "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953"
+        }
+      ],
+      "fit": 50,
+      "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771692",
+      "title": "Workshop| Influence and Storytelling in the AI Era: Day 2",
+      "kind": "workshop",
+      "end": "2026-11-14",
+      "deadline": "2026-11-10",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "Indian Institute Of Management (IIM) , Bangalore",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Indian Institute of Management (IIM), Bangalore",
+      "cost": "Paid (amount on the listing)",
+      "team": "1",
+      "eligibility": "Experienced Professionals, Engineering Students, Postgraduate, Undergraduate, Fresher, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/workshops-webinars/day-1-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771692",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/day-1-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771692"
+        }
+      ],
+      "fit": 46,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1771956",
+      "title": "AI Agents masterclass",
+      "kind": "workshop",
+      "end": "2026-11-16",
+      "deadline": "2026-11-16",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Acharya Institute of Technology",
+      "cost": "Free",
+      "team": "1–2",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "url": "https://unstop.com/workshops-webinars/ai-agents-masterclass-acharya-institute-of-technology-1771956",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/ai-agents-masterclass-acharya-institute-of-technology-1771956"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1772540",
+      "title": "AI Problem-Solving Workshop: Turn Real Problems into Practical Solutions",
+      "kind": "workshop",
+      "end": "2027-01-03",
+      "deadline": "2026-11-27",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "UPSC ZONE AI",
+      "cost": "Free",
+      "team": "1–10",
+      "eligibility": "All",
+      "url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/conferences/give-a-solution-to-a-problem-upsc-zone-ai-1772540"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1786606",
+      "title": "BESCOM POWER HACK 2026: \"EM\" Powering Tomorrow",
+      "kind": "hackathon",
+      "end": "2026-11-18",
+      "deadline": "2026-11-05",
+      "city": "Bangalore Urban",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "PRESIDENCY UNIVERSITY",
+      "address": "Bangalore Urban, Karnataka",
+      "organizer": "Presidency University (PU), Bangalore",
+      "cost": "Free",
+      "team": "2–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹50,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/competitions/power-hack-2026-em-powering-tomorrow-presidency-university-pu-bangalore-1786606",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/competitions/power-hack-2026-em-powering-tomorrow-presidency-university-pu-bangalore-1786606"
+        }
+      ],
+      "fit": 45,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1775199",
+      "title": "Code Battle",
+      "kind": "competition",
+      "end": "2026-12-09",
+      "deadline": "2026-12-09",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "RV Institute Of Technology and Management, Bengaluru",
+      "address": "Bangalore, Karnataka",
+      "organizer": "RV Institute of Technology and Management, Karnataka",
+      "cost": "Paid (amount on the listing)",
+      "team": "1–2",
+      "eligibility": "All",
+      "prizes": "₹3,500 in cash prizes (total listed)",
+      "url": "https://unstop.com/competitions/code-battle-robofiesta-rv-institute-of-technology-and-management-karnataka-1775199",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/competitions/code-battle-robofiesta-rv-institute-of-technology-and-management-karnataka-1775199"
+        }
+      ],
+      "fit": 38,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-unstop-1763541",
+      "title": "StratHack",
+      "kind": "hackathon",
+      "end": "2027-02-15",
+      "deadline": "2026-12-19",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Loyola College",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Loyola College (LC), Chennai",
+      "cost": "Free",
+      "team": "2–3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹50,000 in cash prizes (total listed)",
+      "url": "https://unstop.com/competitions/strathack-strategia27-the-annual-business-strategy-fest-of-loyola-college-loyola-college-lc-chennai-1763541",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/competitions/strathack-strategia27-the-annual-business-strategy-fest-of-loyola-college-loyola-college-lc-chennai-1763541"
+        }
+      ],
+      "fit": 57,
+      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-eventopia-axidots-ai-innovation-challenge-2026-2026-08-09",
+      "title": "Axidots AI Innovation Challenge 2026",
+      "kind": "competition",
+      "start": "2026-08-09",
+      "end": "2026-12-14",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "cost": "Free",
+      "summary": "Axidots AI Innovation Challenge 2026 is a national-level innovation contest inviting students, developers, and young innovators to build AI-powered solutions for real-world problems.",
+      "url": "https://eventopia.in/event/axidots-ai-innovation-challenge-2026",
+      "sources": [
+        {
+          "title": "Eventopia",
+          "url": "https://eventopia.in/event/axidots-ai-innovation-challenge-2026"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-eventopia-5-days-cubesat-workshop-2026-10-10",
+      "title": "5 DAYS CUBESAT WORKSHOP",
+      "kind": "workshop",
+      "start": "2026-10-10",
+      "end": "2027-01-11",
+      "city": "Coimbatore",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Selected college only",
+      "address": "Selected college only, Coimbatore, Tamil Nadu",
+      "cost": "₹1,599",
+      "summary": "🚀 5-Day Hands-On CubeSat Build & High-Altitude Telemetry Workshop AGNIVA AEROSPACE presents a 5-Day practical, team-based workshop designed to give engineering students real-world exposure to CubeSat technology, sensors, embedded systems, telemetry and high-altitude flight operations.",
+      "url": "https://eventopia.in/event/5-days-cubesat-workshop-2026-10-11-9sp",
+      "sources": [
+        {
+          "title": "Eventopia",
+          "url": "https://eventopia.in/event/5-days-cubesat-workshop-2026-10-11-9sp"
+        }
+      ],
+      "fit": 42,
+      "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-eventopia-sdg-hackathon-2026-2026-11-04",
+      "title": "SDG Hackathon 2026",
+      "kind": "hackathon",
+      "start": "2026-11-04",
+      "end": "2026-12-02",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "TP Ganesan Mini Hall - 2",
+      "address": "TP Ganesan Mini Hall - 2, Chennai, Tamil Nadu",
+      "cost": "₹500",
+      "summary": "SDG Hackathon 2026 – Innovating for a Sustainable Future is an innovation driven hackathon aims to inspire students, young innovators, and aspiring technology leaders to develop creative, technology-driven solutions to real-world challenges aligned with the United Nations Sustainable Development…",
+      "url": "https://eventopia.in/event/sdg-hackathon-2026-2026-11-04-nfd",
+      "sources": [
+        {
+          "title": "Eventopia",
+          "url": "https://eventopia.in/event/sdg-hackathon-2026-2026-11-04-nfd"
+        }
+      ],
+      "fit": 45,
+      "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-eventopia-ignite-2026-2026-10-15",
+      "title": "IGNITE 2026",
+      "kind": "competition",
+      "start": "2026-10-15",
+      "end": "2026-11-20",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "VIJAYA VITTALA INSTITUTE OF TECHNOLOGY",
+      "address": "VIJAYA VITTALA INSTITUTE OF TECHNOLOGY, Bengaluru, Karnataka",
+      "cost": "₹149",
+      "summary": "We organize student-focused innovation challenges, hackathons, technical events, and industry-oriented product prototyping programs for engineering students.",
+      "url": "https://eventopia.in/event/ignite-2026-2026-10-16-ilv",
+      "sources": [
+        {
+          "title": "Eventopia",
+          "url": "https://eventopia.in/event/ignite-2026-2026-10-16-ilv"
+        }
+      ],
+      "fit": 38,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-eventopia-ai-awareness-generative-ai-webinar-2026-2026-11-10",
+      "title": "AI Awareness & Generative AI Webinar 2026",
+      "kind": "competition",
+      "start": "2026-11-10",
+      "end": "2026-11-13",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "cost": "Free",
+      "summary": "Artificial Intelligence is transforming the way we learn, work, and build our careers. SkillVedanth presents an interactive AI Awareness Webinar designed to help college students understand the latest developments in Artificial Intelligence, Generative AI, and emerging technologies.",
+      "url": "https://eventopia.in/event/ai-awareness-generative-ai-webinar-2026-2026-11-11-nwn",
+      "sources": [
+        {
+          "title": "Eventopia",
+          "url": "https://eventopia.in/event/ai-awareness-generative-ai-webinar-2026-2026-11-11-nwn"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-eventopia-rack-it-up-2026-48-hour-online-hackathon-by-rack-em-2026-12-10",
+      "title": "Rack It Up 2026: 48-Hour Online Hackathon by Rack'Em",
+      "kind": "hackathon",
+      "start": "2026-12-10",
+      "end": "2026-12-13",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "cost": "Free",
+      "summary": "Rack It Up 2026 is a free, national 48-hour online hackathon by Rack'Em, the cloud hosting venture of Karma Enterprises, Bengaluru. Most hackathons end with slides and a demo video.",
+      "url": "https://eventopia.in/event/rack-it-up-2026-48hour-online-hackathon-by-rackem-2026-12-11-vfi",
+      "sources": [
+        {
+          "title": "Eventopia",
+          "url": "https://eventopia.in/event/rack-it-up-2026-48hour-online-hackathon-by-rackem-2026-12-11-vfi"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-india-hackathons-agentversity-ai-hackathon-build-the-agentic-future-2026-11-21",
+      "title": "Agentversity AI Hackathon: Build the Agentic Future",
+      "kind": "hackathon",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "address": "Bengaluru, Karnataka, India, Bengaluru, Karnataka",
+      "organizer": "AgentVersity",
+      "cost": "Free",
+      "summary": "\"Agentversity AI Hackathon: Build the Agentic Future\" is a one-day, in-person AI Hackathon in Bengaluru for developers and technical professionals who want to build, experiment and ship an AI-powered project or intelligent agent in a focused sprint.",
+      "url": "https://indiahackathons.com/events/agentversity-ai-hackathon-build-the-agentic-future",
+      "sources": [
+        {
+          "title": "India Hackathons",
+          "url": "https://indiahackathons.com/events/agentversity-ai-hackathon-build-the-agentic-future"
+        }
+      ],
+      "fit": 61,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-india-hackathons-beyond-9to5-buildathon-bengaluru-21-nov-2026-2026-11-21",
+      "title": "BEYOND 9TO5 — BUILDATHON| BENGALURU | 21 Nov 2026",
+      "kind": "hackathon",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "address": "Bengaluru, Karnataka, India, Bengaluru, Karnataka",
+      "organizer": "EtriqAI",
+      "cost": "Free",
+      "summary": "BEYOND 9TO5 — Buildathon is an 8-hour offline buildathon in Bengaluru on 21 November 2026 for working professionals who want to move beyond their daily roles. Participants can build solo or in teams of up to four, with mentorship, expert judging and project showcases.",
+      "url": "https://indiahackathons.com/events/beyond-9to5-buildathon-bengaluru-21-nov-2026",
+      "sources": [
+        {
+          "title": "India Hackathons",
+          "url": "https://indiahackathons.com/events/beyond-9to5-buildathon-bengaluru-21-nov-2026"
+        }
+      ],
+      "fit": 53,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
+    },
+    {
+      "id": "auto-india-hackathons-ai-vibecoding-hackathon-2026-2027-02-21",
+      "title": "AI Vibecoding Hackathon 2026",
+      "kind": "hackathon",
+      "start": "2027-02-21",
+      "end": "2027-02-22",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "address": "Bengaluru, IN, Bengaluru, Karnataka",
+      "organizer": "Mahboob",
+      "cost": "Free",
+      "summary": "AI Vibecoding Hackathon 2026 is a two-day, free AI Hackathon in Bengaluru hosted by Mahboob, running February 21–22, 2027. The fast-paced session is designed to help participants get unstuck, build momentum and turn rough concepts into something more real, with venue details to be shared later.",
+      "url": "https://indiahackathons.com/events/ai-vibecoding-hackathon-2026",
+      "sources": [
+        {
+          "title": "India Hackathons",
+          "url": "https://indiahackathons.com/events/ai-vibecoding-hackathon-2026"
+        }
+      ],
+      "fit": 61,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "5 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-05"
     }
-  ]
+  ],
+  "lastAutoRun": "5 Nov 2026"
 }

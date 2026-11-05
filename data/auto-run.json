@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-05",
+  "sources": {
+    "Unstop": {
+      "ok": true,
+      "found": 139
+    },
+    "Eventopia": {
+      "ok": true,
+      "found": 11
+    },
+    "India Hackathons": {
+      "ok": true,
+      "found": 5
+    },
+    "Joy University": {
+      "ok": true,
+      "found": 420
+    }
+  },
+  "added": 64,
+  "refreshed": 0,
+  "removed": 0
+}
