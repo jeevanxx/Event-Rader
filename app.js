@@ -58,7 +58,11 @@
   }
   function stub(e) {
     const s = parse(e.start);
-    if (!s) return `<div class="stub tba"><span class="mo">Date</span><span class="d">TBA</span></div>`;
+    if (!s) {
+      const en0 = parse(e.end);
+      if (en0) return `<div class="stub"><span class="mo">Ends ${MONTHS[en0.getMonth()]}</span><span class="d">${en0.getDate()}</span></div>`;
+      return `<div class="stub tba"><span class="mo">Date</span><span class="d">TBA</span></div>`;
+    }
     const en = parse(e.end);
     const range = en && en - s > 0 ? `<span class="to">to ${en.getDate()} ${MONTHS[en.getMonth()]}</span>` : "";
     return `<div class="stub"><span class="mo">${MONTHS[s.getMonth()]} ${s.getFullYear()}</span><span class="d">${s.getDate()}</span>${range}</div>`;
@@ -84,6 +88,8 @@
           <h2 class="title">${esc(e.title)}</h2>
           <span class="tag">${esc(KIND[e.kind] || e.kind || "Event")}</span>
           ${e.isNew && st === "new" ? '<span class="tag new">New</span>' : ""}
+          ${e.joy ? '<span class="tag joy">Joy University</span>' : ""}
+          ${e.auto ? '<span class="tag auto" title="Found automatically from a listing site; not reviewed by a person">Auto-found</span>' : '<span class="tag checked" title="Checked against the official page">Checked</span>'}
         </div>
         <div class="place">
           <span class="v">${esc(e.venue || e.city || REGION[e.region] || "Venue not announced")}${e.mode ? ` · ${esc(e.mode)}` : ""}</span>
@@ -108,9 +114,10 @@
   function renderPicks() {
     const open = events.filter((e) => !isPast(e) && statusOf(e) !== "skipped" && typeof e.fit === "number" && !(e.deadline && days(e.deadline) < 0));
     open.sort((a, b) => b.fit - a.fit);
-    const top = open.slice(0, 3);
+    // Reviewed events first; auto-found ones only fill empty spots.
+    const top = [...open.filter((e) => !e.auto), ...open.filter((e) => e.auto)].slice(0, 3);
     $("picks").hidden = !top.length;
-    $("pickList").innerHTML = top.map((e) => `<li><b>${esc(e.title)}</b> · ${e.start ? fmt(e.start) : "date TBA"} · ${esc(e.city || "")}<span class="why">${esc(e.fitReason || "")}</span></li>`).join("");
+    $("pickList").innerHTML = top.map((e) => `<li><b>${esc(e.title)}</b> · ${e.start ? fmt(e.start) : e.end ? "ends " + fmt(e.end) : "date TBA"} · ${esc(e.city || "")}<span class="why">${esc(e.fitReason || "")}</span></li>`).join("");
   }
   const sortKey = (e) => { const d = parse(e.start); return d ? d.getTime() : 8.64e15; };
 
@@ -118,13 +125,16 @@
     document.querySelectorAll("#views .chip").forEach((b) => b.setAttribute("aria-pressed", b.dataset.view === view));
     document.querySelectorAll("#regions .chip").forEach((b) => b.setAttribute("aria-pressed", b.dataset.region === region));
     renderPicks();
-    const inRegion = events.filter((e) => region === "all" || e.region === region);
+    const inRegion = events.filter((e) => region === "all" || (region === "joy" ? e.joy : e.region === region));
     const counts = { upcoming: 0, interested: 0, registered: 0, skipped: 0, past: 0 };
     inRegion.forEach((e) => { const b = bucket(e); counts[b]++; if (b === "interested" || b === "registered") counts.upcoming++; });
     Object.keys(counts).forEach((k) => { $("n-" + k).textContent = counts[k] || ""; });
     const list = inRegion.filter(inView).sort((a, b) => view === "past" ? sortKey(b) - sortKey(a) : sortKey(a) - sortKey(b));
     if (!list.length) {
-      $("list").innerHTML = `<div class="empty"><strong>${events.length ? "Nothing here for this filter yet." : "No events yet."}</strong>The daily check adds new hackathons, workshops and meetups as it finds them.</div>`;
+      const msg = region === "joy" && view === "upcoming"
+        ? "<strong>No Joy University events open for registration right now.</strong>Campus updates are listed above; new Joy events appear here as soon as they're posted."
+        : `<strong>${events.length ? "Nothing here for this filter yet." : "No events yet."}</strong>The daily check adds new hackathons, workshops and meetups as it finds them.`;
+      $("list").innerHTML = `<div class="empty">${msg}</div>`;
       return;
     }
     $("list").innerHTML = list.map(card).join("");
@@ -142,6 +152,20 @@
     }
   });
 
+  async function loadJoy() {
+    try {
+      const j = await (await fetch("data/joy.json?t=" + Date.now(), { cache: "no-store" })).json();
+      const items = (j.items || []).slice(0, 12);
+      if (!items.length) return;
+      $("joyFeed").hidden = false;
+      $("joyList").innerHTML = items.map((x) => {
+        const u = safeUrl(x.url);
+        return `<li><span class="jd">${x.date ? fmt(x.date) : ""}</span>${u ? `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(x.title)}</a>` : esc(x.title)}</li>`;
+      }).join("");
+      $("joyNote").textContent = `From Joy University's events page · updated ${j.updated || ""}. Most of these are reports on events that already happened; anything you can register for appears in the list below.`;
+    } catch (_) {}
+  }
+
   async function load() {
     try {
       const res = await fetch("data/events.json?t=" + Date.now(), { cache: "no-store" });
@@ -149,6 +173,7 @@
       const data = await res.json();
       events = Array.isArray(data.events) ? data.events : [];
       let line = data.lastRun ? `Last checked ${data.lastRun}${typeof data.added === "number" ? ` · ${data.added} new` : ""}` : "";
+      if (data.lastAutoRun) line += ` · auto-check ${data.lastAutoRun}`;
       try {
         const cov = await (await fetch("data/coverage.json?t=" + Date.now(), { cache: "no-store" })).json();
         const secs = Object.values(cov.sections || {});
@@ -277,6 +302,7 @@
   // ---- Boot ---------------------------------------------------------------
   render();
   load();
+  loadJoy();
   window.addEventListener("online", load);
   document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") load(); });
   if ("serviceWorker" in navigator) {

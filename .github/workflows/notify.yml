@@ -8,7 +8,7 @@ permissions:
   issues: write
   contents: read
 concurrency:
-  group: notify
+  group: data-write
   cancel-in-progress: false
 jobs:
   notify:

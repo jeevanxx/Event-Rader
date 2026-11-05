@@ -1,0 +1,48 @@
+name: Daily automatic event check
+# Runs every day at 6:15 AM IST on GitHub's free runners. No Claude needed.
+on:
+  schedule:
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Find events
+        run: |
+          echo "BEFORE_SHA=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
+          node scripts/auto-scout.mjs
+      - name: Validate and save
+        id: save
+        run: |
+          python3 -m json.tool data/events.json > /dev/null
+          if git diff --quiet; then echo "changed=false" >> "$GITHUB_OUTPUT"; exit 0; fi
+          git config user.name "event-radar-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Automatic event check $(TZ=Asia/Kolkata date +'%-d %b %Y')"
+          git pull --rebase origin main
+          git push origin main
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+      # Pushes made with GITHUB_TOKEN don't trigger other workflows, so send the alert here.
+      - name: Send alert
+        if: steps.save.outputs.changed == 'true'
+        run: node scripts/notify.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          SUB_PRIVATE_KEY: ${{ secrets.SUB_PRIVATE_KEY }}

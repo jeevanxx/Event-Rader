@@ -95,3 +95,13 @@ a.link:hover{text-decoration:underline}
 .toast{position:fixed;left:50%;transform:translateX(-50%);bottom:calc(16px + env(safe-area-inset-bottom,0px));background:var(--ink);color:var(--bg);padding:10px 16px;border-radius:8px;font-size:14px;z-index:20;max-width:calc(100% - 32px)}
 @media (max-width:480px){.pass{grid-template-columns:66px 1fr}.stub .d{font-size:24px}a.link{margin-left:0}.brand span{display:none}}
 @media (prefers-reduced-motion:no-preference){.pass{transition:border-color .15s}.pass:hover{border-color:var(--accent)}}
+.tag.joy{color:var(--accent);border-color:var(--accent);background:var(--accent-soft)}
+.tag.auto{color:var(--muted)}
+.tag.checked{color:var(--ok);border-color:var(--ok)}
+.joyfeed{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 16px;display:flex;flex-direction:column;gap:8px}
+.joyfeed h2{font-family:var(--f-display);font-size:18px;margin:0}
+.joyfeed ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;font-size:14px}
+.joyfeed li{display:flex;gap:10px;min-width:0}
+.joyfeed .jd{font-family:var(--f-mono);font-size:12px;color:var(--muted);flex:none;width:52px;padding-top:2px}
+.joyfeed a{color:var(--ink);text-decoration:none;overflow-wrap:anywhere}
+.joyfeed a:hover{color:var(--accent);text-decoration:underline}
