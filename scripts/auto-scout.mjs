@@ -260,14 +260,17 @@ const d = JSON.parse(fs.readFileSync(path, "utf8"));
 const keyOf = (e) => `${normTitle(e.title)}|${e.start || ""}`;
 const GENERIC = new Set(["hackathon", "hack", "national", "level", "the", "a", "of", "and", "for", "by", "online", "workshop", "event", "edition", "inter", "college", "intercollege", "expo", "challenge", "competition", "summit", "fest"]);
 const tokens = (s) => new Set(normTitle(s).split(" ").filter((w) => w && !GENERIC.has(w) && w.length > 1));
-const near = (a, b) => !a || !b || Math.abs(Date.parse(a) - Date.parse(b)) <= 4 * 86400000;
+// Two events are "near" if any of their known dates are within 4 days (one site may give the start, another the end).
+const datesOf = (e) => [e.start, e.end, e.deadline].filter(Boolean).map((s) => Date.parse(s));
 function sameEvent(a, b) {
   if (a.url && b.url && a.url === b.url) return true;
   const ta = tokens(a.title), tb = tokens(b.title);
   if (!ta.size || !tb.size) return false;
   const [small, big] = ta.size <= tb.size ? [ta, tb] : [tb, ta];
   const inter = [...small].filter((w) => big.has(w)).length;
-  return inter === small.size && near(a.start || a.end, b.start || b.end);
+  const da = datesOf(a), db = datesOf(b);
+  const close = !da.length || !db.length || da.some((x) => db.some((y) => Math.abs(x - y) <= 4 * 86400000));
+  return inter === small.size && close;
 }
 const humanKeys = new Set(d.events.filter((e) => !e.auto).flatMap((e) => [keyOf(e), normTitle(e.title), e.url].filter(Boolean)));
 const byId = new Map(d.events.map((e) => [e.id, e]));
@@ -277,6 +280,9 @@ const keptThisRun = [];
 const perOrg = {};
 const humanEvents = d.events.filter((e) => !e.auto);
 
+// Process events we already have first, so caps keep yesterday's cards instead of swapping them daily.
+found.sort((a, b) => (byId.has(b.id) ? 1 : 0) - (byId.has(a.id) ? 1 : 0));
+const existingAuto = d.events.filter((e) => e.auto);
 for (const raw of found) {
   const { _src, ...e } = raw;
   for (const k of Object.keys(e)) if (e[k] === undefined || e[k] === "") delete e[k];
@@ -285,14 +291,38 @@ for (const raw of found) {
   if (seen.has(k) || seen.has(e.url) || keptThisRun.some((x) => sameEvent(x, e))) continue; // same event from two sources this run
   seen.add(k); seen.add(e.url);
   if (humanKeys.has(k) || humanKeys.has(normTitle(e.title)) || humanKeys.has(e.url) || humanEvents.some((h) => sameEvent(h, e))) continue; // already covered by a reviewed card
+  if (!byId.has(e.id) && existingAuto.some((x) => x.id !== e.id && sameEvent(x, e))) continue; // already listed from another site
   const orgKey = `${e.region === "online" ? "on" : "off"}|${(e.organizer || "").toLowerCase()}`;
   perOrg[orgKey] = (perOrg[orgKey] || 0) + 1;
-  if (e.organizer && perOrg[orgKey] > (e.region === "online" ? 2 : 8)) continue; // one organizer can't flood the list
+  if (e.organizer && perOrg[orgKey] > (e.region === "online" ? 2 : 12)) continue; // one organizer can't flood the list
   keptThisRun.push(e);
   Object.assign(e, score(e), { auto: true, verifiedAt: NICE });
   const prev = byId.get(e.id);
   if (prev) { Object.assign(prev, e, { isNew: prev.isNew, added: prev.added }); refreshed++; }
   else { e.isNew = true; e.added = TODAY; d.events.push(e); byId.set(e.id, e); added++; }
+}
+
+// Merge duplicates already saved (same event listed on two sites): keep the Unstop/older copy.
+{
+  const autos = d.events.filter((e) => e.auto);
+  const drop = new Set();
+  for (let i = 0; i < autos.length; i++) for (let j = i + 1; j < autos.length; j++) {
+    const a = autos[i], b = autos[j];
+    if (drop.has(a) || drop.has(b) || !sameEvent(a, b)) continue;
+    const rank = (e) => (e.id.startsWith("auto-unstop-") ? 0 : 1);
+    drop.add(rank(a) <= rank(b) ? b : a);
+  }
+  if (drop.size) { d.events = d.events.filter((e) => !drop.has(e)); log(`Merged ${drop.size} duplicate(s).`); }
+}
+
+// Keep the online list short: best 25 online hackathons/challenges and 12 online workshops overall.
+{
+  const onl = d.events.filter((e) => e.auto && e.region === "online" && !e.joy);
+  const keep = new Set([
+    ...onl.filter((e) => e.kind !== "workshop").sort((a, b) => b.fit - a.fit || (a.added || "").localeCompare(b.added || "")).slice(0, 25),
+    ...onl.filter((e) => e.kind === "workshop").sort((a, b) => b.fit - a.fit || (a.added || "").localeCompare(b.added || "")).slice(0, 12)
+  ]);
+  d.events = d.events.filter((e) => !(e.auto && e.region === "online" && !e.joy) || keep.has(e));
 }
 
 // Housekeeping: drop events that ended over 14 days ago; drop auto events whose registration closed and that no source still lists.
