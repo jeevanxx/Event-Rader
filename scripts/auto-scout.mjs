@@ -46,6 +46,25 @@ const clean = (s, n = 400) => {
   const end = Math.max(cut.lastIndexOf(". "), cut.lastIndexOf("! "));
   return (end > n * 0.5 ? cut.slice(0, end + 1) : cut.replace(/\s+\S*$/, "") + "…");
 };
+// Turn an HTML description into 1–2 plain sentences, skipping links, social handles and housekeeping lines.
+const ENT = { ndash: "–", mdash: "—", rsquo: "'", lsquo: "'", rdquo: '"', ldquo: '"', amp: "&", nbsp: " ", quot: '"', hellip: "…", bull: "•" };
+function summarize(htmlText, max = 280) {
+  if (!htmlText) return undefined;
+  const text = String(htmlText)
+    .replace(/<\/(p|li|h\d|div)>|<br\s*\/?>/gi, "\n").replace(/<[^>]+>/g, " ")
+    .replace(/&([a-z]+);/gi, (m, n) => ENT[n.toLowerCase()] ?? " ").replace(/&#(\d+);/g, (m, n) => String.fromCharCode(+n));
+  const parts = text.split(/\n+|(?<=[.!?])\s+/).map((s) => s.replace(/\s+/g, " ").trim()).filter(Boolean);
+  const keep = [];
+  for (const s of parts) {
+    if (s.length < 30) continue;
+    if (/https?:|www\.|whatsapp|telegram|instagram|linkedin|discord|join (the|our|now)|official (group|community|handles?)|contact|phone|\+91|@/i.test(s)) continue;
+    if (/^(about|overview|introduction|benefits|rules|eligibility|rounds?)\b[^a-z]*$/i.test(s)) continue;
+    keep.push(/[.!?]$/.test(s) ? s : s + ".");
+    if (keep.join(" ").length >= max * 0.7) break;
+  }
+  return keep.length ? clean(keep.join(" "), max) : undefined;
+}
+
 const ldEvents = (html) => {
   const out = [];
   for (const m of html.matchAll(/<script[^>]+application\/ld\+json[^>]*>([\s\S]*?)<\/script>/g)) {
@@ -142,6 +161,8 @@ async function fromUnstop() {
           organizer: org || undefined, cost: i.isPaid ? "Paid (amount on the listing)" : "Free",
           team, eligibility: eligible.length ? eligible.join(", ") : undefined,
           prizes: cash ? `₹${cash.toLocaleString("en-IN")} in cash prizes (total listed)` : undefined,
+          summary: summarize(i.details),
+          theme: i.festival && i.festival.title ? `Part of ${clean(i.festival.title, 80)}` : undefined,
           url: i.seo_url || `https://unstop.com/${i.public_url}`,
           sources: [{ title: "Unstop", url: i.seo_url || `https://unstop.com/${i.public_url}` }],
           joy: isJoy || undefined, _src: "Unstop"

@@ -1,25 +1,23 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 2
+      "updated": 10
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 2
+      "found": 0
     },
     "C": {
-      "checked": true,
-      "partial": true,
+      "checked": false,
       "found": 0
     },
     "D": {
-      "checked": true,
-      "partial": true,
+      "checked": false,
       "found": 0
     },
     "E": {
@@ -27,15 +25,13 @@
       "found": 0
     },
     "F": {
-      "checked": true,
-      "partial": true,
+      "checked": false,
       "found": 0
     },
     "G": {
-      "checked": true,
-      "partial": true,
+      "checked": false,
       "found": 0
     }
   },
-  "notes": "Eventopia (Tamil Nadu), TheTN.ai and Knowafest's Tamil Nadu page loaded today: no new events you can join beyond those already listed. Kanyakumari colleges (St. Xavier's hackathon page) show nothing upcoming. GDG Trivandrum and GDG Chennai pages wouldn't load. Company/community events (E) not checked today. Innovibe (Sathyabama, online) skipped because its dates aren't published."
+  "notes": "Today was spent reviewing the 64 auto-found events: 9 were checked against their full Unstop descriptions and promoted to Checked cards. GDG, government, company, college and wide-net searches (C to G) were not run today."
 }

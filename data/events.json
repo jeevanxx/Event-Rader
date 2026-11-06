@@ -1,6 +1,6 @@
 {
-  "lastRun": "5 Nov 2026",
-  "added": 64,
+  "lastRun": "6 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -551,7 +551,7 @@
       "verifiedAt": "3 Nov 2026",
       "fit": 64,
       "fitReason": "Free, with strong Gemini and AI agents content. Kochi is a long trip from Nagercoil, though; DevFest Trivandrum two weeks later is closer.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-02"
     },
     {
@@ -578,7 +578,7 @@
       "verifiedAt": "2 Nov 2026",
       "fit": 28,
       "fitReason": "A weeknight evening meetup in Chennai is impractical from Nagercoil. Listed so you know the community exists if you're ever in Chennai.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-02"
     },
     {
@@ -704,12 +704,12 @@
           "url": "https://eventopia.in/event/cobotex-2026-intercollege-expo-hackathon-2026-11-10-y72"
         }
       ],
-      "verifiedAt": "5 Nov 2026",
+      "verifiedAt": "6 Nov 2026",
       "fit": 34,
       "fitReason": "Leans toward robotics and IoT, needs a Chennai trip for a single day, and registration closes 5 Nov.",
       "isNew": true,
       "added": "2026-11-03",
-      "warning": "Registration closes today (5 Nov)."
+      "warning": "Registration closed on 5 Nov."
     },
     {
       "id": "sakthi-hackathon-2-mcet",
@@ -954,32 +954,35 @@
     },
     {
       "id": "auto-unstop-1793341",
-      "title": "DoomForge",
+      "title": "DoomForge (VIT Chennai)",
       "kind": "hackathon",
       "end": "2026-12-06",
       "deadline": "2026-12-06",
       "city": "Chennai",
       "region": "tamilnadu",
-      "mode": "In person",
+      "mode": "Hybrid",
       "venue": "Vit Chennai, Kelambakkam - Vandalur Rd, Chennai, Keelakottiyur, Tamil Nadu 600127",
       "address": "Chennai, Tamil Nadu",
       "organizer": "Vellore Institute of Technology (VIT), Chennai",
       "cost": "Free",
-      "team": "1–3",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "team": "1–3 (inter-college teams allowed)",
+      "eligibility": "College students",
       "url": "https://unstop.com/hackathons/doomforge-vellore-institute-of-technology-vit-chennai-1793341",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/doomforge-vellore-institute-of-technology-vit-chennai-1793341"
         }
       ],
-      "fit": 57,
-      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 58,
+      "fitReason": "Free and open to any college, and it mixes business thinking with building, which suits your startup goals. Round 2 details are unclear and it may need a Chennai trip.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "start": "2026-12-04",
+      "theme": "Business + engineering: market analysis, then building the software solution",
+      "summary": "Two-round hackathon. Round 1 (4–6 Dec) is market analysis submitted as a one-minute video; the second round focuses on engineering the solution.",
+      "warning": "The listing gives Round 1 dates (4–6 Dec) but not the date or format of Round 2. Check the Unstop page."
     },
     {
       "id": "auto-unstop-1791573",
@@ -1096,7 +1099,7 @@
     },
     {
       "id": "auto-unstop-1792269",
-      "title": "Agentic AI Hackathon",
+      "title": "Agentic AI Hackathon (Product Space)",
       "kind": "hackathon",
       "end": "2026-11-15",
       "deadline": "2026-11-14",
@@ -1107,21 +1110,23 @@
       "organizer": "Product Space",
       "cost": "Free",
       "team": "1–2",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹1,00,000 in cash prizes (total listed)",
+      "eligibility": "Anyone; individuals or teams of up to 2",
+      "prizes": "₹5,000 / ₹3,000 / ₹2,000 cash plus in-kind prizes",
       "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/agentic-ai-hackathon-product-space-1792269"
         }
       ],
-      "fit": 73,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 72,
+      "fitReason": "Free, online and solo-friendly, and the 'launch a real AI product' format fits your goals. Registration closes 14 Nov at 11 AM.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "start": "2026-11-14",
+      "theme": "Build and launch a working agentic AI product, not just a pitch",
+      "summary": "Two-day online build-first hackathon: kickoff 14 Nov, then you design, build and launch a real AI agent that integrates tools and APIs."
     },
     {
       "id": "auto-unstop-1793030",
@@ -1239,33 +1244,34 @@
     },
     {
       "id": "auto-unstop-1783515",
-      "title": "Code Conquest",
+      "title": "Code Conquest (Shaastra 2027, IIT Madras)",
       "kind": "hackathon",
       "end": "2027-01-04",
       "deadline": "2026-12-10",
       "city": "Chennai",
       "region": "tamilnadu",
-      "mode": "In person",
-      "venue": "IIT Madras",
-      "address": "Chennai, Tamil Nadu",
-      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Hybrid",
+      "venue": "IIT Madras (finals)",
+      "address": "IIT Madras, Chennai",
+      "organizer": "Shaastra 2027, IIT Madras",
       "cost": "Free",
       "team": "2–3",
       "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹50,000 in cash prizes (total listed)",
+      "prizes": "₹20,000 / ₹12,000 / ₹8,000 / ₹6,000",
       "url": "https://unstop.com/hackathons/rovermaggedon-iit-madras-1783515",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/rovermaggedon-iit-madras-1783515"
         }
       ],
-      "fit": 57,
-      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 60,
+      "fitReason": "Free, with an online first round and real prizes, and the IIT Madras finals look great on a profile. It's a programming and strategy challenge, not web or AI product building.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "theme": "Programming autonomous rover controllers for a turn-based strategy game",
+      "summary": "Online prelims: submit rover-controller code on Unstop. Top teams play the on-site finals at IIT Madras during Shaastra 2027 (early January)."
     },
     {
       "id": "auto-unstop-1783838",
@@ -1413,36 +1419,37 @@
     },
     {
       "id": "auto-unstop-1781449",
-      "title": "NeuroHack",
+      "title": "NeuroHack (Shaastra 2027, IIT Madras)",
       "kind": "hackathon",
       "end": "2027-01-06",
       "deadline": "2026-12-04",
       "city": "Chennai",
       "region": "tamilnadu",
-      "mode": "In person",
-      "venue": "IIT Madras",
-      "address": "Chennai, Tamil Nadu",
-      "organizer": "Indian Institute of Technology (IIT), Madras",
+      "mode": "Hybrid",
+      "venue": "IIT Madras (Round 2)",
+      "address": "IIT Madras, Chennai",
+      "organizer": "BIOGEN, Shaastra 2027, IIT Madras",
       "cost": "Free",
       "team": "1–4",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "eligibility": "Undergraduate and postgraduate students",
       "url": "https://unstop.com/hackathons/neurohack-2027-iit-madras-1781449",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/neurohack-2027-iit-madras-1781449"
         }
       ],
-      "fit": 57,
-      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 38,
+      "fitReason": "Free, but it's a niche neuroscience topic far from your web, AI and startup focus.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "theme": "Computational neuroscience: EEG and brain-signal analysis with Python",
+      "summary": "Round 1 is an online quiz on neuroscience basics, EEG and Python data analysis; selected teams do a 24-hour offline hackathon at IIT Madras during Shaastra 2027."
     },
     {
       "id": "auto-unstop-1771798",
-      "title": "Catalyst - Solo AI Hackathon",
+      "title": "Catalyst: Solo AI Hackathon",
       "kind": "hackathon",
       "end": "2026-11-15",
       "deadline": "2026-11-14",
@@ -1452,22 +1459,24 @@
       "venue": "Online",
       "organizer": "Makers Need More (MnM)",
       "cost": "Free",
-      "team": "1",
-      "eligibility": "All",
-      "prizes": "₹15,000 in cash prizes (total listed)",
+      "team": "Solo only",
+      "eligibility": "Students, developers, beginners and AI enthusiasts",
+      "prizes": "₹15,000 for winners; certificates for finalists and participants",
       "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/catalyst-solo-ai-hackathon-makers-need-more-mnm-1771798"
         }
       ],
-      "fit": 73,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 70,
+      "fitReason": "Free, online, beginner-welcome and solo, so you need no team. A short one-day format that's good practice.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "start": "2026-11-15",
+      "theme": "Build a working solution with AI tools",
+      "summary": "A 7-hour online solo coding hackathon on 15 Nov. Registration runs until 14 Nov."
     },
     {
       "id": "auto-unstop-1777504",
@@ -1499,7 +1508,7 @@
     },
     {
       "id": "auto-unstop-1773675",
-      "title": "StarForge : 24-Hour National Level Hackathon",
+      "title": "StarForge: 24-Hour National Hackathon (BMSIT)",
       "kind": "hackathon",
       "end": "2026-12-13",
       "deadline": "2026-11-20",
@@ -1507,25 +1516,27 @@
       "region": "bangalore",
       "mode": "In person",
       "venue": "BMS Institute of Technology and Management",
-      "address": "Bangalore, Karnataka",
-      "organizer": "BMS Institute of Technology and Management (BMSITM), Bangalore",
+      "address": "Bengaluru",
+      "organizer": "BMS Institute of Technology and Management (BMSITM)",
       "cost": "Free",
-      "team": "3–4",
+      "team": "3–4, with at least 1 female member (mandatory)",
       "eligibility": "All",
-      "prizes": "₹65,000 in cash prizes (total listed)",
+      "prizes": "Overall ₹25,000; Hardware and Software track winners ₹15,000 each; Best Innovation ₹10,000",
       "url": "https://unstop.com/hackathons/starforge-24-hour-hackathon-bms-institute-of-technology-and-management-bmsitm-bangalore-1773675",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/starforge-24-hour-hackathon-bms-institute-of-technology-and-management-bmsitm-bangalore-1773675"
         }
       ],
-      "fit": 53,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 48,
+      "fitReason": "Free with good prizes, but it needs a 3–4 person team that includes a woman, plus a Bengaluru trip.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "theme": "Software and hardware tracks with official problem statements",
+      "summary": "Stage 1: submit an abstract and pitch deck online for screening. Selected teams join the 24-hour offline hackathon at BMSIT, Bengaluru.",
+      "warning": "Every team must have at least one female member, or it isn't eligible."
     },
     {
       "id": "auto-unstop-1773229",
@@ -2108,7 +2119,7 @@
     },
     {
       "id": "auto-unstop-1764958",
-      "title": "Next Gen Full Stack Development Workshop",
+      "title": "Next Gen Full Stack Development Workshop (Shaastra, IIT Madras)",
       "kind": "workshop",
       "end": "2027-01-03",
       "deadline": "2027-01-02",
@@ -2116,24 +2127,26 @@
       "region": "tamilnadu",
       "mode": "In person",
       "venue": "IIT Madras",
-      "address": "Chennai, Tamil Nadu",
-      "organizer": "Indian Institute of Technology (IIT), Madras",
-      "cost": "Paid (amount on the listing)",
+      "address": "IIT Madras, Chennai",
+      "organizer": "Shaastra 2027, IIT Madras",
+      "cost": "Paid (fee on Unstop); you also need a Shaastra passport, ₹50 off for workshop attendees",
       "team": "1",
-      "eligibility": "All",
+      "eligibility": "Beginners and experienced participants",
       "url": "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/workshops-webinars/next-gen-full-stack-development-workshop-iit-madras-1764958"
         }
       ],
-      "fit": 50,
-      "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 55,
+      "fitReason": "Directly on your web development path and suitable for beginners, at IIT Madras. It's paid and needs a Chennai trip, so pair it with other Shaastra events.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "start": "2027-01-03",
+      "theme": "Full stack web development",
+      "summary": "One-day workshop on 3 Jan 2027, 9 AM to 12 PM and 2 to 5 PM, led by Shaastra's selected trainers."
     },
     {
       "id": "auto-unstop-1764968",
@@ -2224,7 +2237,7 @@
     },
     {
       "id": "auto-unstop-1764953",
-      "title": "Generative AI workshop",
+      "title": "Generative AI Workshop (Shaastra, IIT Madras)",
       "kind": "workshop",
       "end": "2027-01-03",
       "deadline": "2027-01-02",
@@ -2232,24 +2245,26 @@
       "region": "tamilnadu",
       "mode": "In person",
       "venue": "IIT Madras",
-      "address": "Chennai, Tamil Nadu",
-      "organizer": "Indian Institute of Technology (IIT), Madras",
-      "cost": "Paid (amount on the listing)",
+      "address": "IIT Madras, Chennai",
+      "organizer": "Shaastra 2027, IIT Madras",
+      "cost": "Paid (fee on Unstop); you also need a Shaastra passport, ₹50 off for workshop attendees",
       "team": "1",
-      "eligibility": "All",
+      "eligibility": "Beginner to advanced",
       "url": "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/workshops-webinars/generative-ai-workshop-iit-madras-1764953"
         }
       ],
-      "fit": 50,
-      "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 56,
+      "fitReason": "Right on your AI interest, beginner-friendly, at IIT Madras. It's paid and needs a Chennai trip; it pairs with the Full Stack workshop the same day.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "start": "2027-01-03",
+      "theme": "Generative AI",
+      "summary": "One-day beginner-to-advanced GenAI workshop on 3 Jan 2027, 9 AM to 12 PM and 2 to 5 PM."
     },
     {
       "id": "auto-unstop-1771692",
@@ -2398,33 +2413,34 @@
     },
     {
       "id": "auto-unstop-1763541",
-      "title": "StratHack",
+      "title": "StratHack (Strategia '27, Loyola College)",
       "kind": "hackathon",
       "end": "2027-02-15",
       "deadline": "2026-12-19",
       "city": "Chennai",
       "region": "tamilnadu",
-      "mode": "In person",
-      "venue": "Loyola College",
-      "address": "Chennai, Tamil Nadu",
-      "organizer": "Loyola College (LC), Chennai",
+      "mode": "Hybrid",
+      "venue": "Loyola College (finale)",
+      "address": "Chennai",
+      "organizer": "Strategia '27, Loyola College, Chennai",
       "cost": "Free",
       "team": "2–3",
       "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹50,000 in cash prizes (total listed)",
+      "prizes": "₹25,000 / ₹15,000 / ₹10,000",
       "url": "https://unstop.com/competitions/strathack-strategia27-the-annual-business-strategy-fest-of-loyola-college-loyola-college-lc-chennai-1763541",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/competitions/strathack-strategia27-the-annual-business-strategy-fest-of-loyola-college-loyola-college-lc-chennai-1763541"
         }
       ],
-      "fit": 57,
-      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "fit": 55,
+      "fitReason": "Free, with a strong entrepreneurship angle that suits your goals and good prizes. The finale needs a Chennai trip in February.",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "theme": "Business hackathon: strategy, technology, entrepreneurship and product thinking",
+      "summary": "Online screening quiz on Unstop, then an offline finale at Loyola College where shortlisted teams solve real problems and pitch to judges."
     },
     {
       "id": "auto-eventopia-axidots-ai-innovation-challenge-2026-2026-08-09",
