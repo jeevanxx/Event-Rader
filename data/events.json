@@ -1,6 +1,6 @@
 {
   "lastRun": "6 Nov 2026",
-  "added": 3,
+  "added": 8,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -1037,9 +1037,10 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "verifiedAt": "6 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "summary": "EDXcellence invites students across India to participate in the National Online Hackathon 2026, a free online coding and innovation challenge designed to encourage technical skills, creativity, teamwork, and real-world problem-solving."
     },
     {
       "id": "auto-unstop-1792826",
@@ -3125,6 +3126,66 @@
       ],
       "fit": 54,
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "6 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-06"
+    },
+    {
+      "id": "auto-unstop-1784272",
+      "title": "Beyond Writing Code: The Future Role of Software Engineers",
+      "kind": "workshop",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "TechBairn",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "All",
+      "summary": "AI-powered development tools are making it easier to generate code, automate repetitive tasks, and speed up the software-building process. But software engineering involves much more than simply producing lines of code.",
+      "url": "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1784272",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1784272"
+        }
+      ],
+      "fit": 70,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "6 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-06"
+    },
+    {
+      "id": "auto-unstop-1786606",
+      "title": "BESCOM POWER HACK 2026: \"EM\" Powering Tomorrow",
+      "kind": "hackathon",
+      "end": "2026-11-18",
+      "deadline": "2026-11-06",
+      "city": "Bangalore Urban",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "PRESIDENCY UNIVERSITY",
+      "address": "Bangalore Urban, Karnataka",
+      "organizer": "Presidency University (PU), Bangalore",
+      "cost": "Free",
+      "team": "2–4",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹50,000 in cash prizes (total listed)",
+      "summary": "Huge opportunity from BESCOM x Presidency University. Are you ready to build the future of energy? The Department of Electrical and Electronics Engineering (EEE), Presidency University, in association with BESCOM, proudly presents POWER HACK 2026!",
+      "url": "https://unstop.com/competitions/power-hack-2026-em-powering-tomorrow-presidency-university-pu-bangalore-1786606",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/competitions/power-hack-2026-em-powering-tomorrow-presidency-university-pu-bangalore-1786606"
+        }
+      ],
+      "fit": 45,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "6 Nov 2026",
       "isNew": true,

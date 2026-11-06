@@ -3,6 +3,13 @@
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
     {
+      "title": "Diya & Dandiya: Navarathri and Diwali Celebration",
+      "date": "2026-11-05",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/437",
+      "tech": false
+    },
+    {
       "title": "Hands on worshop Embedded and IoT",
       "date": "2026-11-04",
       "kind": "workshop",
@@ -273,13 +280,6 @@
       "date": "2026-09-23",
       "kind": "campus",
       "url": "https://joyuniversity.edu.in/Event-Listing/397",
-      "tech": false
-    },
-    {
-      "title": "SOLHS - Fresh Beats, New Feats",
-      "date": "2028-09-18",
-      "kind": "campus",
-      "url": "https://joyuniversity.edu.in/Event-Listing/196",
       "tech": false
     }
   ]
