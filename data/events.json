@@ -1,6 +1,6 @@
 {
-  "lastRun": "6 Nov 2026",
-  "added": 8,
+  "lastRun": "7 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -434,21 +434,29 @@
       "venue": "Not announced yet (Kumaraguru Institutions is the venue partner)",
       "address": "Coimbatore, Tamil Nadu",
       "organizer": "GDG Coimbatore (Google Developer Groups)",
-      "cost": "Student pass available; price not announced",
+      "cost": "Free (register on the GDG page; seats limited by venue capacity)",
       "eligibility": "Separate Student and Professional passes",
       "theme": "Build with Gemini + Cloud Community Days; Anybody Can Build; Builders & Creators Academy",
       "summary": "Coimbatore's DevFest. Registrations are opening soon and the exact venue will be announced on the event site.",
-      "warning": "Registration isn't open yet and the venue isn't announced. The daily check will watch for both.",
-      "url": "https://devfest26.gdgcbe.com/",
+      "warning": "Venue still not confirmed. One listing gives the time as 2 PM to 10:30 PM while its description says morning to late afternoon. Register early; it's free but seats are limited.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-coimbatore-presents-devfest-coimbatore-2026/",
       "sources": [
+        {
+          "title": "GDG Coimbatore event page",
+          "url": "https://gdg.community.dev/events/details/google-gdg-coimbatore-presents-devfest-coimbatore-2026/"
+        },
+        {
+          "title": "StartupGrantsIndia listing",
+          "url": "https://www.startupgrantsindia.com/events/devfest-coimbatore-2026"
+        },
         {
           "title": "DevFest Coimbatore site",
           "url": "https://devfest26.gdgcbe.com/"
         }
       ],
-      "verifiedAt": "1 Nov 2026",
-      "fit": 64,
-      "fitReason": "Has a student pass and an 'Anybody Can Build' track that suits beginners. Coimbatore is a long trip from Nagercoil, so it's less convenient than DevFest Trivandrum.",
+      "verifiedAt": "7 Nov 2026",
+      "fit": 66,
+      "fitReason": "Now confirmed free, with registration open, and it has an 'Anybody Can Build' track for beginners. Coimbatore is a long trip, though, and the venue isn't confirmed yet.",
       "isNew": false,
       "added": "2026-11-01"
     },
@@ -610,7 +618,7 @@
       "verifiedAt": "3 Nov 2026",
       "fit": 66,
       "fitReason": "Free, online, solo or team, and the 'Build for Campus' and 'AI in Action' tracks fit projects like CampusAid and Guardian Eye. Small prizes and a lesser-known organizer.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-03"
     },
     {
@@ -642,7 +650,7 @@
       "verifiedAt": "3 Nov 2026",
       "fit": 62,
       "fitReason": "Free, with an online first round you can do from home and an EduTech track. You'd only travel to Coimbatore if you reach the final.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-03"
     },
     {
@@ -675,7 +683,7 @@
       "verifiedAt": "5 Nov 2026",
       "fit": 50,
       "fitReason": "Right topic (GenAI and cloud), but it's paid, overnight, and in Coimbatore; prizes and team size aren't published.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-03"
     },
     {
@@ -707,7 +715,7 @@
       "verifiedAt": "6 Nov 2026",
       "fit": 34,
       "fitReason": "Leans toward robotics and IoT, needs a Chennai trip for a single day, and registration closes 5 Nov.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-03",
       "warning": "Registration closed on 5 Nov."
     },
@@ -743,7 +751,7 @@
       "verifiedAt": "3 Nov 2026",
       "fit": 40,
       "fitReason": "Big prizes and open to all colleges, but Round 1 looks finished, so joining now is probably not possible.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-03"
     },
     {

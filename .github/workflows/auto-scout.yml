@@ -1,8 +1,8 @@
 name: Daily automatic event check
-# Runs every day at 6:15 AM IST on GitHub's free runners. No Claude needed.
+# Runs every day at 3:47 AM IST (22:17 UTC) on GitHub's free runners; GitHub may start it a few hours late. No Claude needed.
 on:
   schedule:
-    - cron: "45 0 * * *"
+    - cron: "17 22 * * *"
   workflow_dispatch:
   push:
     branches: [main]
