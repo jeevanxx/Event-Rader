@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 141
+      "found": 143
     },
     "Eventopia": {
       "ok": true,
@@ -20,5 +20,5 @@
   },
   "added": 8,
   "refreshed": 55,
-  "removed": 0
+  "removed": 1
 }
