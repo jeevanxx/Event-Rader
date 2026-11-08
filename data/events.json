@@ -1,6 +1,6 @@
 {
   "lastRun": "8 Nov 2026",
-  "added": 7,
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -1017,12 +1017,13 @@
       ],
       "fit": 72,
       "fitReason": "Free, online and solo-friendly, and the 'launch a real AI product' format fits your goals. Registration closes 14 Nov at 11 AM.",
-      "verifiedAt": "6 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "start": "2026-11-14",
       "theme": "Build and launch a working agentic AI product, not just a pitch",
-      "summary": "Two-day online build-first hackathon: kickoff 14 Nov, then you design, build and launch a real AI agent that integrates tools and APIs."
+      "summary": "Two-day online build-first hackathon: kickoff 14 Nov, then you design, build and launch a real AI agent that integrates tools and APIs.",
+      "warning": "Product Space lists three near-identical one-day hackathons on 14 Nov (Agentic AI, Gen-AI Product and AI Builder) that share one WhatsApp group and a mandatory kickoff, with different prize amounts on each listing. They look like the same event day: register for one, and confirm the prizes in the WhatsApp group."
     },
     {
       "id": "auto-unstop-1782683",
@@ -3091,7 +3092,7 @@
     },
     {
       "id": "auto-unstop-1800324",
-      "title": "Agentware | 72-Hour Hackathon",
+      "title": "Agentware: 72-Hour AI Agent Hackathon",
       "kind": "hackathon",
       "end": "2026-11-27",
       "deadline": "2026-11-27",
@@ -3102,22 +3103,23 @@
       "organizer": "Hackathon Raptors",
       "cost": "Free",
       "team": "1–4",
-      "eligibility": "All",
-      "prizes": "₹1,600 in cash prizes (total listed)",
-      "summary": "About the Hackathon - agentwarehack.com. Agentware is a 72-hour online AI agent engineering hackathon built around one challenge: build an autonomous AI agent that can perform real work independently, operate reliably, and know when to stop.",
+      "eligibility": "Open; any AI model, framework or language allowed",
+      "prizes": "Grand prize 800, runner-up 400, third 200, Best Kill Switch 100 (currency not shown on the listing)",
+      "summary": "72-hour online AI agent engineering hackathon. Details, tracks and judging are announced on agentwarehack.com and the organizer's community.",
       "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324"
         }
       ],
-      "fit": 73,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
+      "fit": 60,
+      "fitReason": "Free and online, on AI agents, and it allows any stack. Small prizes, and the exact dates need confirming.",
       "verifiedAt": "8 Nov 2026",
       "isNew": true,
-      "added": "2026-11-08"
+      "added": "2026-11-08",
+      "theme": "Build an autonomous AI agent that does real work reliably and knows when to stop",
+      "warning": "The exact 72-hour window isn't stated on the listing; only the registration close (27 Nov, 11 PM) is. Check agentwarehack.com."
     },
     {
       "id": "auto-unstop-1799762",
@@ -3151,7 +3153,7 @@
     },
     {
       "id": "auto-unstop-1799510",
-      "title": "Gen-AI Product Hackathon",
+      "title": "Gen-AI Product Hackathon (Product Space)",
       "kind": "hackathon",
       "end": "2026-11-14",
       "deadline": "2026-11-14",
@@ -3162,26 +3164,28 @@
       "organizer": "Product Space",
       "cost": "Free",
       "team": "1–2",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
-      "prizes": "₹2,00,000 in cash prizes (total listed)",
-      "summary": "Date: 14th Nov 2026 (Saturday). Kickoff Session: 14th Nov 2026 (Saturday). This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product.",
+      "eligibility": "Individuals or teams of up to 2",
+      "prizes": "₹30,000 / ₹15,000 / ₹5,000, plus in-kind prizes listed at ₹1,50,000",
+      "summary": "One-day online build hackathon on Sat 14 Nov with a mandatory kickoff session.",
       "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510"
         }
       ],
-      "fit": 73,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
+      "fit": 70,
+      "fitReason": "Free, online and solo-friendly, with a real build-and-launch format. It overlaps with the other Product Space listings on the same day.",
       "verifiedAt": "8 Nov 2026",
       "isNew": true,
-      "added": "2026-11-08"
+      "added": "2026-11-08",
+      "start": "2026-11-14",
+      "theme": "Build and launch a working AI agent that reasons, makes decisions and uses tools",
+      "warning": "Product Space lists three near-identical one-day hackathons on 14 Nov (Agentic AI, Gen-AI Product and AI Builder) that share one WhatsApp group and a mandatory kickoff, with different prize amounts on each listing. They look like the same event day: register for one, and confirm the prizes in the WhatsApp group."
     },
     {
       "id": "auto-unstop-1799509",
-      "title": "AI Builder Hackathon",
+      "title": "AI Builder Hackathon (Product Space)",
       "kind": "hackathon",
       "end": "2026-11-14",
       "deadline": "2026-11-14",
@@ -3192,22 +3196,24 @@
       "organizer": "Product Space",
       "cost": "Free",
       "team": "1–2",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
-      "prizes": "₹2,00,000 in cash prizes (total listed)",
-      "summary": "Kickoff Session: 14th Nov (Saturday), 2026. This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. During this one day, participants will:.",
+      "eligibility": "Individuals or teams of up to 2",
+      "prizes": "₹30,000 / ₹15,000 / ₹5,000, plus in-kind prizes listed at ₹1,50,000",
+      "summary": "One-day online build-first hackathon on Sat 14 Nov with a mandatory kickoff session.",
       "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Unstop listing",
           "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509"
         }
       ],
-      "fit": 73,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
+      "fit": 68,
+      "fitReason": "Same format as the Gen-AI Product Hackathon on the same day. Pick one.",
       "verifiedAt": "8 Nov 2026",
       "isNew": true,
-      "added": "2026-11-08"
+      "added": "2026-11-08",
+      "start": "2026-11-14",
+      "theme": "Conceptualise, build and launch a complete agentic AI solution",
+      "warning": "Product Space lists three near-identical one-day hackathons on 14 Nov (Agentic AI, Gen-AI Product and AI Builder) that share one WhatsApp group and a mandatory kickoff, with different prize amounts on each listing. They look like the same event day: register for one, and confirm the prizes in the WhatsApp group."
     }
   ],
   "lastAutoRun": "8 Nov 2026"

@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 1
+      "updated": 4
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 0
+      "found": 3
     },
     "C": {
       "checked": true,
@@ -18,13 +18,11 @@
       "found": 0
     },
     "D": {
-      "checked": true,
-      "partial": true,
+      "checked": false,
       "found": 0
     },
     "E": {
-      "checked": true,
-      "partial": true,
+      "checked": false,
       "found": 0
     },
     "F": {
@@ -38,5 +36,5 @@
       "found": 0
     }
   },
-  "notes": "Searched GDG chapters (Coimbatore, Chennai, Madurai, Kochi), StartupTN / iTNT / EDII-TN, AWS and Microsoft student events, and Kerala college fests. Leads found were past events (GDG Coimbatore pre-DevFest workshop, GIT Kottayam fest, EDII-TN ChatGPT workshop) or had no published details (AWS Student Community Day Chennai at Sathyabama). The free automatic check covered Unstop, Eventopia and India Hackathons."
+  "notes": "Reviewed the overnight automatic finds. Trivandrum search found only a Technopark GenAI hackathon that already happened (7 Nov). Kanyakumari/Tirunelveli colleges show no upcoming events. The GDG Trivandrum event page couldn't be loaded to re-check DevFest Trivandrum."
 }
