@@ -1,6 +1,6 @@
 {
   "lastRun": "8 Nov 2026",
-  "added": 0,
+  "added": 14,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -957,9 +957,10 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "5 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
-      "added": "2026-11-05"
+      "added": "2026-11-05",
+      "summary": "Top 3 teams: Paid internship opportunities. Top 3 teams : 30,000 prize pool. Top 3 teams: Incubation and product-development opportunities. Top 3 teams: Letters of Recommendation. Every eligible participant: One complimentary .xyz domain."
     },
     {
       "id": "auto-unstop-1793341",
@@ -1716,7 +1717,7 @@
           "url": "https://unstop.com/workshops-webinars/iit-bombays-techfest-artificial-intelligence-workshop-techfest-iitbombay-iit-bombay-1794999"
         }
       ],
-      "fit": 70,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -1745,7 +1746,7 @@
           "url": "https://unstop.com/workshops-webinars/beyond-the-ai-hype-the-changing-landscape-of-full-stack-development-techbairn-research-1792767"
         }
       ],
-      "fit": 70,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -1774,7 +1775,7 @@
           "url": "https://unstop.com/workshops-webinars/tech-careers-in-the-age-of-ai-what-to-learn-how-to-prepare-get-hired-techbairn-1787584"
         }
       ],
-      "fit": 70,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -1831,7 +1832,7 @@
           "url": "https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648"
         }
       ],
-      "fit": 70,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -2578,7 +2579,7 @@
           "url": "https://unstop.com/workshops-webinars/full-stack-python-workshop-quality-thought-info-systems-1796761"
         }
       ],
-      "fit": 70,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -2607,7 +2608,7 @@
           "url": "https://unstop.com/workshops-webinars/from-developer-to-researcher-navigating-your-future-in-technology-techbairn-research-1792782"
         }
       ],
-      "fit": 70,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -2963,7 +2964,7 @@
           "url": "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1784272"
         }
       ],
-      "fit": 70,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -2993,7 +2994,7 @@
           "url": "https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702"
         }
       ],
-      "fit": 73,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -3052,7 +3053,7 @@
           "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395"
         }
       ],
-      "fit": 73,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -3144,7 +3145,7 @@
           "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762"
         }
       ],
-      "fit": 73,
+      "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
@@ -3214,6 +3215,94 @@
       "start": "2026-11-14",
       "theme": "Conceptualise, build and launch a complete agentic AI solution",
       "warning": "Product Space lists three near-identical one-day hackathons on 14 Nov (Agentic AI, Gen-AI Product and AI Builder) that share one WhatsApp group and a mandatory kickoff, with different prize amounts on each listing. They look like the same event day: register for one, and confirm the prizes in the WhatsApp group."
+    },
+    {
+      "id": "auto-unstop-1799782",
+      "title": "Expanding Horizons 8.0 CIVIL",
+      "kind": "hackathon",
+      "end": "2026-11-22",
+      "deadline": "2026-11-21",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
+      "summary": "Expanding Horizon 8.0 – Civil Engineering. Organized by: Student Mentorship Program (SMP), MNNIT Allahabad. Expanding Horizon 8.0 – Civil Engineering is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, aimed at helping aspiring civil engineers evaluate…",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/expanding-horizons-80-civil-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799782"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
+    },
+    {
+      "id": "auto-unstop-1799780",
+      "title": "Expanding Horizons 8.0 EE",
+      "kind": "hackathon",
+      "end": "2026-11-21",
+      "deadline": "2026-11-21",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Motilal Nehru National Institute of Technology",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
+      "summary": "Expanding Horizon 8.0 – Electrical Engineering (EE). Organized by: Student Mentorship Program (SMP), MNNIT Allahabad. Expanding Horizon 8.0 – EE is an initiative by the Student Mentorship Program (SMP), MNNIT Allahabad, designed to help aspiring electrical engineers assess and…",
+      "url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/expanding-horizons-80-ee-expanding-horizon-80-motilal-nehru-national-institute-of-technology-1799780"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
+    },
+    {
+      "id": "auto-unstop-1799765",
+      "title": "Crackhunt",
+      "kind": "hackathon",
+      "end": "2027-03-05",
+      "deadline": "2027-03-01",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Army Institute of technology, Pune",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
+      "prizes": "₹10,000 in cash prizes (total listed)",
+      "summary": "All that you need to know about Crackhunt. Crackhunt is a cybersecurity-based gaming event organized by the ISDF Club at AIT. The event focuses on problem-solving and security challenges. Any violation of the rules will result in disqualification.",
+      "url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/crackhunt-solutions-2k27-army-institute-of-technology-pune-1799765"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
     }
   ],
   "lastAutoRun": "8 Nov 2026"
