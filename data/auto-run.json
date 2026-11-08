@@ -3,11 +3,11 @@
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 151
+      "found": 147
     },
     "Eventopia": {
       "ok": true,
-      "found": 13
+      "found": 11
     },
     "India Hackathons": {
       "ok": true,
@@ -18,7 +18,7 @@
       "found": 423
     }
   },
-  "added": 14,
-  "refreshed": 44,
+  "added": 16,
+  "refreshed": 43,
   "removed": 0
 }
