@@ -1,6 +1,6 @@
 {
-  "lastRun": "7 Nov 2026",
-  "added": 8,
+  "lastRun": "8 Nov 2026",
+  "added": 7,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -784,7 +784,7 @@
       "verifiedAt": "4 Nov 2026",
       "fit": 74,
       "fitReason": "Made for exactly your goal: turning an AI idea into a startup, with Google mentors, VCs and serious prizes. The Chennai and Kochi city rounds are reachable. It's competitive and selective, so a sharp application matters.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-04"
     },
     {
@@ -994,120 +994,6 @@
       "warning": "The listing gives Round 1 dates (4–6 Dec) but not the date or format of Round 2. Check the Unstop page."
     },
     {
-      "id": "auto-unstop-1791573",
-      "title": "MassX CTF 2026",
-      "kind": "hackathon",
-      "end": "2026-11-14",
-      "deadline": "2026-11-14",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "Panipat Institute of Engineering & Technology (PIET), Panipat",
-      "cost": "Free",
-      "team": "1",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "url": "https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573"
-        }
-      ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
-      "isNew": true,
-      "added": "2026-11-05"
-    },
-    {
-      "id": "auto-unstop-1790680",
-      "title": "National Online Hackathon 2026",
-      "kind": "hackathon",
-      "end": "2026-12-01",
-      "deadline": "2026-12-01",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "EDXcellence LLP",
-      "cost": "Free",
-      "team": "1–4",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Arts, Commerce, Sciences & Others",
-      "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/hackathons/national-online-hackathon-2026-edxcellence-llp-1790680"
-        }
-      ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "6 Nov 2026",
-      "isNew": true,
-      "added": "2026-11-05",
-      "summary": "EDXcellence invites students across India to participate in the National Online Hackathon 2026, a free online coding and innovation challenge designed to encourage technical skills, creativity, teamwork, and real-world problem-solving."
-    },
-    {
-      "id": "auto-unstop-1792826",
-      "title": "CodeCrafters India 2026 - National Hackathon",
-      "kind": "hackathon",
-      "end": "2026-12-14",
-      "deadline": "2026-12-02",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "HackWithPune",
-      "cost": "Free",
-      "team": "1–6",
-      "eligibility": "All",
-      "url": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/hackathons/codecrafters-india-2026-national-hackathon-hackwithpune-1792826"
-        }
-      ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
-      "isNew": true,
-      "added": "2026-11-05"
-    },
-    {
-      "id": "auto-unstop-1793392",
-      "title": "404 Hackathon",
-      "kind": "hackathon",
-      "end": "2026-11-30",
-      "deadline": "2026-11-27",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "haX baby",
-      "cost": "Free",
-      "team": "1–3",
-      "eligibility": "All",
-      "prizes": "₹85,000 in cash prizes (total listed)",
-      "url": "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/hackathons/404-hackathon-hax-baby-1793392"
-        }
-      ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
-      "isNew": true,
-      "added": "2026-11-05"
-    },
-    {
       "id": "auto-unstop-1792269",
       "title": "Agentic AI Hackathon (Product Space)",
       "kind": "hackathon",
@@ -1139,35 +1025,6 @@
       "summary": "Two-day online build-first hackathon: kickoff 14 Nov, then you design, build and launch a real AI agent that integrates tools and APIs."
     },
     {
-      "id": "auto-unstop-1793030",
-      "title": "Hack Paradise",
-      "kind": "hackathon",
-      "end": "2026-11-17",
-      "deadline": "2026-11-17",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "Chhattisgarh Swami Vivekanand Technical University (CSVTU), Bhilai, Chhattisgarh",
-      "cost": "Free",
-      "team": "3–4",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate",
-      "prizes": "₹25,000 in cash prizes (total listed)",
-      "url": "https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/hackathons/hack-paradise-kaushalya-20-chhattisgarh-swami-vivekanand-technical-university-csvtu-bhilai-chhattisgarh-1793030"
-        }
-      ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "5 Nov 2026",
-      "isNew": true,
-      "added": "2026-11-05"
-    },
-    {
       "id": "auto-unstop-1782683",
       "title": "CTF - Capture The Flag",
       "kind": "hackathon",
@@ -1192,7 +1049,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Welcome to the CTF SHASTRAA 2027. A nationwide Capture The Flag (CTF) competition for cybersecurity enthusiasts of every skill level. Whether you're an experienced hacker or a curious beginner, this event is designed for you."
@@ -1254,7 +1111,7 @@
       "fit": 53,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "All participants must register through the official Tech Habba platform using the link below. Compete in a timed competitive programming challenge by solving a set of algorithmic problems of increasing difficulty."
@@ -1284,7 +1141,7 @@
       "fit": 57,
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Reverse CodingX – Shaastra 2027. Ever wondered if you could work backwards from an output to uncover the logic behind it? Reverse CodingX is back with a fresh set of brain-teasing challenges that put your logical thinking and problem-solving skills to the test."
@@ -1314,7 +1171,7 @@
       "fit": 41,
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "VIDYUTSPANDA'26 is a 36-hour hardware innovation challenge organised by the Department of Electronics & Communication Engineering, Dayananda Sagar University, Bengaluru, in association with Electroblitz Club and IEEE DSU Student Branch."
@@ -1404,7 +1261,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Anyone can build an AI demo that works once. is about what happens when it goes wrong. It's a free, 3-day virtual hackathon for student builders, hosted by StudentChakra and co-hosted by Priyanshu Agarwal (founder of NextMove, organiser of Hackorizon)."
@@ -1446,7 +1303,7 @@
       "title": "Out of Bounds - Web Game Development Hackathon (Paid)",
       "kind": "hackathon",
       "end": "2026-11-29",
-      "deadline": "2026-11-10",
+      "deadline": "2026-11-20",
       "city": "Online",
       "region": "online",
       "mode": "Online",
@@ -1466,7 +1323,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Presented by Code Variant — Build Different. Every game begins with an idea. In OUT OF BOUNDS, your team gets 12 hours to turn yours into a playable browser-based experience."
@@ -1496,7 +1353,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Organized by Frontend Arena | In collaboration with Adaption. Event Dates: December 10–12, 2026. AI BuildFest 2026 is a 48-hour online hackathon focused on building AI-powered solutions for real-world challenges."
@@ -1527,7 +1384,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Build with Agora — Bengaluru 2026. Build with Agora is a one-day, in-person hackathon organized by KNOTiC, bringing together developers, AI engineers, startup founders, and technology enthusiasts to build innovative applications using Agora's real-time engagement technologies."
@@ -1555,10 +1412,10 @@
           "url": "https://unstop.com/hackathons/ideathon-acharya-institute-of-technology-1771966"
         }
       ],
-      "fit": 53,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "fit": 45,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "All participants must register through the official Tech Habba platform using the link below. Turn your technology idea into a viable business model at this Ideathon."
@@ -1589,7 +1446,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Prompt to Product Website Registration. All participants must register through the official Tech Habba platform using the link below. Build, test, and deploy a functional Minimum Viable Product (MVP) from a problem statement revealed at the event."
@@ -1620,7 +1477,7 @@
       "fit": 53,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "All participants must register through the official CTF platform using the link below. Organized by The Big O, the coding and cybersecurity club of Acharya Institute of Technology, as part of Tech Habba 2026, this Capture The Flag (CTF) competition challenges participants to…"
@@ -1648,10 +1505,10 @@
           "url": "https://unstop.com/hackathons/the-big-hack-20-acharya-institute-of-technology-1771496"
         }
       ],
-      "fit": 53,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
+      "fit": 45,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Welcome to The Big Hack 2.0 , a hackathon organized at Acharya Institute of Technology in collaboration with The Big O ! The Big Hack brings together passionate developers, creative thinkers, and aspiring innovators to transform ideas into impactful solutions."
@@ -1681,7 +1538,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "HackHere proudly presents THE SUMMIT EXPEDITION , a 24-hour national-level hackathon set against the breathtaking landscapes of Ooty, Tamil Nadu ."
@@ -1711,7 +1568,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Your dashboard, your team and your project submission are on that site, so registering on Unstop alone is not enough to take part. Homingo Hack Days is an online AI hackathon, open to participants across India."
@@ -1742,7 +1599,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Clarification Note: The Round 1 shortlisting approach has been revised. Problem statements will be released on the day of the on-campus hackathon. Please refer to the updated stage descriptions for details."
@@ -1773,7 +1630,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Registration Note: All registrations will be completed exclusively through our official website. Please use the link below to register. Enter the ultimate coding showdown where logic meets speed."
@@ -1803,7 +1660,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Anna AI App Builder Challenge 2026:. The Anna AI App Builder Challenge invites developers to turn an existing AI Agent, Python or Node.js script, MCP server, workflow, open-source project, SaaS product, or a completely new idea into a fully functional user-facing App on Anna AI…"
@@ -1832,7 +1689,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "NASA Space Apps Challenge 2026 – Raipur:. 14–15 November 2026 | NIT Raipur. The NASA Space Apps Challenge is a global hackathon that brings together students, developers, engineers, scientists, designers, researchers, entrepreneurs and space enthusiasts to solve real-world…"
@@ -1861,7 +1718,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "2-Day Immersive AI Training Programme at IIT Bombay. An immersive, 2-day offline AI training programme at the IIT Bombay campus, designed to take participants through the complete spectrum of modern Artificial Intelligence."
@@ -1890,7 +1747,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Time: As per the event schedule. AI-powered tools are making software development faster, but building complete applications still requires an understanding of architecture, functionality, user experience, and backend systems."
@@ -1919,7 +1776,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Artificial intelligence is changing the way technology professionals work and creating new expectations from aspiring engineers. Understanding what to learn and how to prepare can make a major difference when entering the tech industry."
@@ -1976,7 +1833,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Ever wondered how to build your own AI Agent? Your idea could be more than just a prompt. It's time to turn it into something that actually works! Pregrad brings you a FREE LIVE WORKSHOP: Build Your First AI Agent."
@@ -2066,7 +1923,7 @@
       "fit": 55,
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Welcome to Shaastra, the annual technical festival of IIT Madras! Shaastra workshops are back on the ground with their stellar lineup of topics. Our trainers are experts in their domains and are specially selected to guide both absolute beginners and experienced participants."
@@ -2096,7 +1953,7 @@
       "fit": 47,
       "fitReason": "Auto-scored: needs travel, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Welcome to Shaastra, the annual technical festival of IIT Madras! Shaastra workshops are back on the ground with its stellar lineup of topics. Our trainers are experts in their domains and are specially selected to guide both absolute beginners and experienced participants."
@@ -2126,7 +1983,7 @@
       "fit": 47,
       "fitReason": "Auto-scored: needs travel, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Welcome to Shaastra, the annual technical festival of IIT Madras! Shaastra workshops are back on the ground with its stellar lineup of topics. Our trainers are experts in their domains and are specially selected to guide both absolute beginners and experienced participants."
@@ -2184,10 +2041,10 @@
           "url": "https://unstop.com/workshops-webinars/day-1-workshop-drishti-2026-hosted-by-pgpem-iim-bangalore-iim-bangalore-1771692"
         }
       ],
-      "fit": 46,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 38,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "In a world where AI is transforming businesses to become efficient, we must transform ourselves to become effective business managers who are able to influence others for a positive outcome. Learn how to build presence and be a persuasive business leader in this masterclass with."
@@ -2274,7 +2131,7 @@
       "fit": 38,
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05",
       "summary": "Code Battle is a thrilling competitive coding event where logic, speed, and strategy take center stage. Participants face thought-provoking challenges designed to test their skills under pressure, with unexpected twists that keep the competition fierce and unpredictable."
@@ -2332,7 +2189,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2359,7 +2216,7 @@
       "fit": 42,
       "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2386,7 +2243,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2413,7 +2270,7 @@
       "fit": 38,
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2439,7 +2296,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2466,7 +2323,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2493,7 +2350,7 @@
       "fit": 53,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2520,7 +2377,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-05"
     },
@@ -2550,7 +2407,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2579,7 +2436,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2608,7 +2465,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2637,7 +2494,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2666,7 +2523,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2694,7 +2551,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2723,7 +2580,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2752,7 +2609,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2782,7 +2639,7 @@
       "fit": 55,
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2812,7 +2669,7 @@
       "fit": 50,
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2842,7 +2699,7 @@
       "fit": 47,
       "fitReason": "Auto-scored: needs travel, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2872,7 +2729,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2930,10 +2787,10 @@
           "url": "https://unstop.com/quiz/hackiq-geoguessr-geolocation-competition-cyberstorm-2026-cyberstorm-2026-presidency-university-pu-bangalore-1786565"
         }
       ],
-      "fit": 41,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
+      "fit": 33,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2960,7 +2817,7 @@
       "fit": 54,
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -2987,7 +2844,7 @@
       "fit": 38,
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -3017,7 +2874,7 @@
       "fit": 55,
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -3048,7 +2905,7 @@
       "fit": 54,
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -3079,7 +2936,7 @@
       "fit": 54,
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -3108,7 +2965,7 @@
       "fit": 70,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-06"
     },
@@ -3125,7 +2982,7 @@
       "organizer": "Lovely Professional University (LPU), Punjab",
       "cost": "Free",
       "team": "1",
-      "eligibility": "All",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
       "prizes": "₹10,000 in cash prizes (total listed)",
       "summary": "This Diwali, turn your ideas into reality! CodeDia 2026 is a 48-hour individual AI buildathon where participants get the opportunity to create innovative products using Adaption AI.",
       "url": "https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702",
@@ -3138,7 +2995,7 @@
       "fit": 73,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "7 Nov 2026",
+      "verifiedAt": "8 Nov 2026",
       "isNew": true,
       "added": "2026-11-07"
     },
@@ -3170,7 +3027,188 @@
       "verifiedAt": "7 Nov 2026",
       "isNew": true,
       "added": "2026-11-07"
+    },
+    {
+      "id": "auto-unstop-1800395",
+      "title": "Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship",
+      "kind": "hackathon",
+      "end": "2027-07-31",
+      "deadline": "2027-07-31",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Galuxium",
+      "cost": "Free",
+      "team": "1–3",
+      "eligibility": "All",
+      "prizes": "₹15,000 in cash prizes (total listed)",
+      "summary": "The Mandate: Stop Building Throwaway Prototypes. Build a Venture-Ready Company. Most hackathons end with a static slide deck and an abandoned GitHub repository.",
+      "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
+    },
+    {
+      "id": "auto-unstop-1794479",
+      "title": "Incpetrix 3.0",
+      "kind": "hackathon",
+      "end": "2027-02-20",
+      "deadline": "2026-12-24",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "5th km, NH - 209,Jakkasandra Post, Bengaluru - Kanakapura Rd, Bengaluru, Karnataka, 562112",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Faculty of Engineering and Technology, Jain Deemed to be University",
+      "cost": "Paid (amount on the listing)",
+      "team": "4–5",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹2,50,000 in cash prizes (total listed)",
+      "summary": "INCEPTRIX 3.0 – Innovations Begin for a Better Nation. 19th–20th February 2027 | JAIN (Deemed-to-be-University), Bengaluru. INCEPTRIX 3.0 is the flagship innovation and technology hackathon organised by the Tech Council, Faculty of Engineering & Technology, JAIN…",
+      "url": "https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479"
+        }
+      ],
+      "fit": 41,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
+    },
+    {
+      "id": "auto-unstop-1800324",
+      "title": "Agentware | 72-Hour Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-27",
+      "deadline": "2026-11-27",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Hackathon Raptors",
+      "cost": "Free",
+      "team": "1–4",
+      "eligibility": "All",
+      "prizes": "₹1,600 in cash prizes (total listed)",
+      "summary": "About the Hackathon - agentwarehack.com. Agentware is a 72-hour online AI agent engineering hackathon built around one challenge: build an autonomous AI agent that can perform real work independently, operate reliably, and know when to stop.",
+      "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/agentware-72-hour-hackathon-hackathon-raptors-1800324"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
+    },
+    {
+      "id": "auto-unstop-1799762",
+      "title": "Project Jupyter",
+      "kind": "hackathon",
+      "end": "2027-03-10",
+      "deadline": "2027-03-01",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Army Institute of technology, Pune",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
+      "prizes": "₹30,000 in cash prizes (total listed)",
+      "summary": "All that you need to know about Project Jupyter. Project Jupyter brings together developers, designers, and problem-solvers to build innovative solutions using Artificial Intelligence and Machine Learning .",
+      "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/project-jupyter-solutions-2k27-army-institute-of-technology-pune-1799762"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
+    },
+    {
+      "id": "auto-unstop-1799510",
+      "title": "Gen-AI Product Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-14",
+      "deadline": "2026-11-14",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Product Space",
+      "cost": "Free",
+      "team": "1–2",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
+      "prizes": "₹2,00,000 in cash prizes (total listed)",
+      "summary": "Date: 14th Nov 2026 (Saturday). Kickoff Session: 14th Nov 2026 (Saturday). This is a one-day, hands-on hackathon for individuals who want to build and launch a working AI product.",
+      "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/gen-ai-product-hackathon-product-space-1799510"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
+    },
+    {
+      "id": "auto-unstop-1799509",
+      "title": "AI Builder Hackathon",
+      "kind": "hackathon",
+      "end": "2026-11-14",
+      "deadline": "2026-11-14",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Product Space",
+      "cost": "Free",
+      "team": "1–2",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Arts, Commerce, Sciences & Others",
+      "prizes": "₹2,00,000 in cash prizes (total listed)",
+      "summary": "Kickoff Session: 14th Nov (Saturday), 2026. This is a hands-on, build-first hackathon created for individuals who want to launch a real AI product , not just present ideas or mockups. During this one day, participants will:.",
+      "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/ai-builder-hackathon-product-space-1799509"
+        }
+      ],
+      "fit": 73,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "8 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-08"
     }
   ],
-  "lastAutoRun": "7 Nov 2026"
+  "lastAutoRun": "8 Nov 2026"
 }
