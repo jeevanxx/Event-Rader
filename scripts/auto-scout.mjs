@@ -109,6 +109,7 @@ function score(e) {
   if (/beginner|no prior|no coding|first.?time|all levels|freshers/i.test(text)) { s += 5; why.push("beginner-friendly"); }
   if (e.kind === "hackathon") s += 3;
   if (e.deadline) { const d = (Date.parse(e.deadline) - Date.parse(TODAY)) / 86400000; if (d <= 2) { s -= 8; why.push("registration closes very soon"); } }
+  if (e.region === "online") s = Math.min(s, 65); // online events are easy to join but plentiful; keep them below nearby ones
   s = Math.max(5, Math.min(75, Math.round(s))); // auto scores stay at or below 75 so reviewed picks rank above them
   return { fit: s, fitReason: `Auto-scored: ${why.join(", ")}. Details come straight from the listing and haven't been reviewed.` };
 }
