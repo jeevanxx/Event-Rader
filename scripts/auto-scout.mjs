@@ -275,6 +275,7 @@ function sameEvent(a, b) {
 }
 const humanKeys = new Set(d.events.filter((e) => !e.auto).flatMap((e) => [keyOf(e), normTitle(e.title), e.url].filter(Boolean)));
 const byId = new Map(d.events.map((e) => [e.id, e]));
+const idsBefore = new Set(d.events.map((e) => e.id));
 let added = 0, refreshed = 0;
 const seen = new Set();
 const keptThisRun = [];
@@ -338,6 +339,8 @@ d.events = d.events.filter((e) => {
 });
 for (const e of d.events) if (e.isNew && e.added && (Date.parse(TODAY) - Date.parse(e.added)) / 86400000 > 3) e.isNew = false;
 const removed = before - d.events.length;
+// Count only new cards that survived the online cap and housekeeping.
+added = d.events.filter((e) => e.auto && e.added === TODAY && !idsBefore.has(e.id)).length;
 d.lastAutoRun = NICE;
 if (added) { d.lastRun = NICE; d.added = added; }
 
