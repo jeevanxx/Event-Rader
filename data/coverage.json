@@ -1,33 +1,33 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 4
+      "updated": 2
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 3
+      "found": 0
     },
     "C": {
-      "checked": true,
-      "partial": true,
+      "checked": false,
       "found": 0
     },
     "D": {
-      "checked": false,
+      "checked": true,
+      "partial": true,
       "found": 0
     },
     "E": {
-      "checked": false,
-      "found": 0
-    },
-    "F": {
       "checked": true,
       "partial": true,
+      "found": 2
+    },
+    "F": {
+      "checked": false,
       "found": 0
     },
     "G": {
@@ -36,5 +36,5 @@
       "found": 0
     }
   },
-  "notes": "Reviewed the overnight automatic finds. Trivandrum search found only a Technopark GenAI hackathon that already happened (7 Nov). Kanyakumari/Tirunelveli colleges show no upcoming events. The GDG Trivandrum event page couldn't be loaded to re-check DevFest Trivandrum."
+  "notes": "Checked government and startup bodies (KSUM, Smart India Hackathon 2026, Naan Mudhalvan) and communities (FOSS United, PyCon). SIH 2026 isn't joinable now: college internal rounds were in September, and finalist shortlisting runs Oct to Nov. KSUM showed no new student events. The overnight GitHub automatic run hadn't started when this check ran (GitHub delays timed jobs)."
 }
