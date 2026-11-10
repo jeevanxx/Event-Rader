@@ -1,19 +1,20 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 2
+      "updated": 3
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 0
+      "found": 1
     },
     "C": {
-      "checked": false,
+      "checked": true,
+      "partial": true,
       "found": 0
     },
     "D": {
@@ -24,10 +25,11 @@
     "E": {
       "checked": true,
       "partial": true,
-      "found": 2
+      "found": 0
     },
     "F": {
-      "checked": false,
+      "checked": true,
+      "partial": true,
       "found": 0
     },
     "G": {
@@ -36,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Checked government and startup bodies (KSUM, Smart India Hackathon 2026, Naan Mudhalvan) and communities (FOSS United, PyCon). SIH 2026 isn't joinable now: college internal rounds were in September, and finalist shortlisting runs Oct to Nov. KSUM showed no new student events. The overnight GitHub automatic run hadn't started when this check ran (GitHub delays timed jobs)."
+  "notes": "Searched every section at least once, but not every source in it. Re-checked the top events (DevFest Trivandrum, Startup Buildathon, International Hackathon 5.0): no changes. Most other search results were past events (KeralAI Grand Challenge, Code Kalari, Protosynth, ODYSSEY, Maker Sprint, EmberGround, Hack This Fall, CNCF Trivandrum). WebFetch's allowlist blocked startupbuildathon.com, eclearnix.com and ocgroups.dev, so I read those pages with a direct download instead. The automatic GitHub check for 10 Nov hadn't run yet."
 }

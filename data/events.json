@@ -1,6 +1,6 @@
 {
-  "lastRun": "9 Nov 2026",
-  "added": 2,
+  "lastRun": "10 Nov 2026",
+  "added": 1,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -188,7 +188,7 @@
           "url": "https://gdg.community.dev/gdg-thiruvananthapuram/"
         }
       ],
-      "verifiedAt": "2 Nov 2026",
+      "verifiedAt": "10 Nov 2026",
       "fit": 84,
       "fitReason": "The closest DevFest to you: Trivandrum is a short trip from Nagercoil, so it's a day out, not an overnight trip. Beginner-friendly, Google AI and Cloud workshops, and a great place to meet Kerala's developer community. Ticket price isn't shown yet.",
       "isNew": false,
@@ -354,7 +354,7 @@
           "url": "https://www.eclearnix.com/course/ih5o/"
         }
       ],
-      "verifiedAt": "9 Nov 2026",
+      "verifiedAt": "10 Nov 2026",
       "fit": 72,
       "fitReason": "Free, online, and has a SaaS track that fits what you want to build. No travel, and the PPT-first format suits a beginner. Eligibility isn't spelled out, so check when registering.",
       "isNew": false,
@@ -781,7 +781,7 @@
           "url": "https://startupbuildathon.com/"
         }
       ],
-      "verifiedAt": "4 Nov 2026",
+      "verifiedAt": "10 Nov 2026",
       "fit": 74,
       "fitReason": "Made for exactly your goal: turning an AI idea into a startup, with Google mentors, VCs and serious prizes. The Chennai and Kochi city rounds are reachable. It's competitive and selective, so a sharp application matters.",
       "isNew": false,
@@ -2382,7 +2382,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2411,7 +2411,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2440,7 +2440,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2469,7 +2469,7 @@
       "fitReason": "Auto-scored: online, no travel, free, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2498,7 +2498,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2526,7 +2526,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2555,7 +2555,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2584,7 +2584,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2614,7 +2614,7 @@
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2644,7 +2644,7 @@
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2674,7 +2674,7 @@
       "fitReason": "Auto-scored: needs travel, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2704,7 +2704,7 @@
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2734,7 +2734,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "7 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2765,7 +2765,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2792,7 +2792,7 @@
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2819,7 +2819,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2849,7 +2849,7 @@
       "fitReason": "Auto-scored: needs travel, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2880,7 +2880,7 @@
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2911,7 +2911,7 @@
       "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -2940,7 +2940,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "9 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-06"
     },
     {
@@ -3331,6 +3331,39 @@
       "fitReason": "Same day as DevFest Trivandrum, which is far closer and more relevant for you.",
       "isNew": true,
       "added": "2026-11-09"
+    },
+    {
+      "id": "haxfinity-xthron27-amal-2027",
+      "title": "HAXFINITY: 21-hour hackathon (XTHRON '27)",
+      "kind": "hackathon",
+      "start": "2027-01-03",
+      "end": "2027-01-04",
+      "deadline": "2026-12-10",
+      "city": "Nilambur, Malappuram",
+      "region": "kerala",
+      "mode": "In person",
+      "venue": "Amal College of Advanced Studies (Autonomous)",
+      "address": "Santhigramam, Eranhimangad, Nilambur, Malappuram, Kerala 679329",
+      "organizer": "Department of Computer Science, Amal College of Advanced Studies (part of its IT fest XTHRON '27)",
+      "cost": "Free",
+      "team": "2 to 4 (no solo entries)",
+      "eligibility": "Students from any college, stream or experience level; cross-college teams allowed",
+      "prizes": "Not announced yet",
+      "theme": "Open: tracks are Open Innovation, AI/ML and Social Good",
+      "summary": "Overnight 21-hour build, about 10:30 AM on 3 Jan to 10:30 AM on 4 Jan 2027. Apply on Devfolio by 10 Dec 2026.",
+      "warning": "Part of the page text says 3–4 December; the Devfolio event data says 3–4 January 2027, which is what's shown here.",
+      "url": "https://haxfinity.devfolio.co/",
+      "sources": [
+        {
+          "title": "HAXFINITY on Devfolio",
+          "url": "https://haxfinity.devfolio.co/"
+        }
+      ],
+      "verifiedAt": "10 Nov 2026",
+      "fit": 40,
+      "fitReason": "Free, beginner-friendly and open to any college, but Nilambur is roughly 400 km away, so it needs overnight travel. Closer options in December are DevFest Coimbatore and the Great Indian Hackathon.",
+      "isNew": true,
+      "added": "2026-11-10"
     }
   ],
   "lastAutoRun": "9 Nov 2026"
