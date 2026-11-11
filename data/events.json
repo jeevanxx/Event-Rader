@@ -1,6 +1,6 @@
 {
   "lastRun": "11 Nov 2026",
-  "added": 6,
+  "added": 1,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -3367,6 +3367,35 @@
       ],
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "11 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-11"
+    },
+    {
+      "id": "auto-unstop-1803901",
+      "title": "Free Live Webinar on Data Analyst with AI",
+      "kind": "workshop",
+      "end": "2026-11-12",
+      "deadline": "2026-11-12",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Quality Thought Info Systems",
+      "cost": "Free",
+      "team": "1",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Fresher, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "summary": "Are you interested in building a career in Data Analytics and Artificial Intelligence? Do you want to learn how businesses use data to make better decisions and how AI tools are changing the way data analysts work?",
+      "url": "https://unstop.com/workshops-webinars/free-live-webinar-on-data-analyst-with-ai-quality-thought-info-systems-1803901",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/free-live-webinar-on-data-analyst-with-ai-quality-thought-info-systems-1803901"
+        }
+      ],
+      "fit": 62,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "11 Nov 2026",
       "isNew": true,
