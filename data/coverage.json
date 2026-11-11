@@ -1,11 +1,12 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 3
+      "updated": 3,
+      "removed": 2
     },
     "B": {
       "checked": true,
@@ -38,5 +39,5 @@
       "found": 0
     }
   },
-  "notes": "Searched every section at least once, but not every source in it. Re-checked the top events (DevFest Trivandrum, Startup Buildathon, International Hackathon 5.0): no changes. Most other search results were past events (KeralAI Grand Challenge, Code Kalari, Protosynth, ODYSSEY, Maker Sprint, EmberGround, Hack This Fall, CNCF Trivandrum). WebFetch's allowlist blocked startupbuildathon.com, eclearnix.com and ocgroups.dev, so I read those pages with a direct download instead. The automatic GitHub check for 10 Nov hadn't run yet."
+  "notes": "Removed two automatic cards for civil and electrical engineering (Expanding Horizons 8.0). The automatic check now also drops older cards that fail its filters. Most other results were past or closed (ORION 1.0, Tech Genesis, HackfiniX, Dev Days Kochi, Startup Grind Kanniyakumari leadership program on 8-10 Oct). Re-checked the top events: no changes."
 }

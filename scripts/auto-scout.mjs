@@ -335,6 +335,8 @@ d.events = d.events.filter((e) => {
   const end = e.end || e.start;
   if (end && end < cutoff) return false;
   if (e.auto && !liveIds.has(e.id) && e.deadline && e.deadline < TODAY && !(e.start && e.start >= TODAY)) return false;
+  // Auto cards added before a filter was tightened: drop them once they fail it.
+  if (e.auto && !e.joy && EXCLUDE.test(`${e.title} ${e.organizer || ""}`)) return false;
   return true;
 });
 for (const e of d.events) if (e.isNew && e.added && (Date.parse(TODAY) - Date.parse(e.added)) / 86400000 > 3) e.isNew = false;
