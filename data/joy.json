@@ -1,7 +1,21 @@
 {
-  "updated": "11 Nov 2026",
+  "updated": "12 Nov 2026",
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
+    {
+      "title": "MoU with Crazy Coconut",
+      "date": "2026-11-11",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/441",
+      "tech": false
+    },
+    {
+      "title": "JOYRISE 2026",
+      "date": "2026-11-11",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/440",
+      "tech": false
+    },
     {
       "title": "SOET Freshers’ Day VYRON’26",
       "date": "2026-11-06",
@@ -50,13 +64,6 @@
       "kind": "workshop",
       "url": "https://joyuniversity.edu.in/Event-Listing/433",
       "tech": true
-    },
-    {
-      "title": "Cultural Club Inauguration",
-      "date": "2026-11-03",
-      "kind": "campus",
-      "url": "https://joyuniversity.edu.in/Event-Listing/432",
-      "tech": false
     },
     {
       "title": "AI-Based Engineering Future",
