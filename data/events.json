@@ -1,6 +1,6 @@
 {
-  "lastRun": "11 Nov 2026",
-  "added": 1,
+  "lastRun": "12 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -1525,11 +1525,11 @@
       "kind": "hackathon",
       "end": "2026-11-15",
       "deadline": "2026-11-15",
-      "city": "Online",
+      "city": "Raipur, Chhattisgarh",
       "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "National Institute of Technology (NIT), Raipur",
+      "mode": "In person",
+      "venue": "National Institute of Technology (NIT) Raipur",
+      "organizer": "National Institute of Technology (NIT), Raipur (NASA Space Apps local event)",
       "cost": "Free",
       "team": "1–6",
       "eligibility": "All",
@@ -1540,13 +1540,15 @@
           "url": "https://unstop.com/hackathons/nasa-space-apps-challenge-2026-national-institute-of-technology-nit-raipur-1745979"
         }
       ],
-      "fit": 73,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "8 Nov 2026",
+      "fit": 15,
+      "fitReason": "A real NASA Space Apps local event, but it's in person in Raipur, about 2,000 km away. Only worth it if you're already nearby.",
+      "auto": false,
+      "verifiedAt": "12 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
-      "summary": "NASA Space Apps Challenge 2026 – Raipur:. 14–15 November 2026 | NIT Raipur. The NASA Space Apps Challenge is a global hackathon that brings together students, developers, engineers, scientists, designers, researchers, entrepreneurs and space enthusiasts to solve real-world…"
+      "summary": "NASA Space Apps Challenge 2026 – Raipur:. 14–15 November 2026 | NIT Raipur. The NASA Space Apps Challenge is a global hackathon that brings together students, developers, engineers, scientists, designers, researchers, entrepreneurs and space enthusiasts to solve real-world…",
+      "start": "2026-11-14",
+      "warning": "Unstop lists this as online, but its description says it's the in-person Raipur local event at NIT Raipur on 14–15 Nov. It also needs two registrations (Unstop plus the NASA Space Apps site)."
     },
     {
       "id": "auto-unstop-1794999",
@@ -2791,7 +2793,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "11 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-08"
     },
     {
@@ -2822,7 +2824,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "11 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-08"
     },
     {
@@ -2851,7 +2853,7 @@
       "fit": 60,
       "fitReason": "Free and online, on AI agents, and it allows any stack. Small prizes, and the exact dates need confirming.",
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-08",
       "theme": "Build an autonomous AI agent that does real work reliably and knows when to stop",
       "warning": "The exact 72-hour window isn't stated on the listing; only the registration close (27 Nov, 11 PM) is. Check agentwarehack.com."
@@ -2883,7 +2885,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "11 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-08"
     },
     {
@@ -2912,7 +2914,7 @@
       "fit": 70,
       "fitReason": "Free, online and solo-friendly, with a real build-and-launch format. It overlaps with the other Product Space listings on the same day.",
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-08",
       "start": "2026-11-14",
       "theme": "Build and launch a working AI agent that reasons, makes decisions and uses tools",
@@ -2944,7 +2946,7 @@
       "fit": 68,
       "fitReason": "Same format as the Gen-AI Product Hackathon on the same day. Pick one.",
       "verifiedAt": "8 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-08",
       "start": "2026-11-14",
       "theme": "Conceptualise, build and launch a complete agentic AI solution",
@@ -2977,7 +2979,7 @@
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "11 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-08"
     },
     {
@@ -3340,7 +3342,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "11 Nov 2026",
+      "verifiedAt": "12 Nov 2026",
       "isNew": true,
       "added": "2026-11-11"
     },
@@ -3368,9 +3370,11 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "11 Nov 2026",
+      "verifiedAt": "12 Nov 2026",
       "isNew": true,
-      "added": "2026-11-11"
+      "added": "2026-11-11",
+      "prizes": "₹3,00,000 (as listed on India Hackathons)",
+      "team": "Teams of 5 (150 builders, 30 teams)"
     },
     {
       "id": "auto-unstop-1803901",

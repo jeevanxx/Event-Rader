@@ -1,17 +1,16 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 3,
-      "removed": 2
+      "updated": 3
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 1
+      "found": 0
     },
     "C": {
       "checked": true,
@@ -39,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Removed two automatic cards for civil and electrical engineering (Expanding Horizons 8.0). The automatic check now also drops older cards that fail its filters. Most other results were past or closed (ORION 1.0, Tech Genesis, HackfiniX, Dev Days Kochi, Startup Grind Kanniyakumari leadership program on 8-10 Oct). Re-checked the top events: no changes."
+  "notes": "Nothing new today. Search results were mostly past events (Hackwell'26, PRATHIYOGITHA Vol.2, Y-Hack '26, 2025 DevFests). Checked the two Bengaluru hackathons the automatic check found (Build Out Loud, 15 Nov; Cashfree × Sarvam, 21 Nov) on India Hackathons. Corrected the NASA Space Apps (NIT Raipur) card: Unstop says online, but it's an in-person event in Raipur."
 }
