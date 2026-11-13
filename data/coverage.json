@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 3
+      "updated": 1
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 0
+      "found": 1
     },
     "C": {
       "checked": true,
@@ -38,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Nothing new today. Search results were mostly past events (Hackwell'26, PRATHIYOGITHA Vol.2, Y-Hack '26, 2025 DevFests). Checked the two Bengaluru hackathons the automatic check found (Build Out Loud, 15 Nov; Cashfree × Sarvam, 21 Nov) on India Hackathons. Corrected the NASA Space Apps (NIT Raipur) card: Unstop says online, but it's an in-person event in Raipur."
+  "notes": "Found one new event, Qiskit Fall Fest in Bengaluru, through StartupGrantsIndia and Luma. Other results were past events (Hack for Bharat 2025, MLH AI Roadshow, Build with Gemma 4 in May, Tekathon '26). WebFetch's allowlist blocked Luma, so I read the Luma page with a direct download instead. International Hackathon 5.0's deadline may be extended."
 }

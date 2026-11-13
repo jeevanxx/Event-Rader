@@ -1,5 +1,5 @@
 {
-  "lastRun": "12 Nov 2026",
+  "lastRun": "13 Nov 2026",
   "added": 1,
   "events": [
     {
@@ -354,11 +354,12 @@
           "url": "https://www.eclearnix.com/course/ih5o/"
         }
       ],
-      "verifiedAt": "11 Nov 2026",
+      "verifiedAt": "13 Nov 2026",
       "fit": 72,
       "fitReason": "Free, online, and has a SaaS track that fits what you want to build. No travel, and the PPT-first format suits a beginner. Eligibility isn't spelled out, so check when registering.",
       "isNew": false,
-      "added": "2026-11-01"
+      "added": "2026-11-01",
+      "warning": "As of 13 Nov the page still shows the 12 Nov registration deadline marked \"(May Extend)\", with Round 1 presentations on 14 Nov. Check the page before assuming it's closed."
     },
     {
       "id": "paypal-ai-hackathon-2026",
@@ -2977,7 +2978,7 @@
       "verifiedAt": "9 Nov 2026",
       "fit": 50,
       "fitReason": "Online and short, and a good on-ramp to open-source contributions, which strengthen a GitHub portfolio. It's an info call, not a hands-on build.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-09"
     },
     {
@@ -3005,7 +3006,7 @@
       "verifiedAt": "9 Nov 2026",
       "fit": 25,
       "fitReason": "Same day as DevFest Trivandrum, which is far closer and more relevant for you.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-09"
     },
     {
@@ -3403,6 +3404,41 @@
       "verifiedAt": "12 Nov 2026",
       "isNew": true,
       "added": "2026-11-12"
+    },
+    {
+      "id": "qiskit-fall-fest-quantumx-blr-2026",
+      "title": "Qiskit Fall Fest 2026: Hands-On Quantum Programming with Qiskit",
+      "kind": "workshop",
+      "start": "2026-11-16",
+      "end": "2026-11-16",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "HKBK College of Engineering",
+      "address": "HKBK College of Engineering, Bengaluru, Karnataka",
+      "organizer": "QuantumX Foundation, as a local host of IBM's Qiskit Fall Fest",
+      "cost": "Free",
+      "eligibility": "Students from any institution, no quantum experience needed (the listing also mentions professionals; confirm with events@quantumx.community)",
+      "theme": "Quantum programming with the Qiskit SDK",
+      "perks": "Certificate of participation",
+      "bring": "Laptop (the session includes setting up a Qiskit environment)",
+      "summary": "Half-day hands-on session, Monday 16 Nov, 10 AM to 2 PM. Covers setting up Qiskit, building and running quantum circuits on simulators, and using the IBM Quantum Platform.",
+      "url": "https://luma.com/79i0vamg",
+      "sources": [
+        {
+          "title": "Luma event page",
+          "url": "https://luma.com/79i0vamg"
+        },
+        {
+          "title": "StartupGrantsIndia listing",
+          "url": "https://www.startupgrantsindia.com/events/qiskit-fall-fest-2026-hands-on-quantum-programming-with-qiskit"
+        }
+      ],
+      "verifiedAt": "13 Nov 2026",
+      "fit": 30,
+      "fitReason": "Free and hands-on, a novel topic with a certificate, but it's a Monday in Bengaluru, so you'd miss college and travel overnight for a half-day session.",
+      "isNew": true,
+      "added": "2026-11-13"
     }
   ],
   "lastAutoRun": "12 Nov 2026"
