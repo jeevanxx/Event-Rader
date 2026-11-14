@@ -1,6 +1,6 @@
 {
   "lastRun": "14 Nov 2026",
-  "added": 5,
+  "added": 1,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -3359,6 +3359,36 @@
       ],
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "14 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-14"
+    },
+    {
+      "id": "auto-unstop-1809486",
+      "title": "LightHouse - Hackathon",
+      "kind": "hackathon",
+      "end": "2027-01-10",
+      "deadline": "2026-12-31",
+      "city": "Online",
+      "region": "online",
+      "mode": "Online",
+      "venue": "Online",
+      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
+      "cost": "Free",
+      "team": "2–5",
+      "eligibility": "All",
+      "prizes": "₹5,10,000 in cash prizes (total listed)",
+      "summary": "LightHouse is an international, online hackathon for builders of agentic AI. Over several weeks, teams design and ship autonomous AI agents that plan, reason, use tools, and take action to solve real-world problems.",
+      "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "14 Nov 2026",
       "isNew": true,
