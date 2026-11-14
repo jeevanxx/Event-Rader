@@ -1,7 +1,14 @@
 {
-  "updated": "13 Nov 2026",
+  "updated": "14 Nov 2026",
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
+    {
+      "title": "JOYINDAMIA ’26",
+      "date": "2026-11-13",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/442",
+      "tech": false
+    },
     {
       "title": "MoU with Crazy Coconut",
       "date": "2026-11-11",
@@ -59,11 +66,11 @@
       "tech": false
     },
     {
-      "title": "N8N AI Agent Bootcamp",
+      "title": "Cultural Club Inauguration",
       "date": "2026-11-03",
-      "kind": "workshop",
-      "url": "https://joyuniversity.edu.in/Event-Listing/433",
-      "tech": true
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/432",
+      "tech": false
     },
     {
       "title": "AI-Based Engineering Future",

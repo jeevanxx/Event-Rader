@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 126
+      "found": 132
     },
     "Eventopia": {
       "ok": true,
@@ -15,10 +15,10 @@
     },
     "Joy University": {
       "ok": true,
-      "found": 424
+      "found": 425
     }
   },
-  "added": 6,
-  "refreshed": 41,
-  "removed": 6
+  "added": 5,
+  "refreshed": 40,
+  "removed": 3
 }
