@@ -8,7 +8,7 @@ Rules that apply everywhere:
 - Record which sections were checked and how many events each produced in `data/coverage.json` (see the end of this file).
 
 ## Before you start
-The free automatic check (GitHub Actions, 6:15 AM IST) has usually already added *Auto-found* cards (`auto: true`). Don't duplicate them. Where you verify one on its official page, fill in the missing fields, set `auto` to false (remove it) and rewrite `fitReason` honestly. Remove auto cards that turn out to be wrong or not joinable.
+The free automatic check (GitHub Actions, 6:15 AM IST) has usually already added *Auto-found* cards (`auto: true`). Don't duplicate them. Where you verify one on its official page, fill in the missing fields, set `auto` to false (remove it) and rewrite `fitReason` honestly. Remove auto cards that turn out to be wrong or not joinable, and add their id to the top-level `removed` list in events.json so the automatic check doesn't add them back.
 
 ## A. Re-check what's already in the app
 Every upcoming event in `data/events.json`: open its `url` and every `sources` link. Resolve warnings, catch changes (date, venue, deadline, price, registration closed, cancelled, postponed). Remove events that ended more than 14 days ago.

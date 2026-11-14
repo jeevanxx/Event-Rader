@@ -289,6 +289,7 @@ for (const raw of found) {
   const { _src, ...e } = raw;
   for (const k of Object.keys(e)) if (e[k] === undefined || e[k] === "") delete e[k];
   if (!e.title) continue;
+  if ((d.removed || []).includes(e.id)) continue; // removed by a reviewer: don't bring it back
   const k = keyOf(e);
   if (seen.has(k) || seen.has(e.url) || keptThisRun.some((x) => sameEvent(x, e))) continue; // same event from two sources this run
   seen.add(k); seen.add(e.url);

@@ -3327,5 +3327,10 @@
       "added": "2026-11-13"
     }
   ],
-  "lastAutoRun": "13 Nov 2026"
+  "lastAutoRun": "13 Nov 2026",
+  "removed": [
+    "auto-unstop-1799780",
+    "auto-unstop-1799782",
+    "auto-unstop-1805783"
+  ]
 }
