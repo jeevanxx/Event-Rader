@@ -1,6 +1,6 @@
 {
-  "lastRun": "13 Nov 2026",
-  "added": 6,
+  "lastRun": "14 Nov 2026",
+  "added": 1,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -2806,7 +2806,7 @@
       "verifiedAt": "10 Nov 2026",
       "fit": 40,
       "fitReason": "Free, beginner-friendly and open to any college, but Nilambur is roughly 400 km away, so it needs overnight travel. Closer options in December are DevFest Coimbatore and the Great Indian Hackathon.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-10"
     },
     {
@@ -2835,7 +2835,7 @@
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "13 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-10"
     },
     {
@@ -2866,7 +2866,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "13 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-10"
     },
     {
@@ -2897,7 +2897,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "11 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-10"
     },
     {
@@ -3180,34 +3180,37 @@
     },
     {
       "id": "auto-unstop-1806122",
-      "title": "Defy'27",
+      "title": "DeFy'27: Web3 hackathon",
       "kind": "hackathon",
-      "end": "2026-12-14",
+      "end": "2027-01-10",
       "deadline": "2026-12-14",
       "city": "Chennai",
       "region": "tamilnadu",
-      "mode": "In person",
-      "venue": "Vellore Institute of Technology, Chennai",
-      "address": "Chennai, Tamil Nadu",
-      "organizer": "Vellore Institute of Technology (VIT), Chennai",
-      "cost": "Free",
-      "team": "4–6",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹1,00,000 in cash prizes (total listed)",
-      "summary": "DeFy'27 is a Web3 hackathon designed for students passionate about entrepreneurship, innovation, technology and decentralization. Going beyond traditional hackathons, DeFy'27 combines technological innovation with entrepreneurial thinking, challenging participants to identify…",
+      "mode": "Online idea round, then 24-hour onsite hackathon",
+      "venue": "VIT Chennai (onsite round)",
+      "address": "Vellore Institute of Technology, Vandalur–Kelambakkam Road, Chennai",
+      "organizer": "DAO Community and Business Innovation Community, VIT Chennai",
+      "cost": "Not stated on Unstop",
+      "team": "4 to 6",
+      "eligibility": "Students (undergraduate and postgraduate, any stream)",
+      "prizes": "₹1,00,000 prize pool (split not announced yet)",
+      "summary": "Round 1 is an online idea submission (apply on Unstop by 14 Dec). Shortlisted teams come to VIT Chennai for a 24-hour hackathon on 9–10 Jan 2027.",
       "url": "https://unstop.com/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "DeFy'27 on Unstop",
           "url": "https://unstop.com/hackathons/defy27-vellore-institute-of-technology-vit-chennai-1806122"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: needs travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "13 Nov 2026",
+      "fit": 45,
+      "fitReason": "A good-sized prize and Chennai is reachable, and Round 1 is online. But it needs a team of at least 4 and Web3 knowledge, which is a niche skill.",
+      "auto": false,
+      "verifiedAt": "14 Nov 2026",
       "isNew": true,
-      "added": "2026-11-13"
+      "added": "2026-11-14",
+      "start": "2027-01-09",
+      "theme": "Web3: DeFi, Public goods or Open innovation; you choose your own problem in a track",
+      "warning": "The organisers say the dates are tentative and may change."
     },
     {
       "id": "auto-unstop-1807625",
@@ -3291,37 +3294,6 @@
       ],
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "13 Nov 2026",
-      "isNew": true,
-      "added": "2026-11-13"
-    },
-    {
-      "id": "auto-unstop-1805783",
-      "title": "PromptEd 2026",
-      "kind": "competition",
-      "end": "2026-12-15",
-      "deadline": "2026-12-15",
-      "city": "Bangalore",
-      "region": "bangalore",
-      "mode": "In person",
-      "venue": "Indian Institute of Management Bangalore",
-      "address": "Bangalore, Karnataka",
-      "organizer": "Indian Institute of Management (IIM), Bangalore",
-      "cost": "Free",
-      "team": "1–3",
-      "eligibility": "Experienced Professionals, Engineering Students, Postgraduate, Undergraduate, Fresher, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹70,000 in cash prizes (total listed)",
-      "summary": "PromptEd 2026 is an international competition on generative AI in business and management education. The Centre for Software and Information Technology Management (CSITM), IIM Bangalore, is running it in collaboration with Memoric AI.",
-      "url": "https://unstop.com/competitions/prompted-2026-iim-bangalore-1805783",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/competitions/prompted-2026-iim-bangalore-1805783"
-        }
-      ],
-      "fit": 58,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "13 Nov 2026",
       "isNew": true,

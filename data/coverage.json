@@ -1,11 +1,12 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
       "found": 0,
-      "updated": 1
+      "updated": 2,
+      "removed": 1
     },
     "B": {
       "checked": true,
@@ -38,5 +39,5 @@
       "found": 0
     }
   },
-  "notes": "Found one new event, Qiskit Fall Fest in Bengaluru, through StartupGrantsIndia and Luma. Other results were past events (Hack for Bharat 2025, MLH AI Roadshow, Build with Gemma 4 in May, Tekathon '26). WebFetch's allowlist blocked Luma, so I read the Luma page with a direct download instead. International Hackathon 5.0's deadline may be extended."
+  "notes": "Reviewed DeFy'27 (VIT Chennai). Removed PromptEd 2026 (IIM Bangalore): its student track is only for business and management students in same-college teams. Other results were past (ElevenLabs Hackathon Bengaluru Dec 2025, Amrita Nagercoil GenAI bootcamp Aug 2026). Added Amrita Nagercoil to the checklist's Kanyakumari colleges."
 }

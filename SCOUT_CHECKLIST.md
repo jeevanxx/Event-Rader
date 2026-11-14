@@ -57,7 +57,7 @@ Note: Unstop, Devnovate, Hackathon Radar and some college sites often can't be l
 
 ## F. College tech fests and symposiums (open to other colleges)
 Search each city for "national level" technical symposiums, hackathons and workshops open to all students:
-- Kanyakumari district (Nagercoil, Kumaracoil, Thuckalay, Marthandam): Noorul Islam (NICHE), St. Xavier's Catholic College of Engineering, Ponjesly, Rohini, Arunachala, Bethlahem, Joy University, Stella Mary's, Sun College, Udaya, Mar Ephraem, Holy Cross, Scott Christian, Women's Christian College events open to all
+- Kanyakumari district (Nagercoil, Kumaracoil, Thuckalay, Marthandam): Noorul Islam (NICHE), St. Xavier's Catholic College of Engineering, Ponjesly, Rohini, Arunachala, Bethlahem, Joy University, Amrita School of Computing (Nagercoil campus; runs free MeitY bootcamps), Stella Mary's, Sun College, Udaya, Mar Ephraem, Holy Cross, Scott Christian, Women's Christian College events open to all
 - Tirunelveli / Thoothukudi / Tenkasi: Government College of Engineering Tirunelveli, Francis Xavier, PSN, National Engineering College (Kovilpatti), Mepco Schlenk (Sivakasi), Kalasalingam
 - Madurai / Virudhunagar / Dindigul: Thiagarajar College of Engineering, Velammal, KLN, Sethu, PSNA
 - Coimbatore / Tiruppur / Erode / Salem: PSG Tech, Amrita, Kumaraguru, SNS, Sri Krishna, KPR, Bannari Amman, KSR, Kongu, Sona
