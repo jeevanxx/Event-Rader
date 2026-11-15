@@ -108,6 +108,7 @@ function score(e) {
   if (/\bai\b|genai|generative|llm|agent|machine learning|web|app|full.?stack|startup|saas|cloud/i.test(text)) { s += 8; why.push("matches your AI/web/startup interests"); }
   if (/beginner|no prior|no coding|first.?time|all levels|freshers/i.test(text)) { s += 5; why.push("beginner-friendly"); }
   if (e.kind === "hackathon") s += 3;
+  if (/webinar|\bwebinar\b|live session|career talk|is .* still in demand|beyond the (ai )?hype/i.test(e.title)) { s -= 15; why.push("a talk or webinar, not hands-on"); }
   if (e.deadline) { const d = (Date.parse(e.deadline) - Date.parse(TODAY)) / 86400000; if (d <= 2) { s -= 8; why.push("registration closes very soon"); } }
   if (e.region === "online") s = Math.min(s, 65); // online events are easy to join but plentiful; keep them below nearby ones
   s = Math.max(5, Math.min(75, Math.round(s))); // auto scores stay at or below 75 so reviewed picks rank above them
