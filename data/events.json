@@ -1,6 +1,6 @@
 {
   "lastRun": "15 Nov 2026",
-  "added": 4,
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -1840,8 +1840,8 @@
           "url": "https://eventopia.in/event/ai-awareness-generative-ai-webinar-2026-2026-11-11-nwn"
         }
       ],
-      "fit": 70,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 55,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "8 Nov 2026",
       "isNew": false,
@@ -3127,8 +3127,8 @@
           "url": "https://unstop.com/workshops-webinars/live-webinar-on-full-stack-python-with-gen-ai-17-november-2026-quality-thought-info-systems-1806954"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 50,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "13 Nov 2026",
       "isNew": true,
@@ -3183,8 +3183,8 @@
           "url": "https://unstop.com/workshops-webinars/webinar-on-cyber-security-with-ai-in-hyderabad-18-november-2026-quality-thought-info-systems-1808598"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 50,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "14 Nov 2026",
       "isNew": true,
@@ -3212,8 +3212,8 @@
           "url": "https://unstop.com/workshops-webinars/beyond-the-ai-hype-the-changing-landscape-of-full-stack-development-techbairn-research-1808038"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 50,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "14 Nov 2026",
       "isNew": true,
@@ -3241,8 +3241,8 @@
           "url": "https://unstop.com/workshops-webinars/is-full-stack-development-still-in-demand-exploring-the-future-of-software-careers-techbairn-research-1808027"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 50,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "14 Nov 2026",
       "isNew": true,
@@ -3281,58 +3281,71 @@
       "id": "auto-eventopia-hackerrank-orchestrate-december-2026-2026-12-11",
       "title": "HackerRank Orchestrate December 2026",
       "kind": "hackathon",
-      "start": "2026-12-11",
+      "start": "2026-12-12",
       "end": "2026-12-13",
       "city": "Bengaluru",
       "region": "bangalore",
-      "mode": "In person",
+      "mode": "Hybrid: online, or in person at HackerRank's Bengaluru office",
       "venue": "HackerRank Bangalore office",
       "address": "HackerRank Bangalore office, Bengaluru, Karnataka",
       "cost": "Free",
-      "summary": "A 24-hour hackathon to design, build, and ship an AI agent. Participants will receive a real-world problem via email, build a solution using their preferred tools, and then face a 30-minute AI judge interview to defend their architecture and decisions.",
-      "url": "https://eventopia.in/event/hackerrank-orchestrate-december-2026-2026-12-12-ch8",
+      "summary": "24-hour build of an AI agent using your own tools, then a 30-minute interview with an AI judge where you defend your design. Register by 12 Dec.",
+      "url": "https://www.hackerrank.com/hackerrank-orchestrate-december26",
       "sources": [
         {
-          "title": "Eventopia",
+          "title": "Eventopia listing",
           "url": "https://eventopia.in/event/hackerrank-orchestrate-december-2026-2026-12-12-ch8"
+        },
+        {
+          "title": "HackerRank event page",
+          "url": "https://www.hackerrank.com/hackerrank-orchestrate-december26"
         }
       ],
-      "fit": 61,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
+      "fit": 66,
+      "fitReason": "Free and you can join online, so no Bengaluru trip is needed. AI agent building fits your interests, and HackerRank results are recognised by recruiters. Expect a strong field.",
+      "auto": false,
       "verifiedAt": "15 Nov 2026",
       "isNew": true,
-      "added": "2026-11-14"
+      "added": "2026-11-14",
+      "deadline": "2026-12-12",
+      "organizer": "HackerRank",
+      "prizes": "Cash prizes, job opportunities with tech companies, HackerRank merchandise (amounts not listed)",
+      "perks": "Digital certificate for every participant",
+      "theme": "Build and ship an AI agent for a real-world problem sent by email",
+      "warning": "Eventopia doesn't say whether it's solo or team-based; check the HackerRank page."
     },
     {
       "id": "auto-unstop-1809486",
-      "title": "LightHouse - Hackathon",
+      "title": "LightHouse: online agentic AI hackathon",
       "kind": "hackathon",
       "end": "2027-01-10",
-      "deadline": "2026-12-31",
+      "deadline": "2026-12-25",
       "city": "Online",
       "region": "online",
       "mode": "Online",
       "venue": "Online",
-      "organizer": "Chandigarh University (CU), Ajitgarh, Punjab",
-      "cost": "Free",
-      "team": "2–5",
-      "eligibility": "All",
-      "prizes": "₹5,10,000 in cash prizes (total listed)",
-      "summary": "LightHouse is an international, online hackathon for builders of agentic AI. Over several weeks, teams design and ship autonomous AI agents that plan, reason, use tools, and take action to solve real-world problems.",
+      "organizer": "Chandigarh University (listed on Unstop)",
+      "cost": "Free (no fee listed)",
+      "team": "2 to 5; inter-college teams allowed",
+      "eligibility": "Open worldwide: students, professionals and independent builders. Every member must also fill a profile review form.",
+      "prizes": "₹10,000 cash (₹5,000 / ₹3,000 / ₹2,000) plus ₹5 lakh in partner credits, tools and perks",
+      "summary": "Multi-week online hackathon. Registration runs 13 Nov to 25 Dec, profile review runs 15 Nov to 1 Dec, and problem statements come out on 1 Dec. Registration is only complete once every member fills the Tally profile form linked on Unstop.",
       "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "LightHouse on Unstop",
           "url": "https://unstop.com/hackathons/lighthouse-hackathon-chandigarh-university-cu-ajitgarh-punjab-1809486"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
+      "fit": 60,
+      "fitReason": "Online, free and on agentic AI, your main interest, with a long window to build. The cash prizes are small, and you need a team of 2 or more.",
+      "auto": false,
       "verifiedAt": "15 Nov 2026",
       "isNew": true,
-      "added": "2026-11-14"
+      "added": "2026-11-14",
+      "start": "2026-12-01",
+      "theme": "Build autonomous AI agents that plan, use tools and act",
+      "warning": "Unstop's registration close is 31 Dec, but the event description says registration runs until 25 Dec. Use 25 Dec to be safe."
     },
     {
       "id": "auto-unstop-1780955",
