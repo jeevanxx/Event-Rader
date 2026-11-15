@@ -1,5 +1,5 @@
 {
-  "updated": "14 Nov 2026",
+  "updated": "15 Nov 2026",
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
     {
@@ -239,20 +239,6 @@
       "kind": "campus",
       "url": "https://joyuniversity.edu.in/Event-Listing/407",
       "tech": false
-    },
-    {
-      "title": "Mahotsav",
-      "date": "2026-09-30",
-      "kind": "campus",
-      "url": "https://joyuniversity.edu.in/Event-Listing/403",
-      "tech": false
-    },
-    {
-      "title": "Hands-on Workshop on Generative AI Tool and Prompt Engineering",
-      "date": "2026-09-30",
-      "kind": "workshop",
-      "url": "https://joyuniversity.edu.in/Event-Listing/404",
-      "tech": true
     },
     {
       "title": "SOLHS - Fresh Beats, New Feats",
