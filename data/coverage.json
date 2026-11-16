@@ -1,11 +1,10 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
-      "found": 0,
-      "updated": 2
+      "found": 0
     },
     "B": {
       "checked": true,
@@ -39,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Reviewed two events the automatic check found: HackerRank Orchestrate (it's hybrid, so you can join online) and LightHouse (online agentic AI). Talks and webinars now rank below hands-on events. Searches in Coimbatore, Madurai, Trichy and Kerala (KSUM/IEDC) turned up only past events or non-tech workshops."
+  "notes": "Reviewed Configure 2026 (Condense × Bosch, online) and Codathon (online, solo) from the automatic check. Seed Hackathon (online) is left unreviewed; it is only for final and pre-final year BE/BTech/BSc/BCA students. Ranked more talk-style listings (TechBairn career talks) lower. Searches turned up no other new joinable events."
 }

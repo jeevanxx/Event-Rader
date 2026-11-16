@@ -1,6 +1,6 @@
 {
-  "lastRun": "15 Nov 2026",
-  "added": 3,
+  "lastRun": "16 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -2949,7 +2949,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "15 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-12"
     },
     {
@@ -3043,8 +3043,8 @@
           "url": "https://unstop.com/workshops-webinars/inside-todays-technology-industry-data-software-ai-techbairn-1807625"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 50,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "15 Nov 2026",
       "isNew": true,
@@ -3072,8 +3072,8 @@
           "url": "https://unstop.com/workshops-webinars/beyond-writing-code-the-future-role-of-software-engineers-techbairn-1807623"
         }
       ],
-      "fit": 62,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
+      "fit": 47,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "15 Nov 2026",
       "isNew": true,
@@ -3373,8 +3373,8 @@
           "url": "https://unstop.com/workshops-webinars/learn-think-leverage-building-your-career-in-the-ai-era-techbairn-research-1808022"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 50,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "15 Nov 2026",
       "isNew": true,
@@ -3402,8 +3402,8 @@
           "url": "https://unstop.com/workshops-webinars/coding-is-changing-so-what-should-engineers-learn-next-techbairn-research-1808017"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "fit": 50,
+      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "15 Nov 2026",
       "isNew": true,
@@ -3442,7 +3442,7 @@
     },
     {
       "id": "auto-unstop-1811085",
-      "title": "Configure 2026: A Mobility Hackathon",
+      "title": "Configure 2026: A Mobility Hackathon (Condense × Bosch)",
       "kind": "hackathon",
       "end": "2026-11-26",
       "deadline": "2026-11-26",
@@ -3450,55 +3450,60 @@
       "region": "online",
       "mode": "Online",
       "venue": "Online",
-      "organizer": "Zeliot Pvt Ltd",
+      "organizer": "Zeliot (Condense) with Bosch Mobility Platforms & Solutions, part of MPS Summit 2026",
       "cost": "Free",
-      "team": "1–3",
-      "eligibility": "All",
-      "prizes": "₹3,00,000 in cash prizes (total listed)",
-      "summary": "Build a real-time mobility solution in 48 hours with Condense. Configure 2026 is a free, online hackathon by Condense and Bosch Mobility Platforms & Solutions, part of MPS Summit 2026.",
+      "team": "1 to 3 (the team leader must also fill the registration form by 26 Nov)",
+      "eligibility": "Open to all",
+      "prizes": "₹1,00,000 / ₹75,000 / ₹50,000, plus ₹75,000 in special prizes",
+      "summary": "48-hour online build of a real-time mobility data pipeline and app. Register by Thu 26 Nov; the kickoff webinar is Fri 27 Nov at 9:30 PM IST (recorded).",
       "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Configure 2026 on Unstop",
           "url": "https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "15 Nov 2026",
+      "fit": 64,
+      "fitReason": "Free and online, with big prizes from a real company (Bosch). You can enter solo. It uses a specific streaming platform, so you'll need to learn its setup before kickoff.",
+      "auto": false,
+      "verifiedAt": "16 Nov 2026",
       "isNew": true,
-      "added": "2026-11-15"
+      "added": "2026-11-15",
+      "start": "2026-11-27",
+      "theme": "Real-time mobility apps on Condense streaming: fleet tracking, vehicle health, geofencing, EV charging, driver safety, logistics or your own idea",
+      "bring": "Set up your Condense workspace and run the sample pipeline before kickoff"
     },
     {
       "id": "auto-unstop-1811016",
-      "title": "Codathon: #1 Global Coding Contest",
-      "kind": "hackathon",
+      "title": "Codathon 1.0 (Forge & Ship, listed under IIT Bombay)",
+      "kind": "challenge",
       "end": "2027-01-09",
-      "deadline": "2026-12-19",
+      "deadline": "2026-12-18",
       "city": "Online",
       "region": "online",
       "mode": "Online",
       "venue": "Online",
-      "organizer": "Indian Institute of Technology (IIT), Bombay",
-      "cost": "Free",
-      "team": "1",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, School Students, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹30,000 in cash prizes (total listed)",
-      "summary": "Codathon 1.0 (Presented by Forge & Ship). A high-intensity, multi-level individual hackathon designed to test your logic, technical skills, and rapid execution. Participant Type: Individual participation only (no teams allowed).",
+      "organizer": "Forge & Ship (listed on Unstop under IIT Bombay)",
+      "cost": "Free (no fee listed)",
+      "team": "Solo only",
+      "eligibility": "College students in any year; working professionals and school students are not eligible",
+      "prizes": "₹15,000 / ₹10,000 / ₹5,000",
+      "summary": "Three elimination rounds: an online aptitude MCQ, an online coding (DSA) test, then a final hackathon problem. Register on Unstop; registration closes at midnight as 19 Dec begins.",
       "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Codathon on Unstop",
           "url": "https://unstop.com/hackathons/codathon-1-global-coding-contest-iit-bombay-1811016"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "15 Nov 2026",
+      "fit": 55,
+      "fitReason": "Online, free and solo, so you don't need a team. The early rounds are aptitude and DSA tests rather than building, which only suits you if you practise DSA.",
+      "auto": false,
+      "verifiedAt": "16 Nov 2026",
       "isNew": true,
-      "added": "2026-11-15"
+      "added": "2026-11-15",
+      "theme": "Aptitude, then data structures and algorithms (DSA), then a build-and-ship final",
+      "warning": "Unstop lists it under IIT Bombay, but the description says it's presented by Forge & Ship."
     },
     {
       "id": "auto-unstop-1798287",
