@@ -3,6 +3,13 @@
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
     {
+      "title": "Simulix 26",
+      "date": "2026-11-16",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/443",
+      "tech": false
+    },
+    {
       "title": "JOYINDAMIA ’26",
       "date": "2026-11-13",
       "kind": "campus",
@@ -59,11 +66,11 @@
       "tech": false
     },
     {
-      "title": "Game Development Club Inauguration",
+      "title": "N8N AI Agent Bootcamp",
       "date": "2026-11-03",
-      "kind": "campus",
-      "url": "https://joyuniversity.edu.in/Event-Listing/434",
-      "tech": false
+      "kind": "workshop",
+      "url": "https://joyuniversity.edu.in/Event-Listing/433",
+      "tech": true
     },
     {
       "title": "Cultural Club Inauguration",
