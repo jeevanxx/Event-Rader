@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "sections": {
     "A": {
       "checked": true,
@@ -10,7 +10,7 @@
       "checked": true,
       "partial": true,
       "found": 0,
-      "reviewed": 2
+      "reviewed": 1
     },
     "C": {
       "checked": true,
@@ -38,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Reviewed Configure 2026 (Condense × Bosch, online) and Codathon (online, solo) from the automatic check. Seed Hackathon (online) is left unreviewed; it is only for final and pre-final year BE/BTech/BSc/BCA students. Ranked more talk-style listings (TechBairn career talks) lower. Searches turned up no other new joinable events."
+  "notes": "Reviewed HackZ'26 (CEG Anna University, from the automatic check). Searches in Kerala, the GDG chapters, Tirunelveli, Madurai and Chennai found only past events (RYHATHON at FXEC Tirunelveli on 29–30 Oct, Chennai Hackfest in Feb, KeralAI, Maker Sprint). TechBairn and Quality Thought talks now rank lower."
 }
