@@ -3,7 +3,7 @@
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 116
+      "found": 114
     },
     "Eventopia": {
       "ok": true,
@@ -18,7 +18,7 @@
       "found": 428
     }
   },
-  "added": 1,
-  "refreshed": 46,
-  "removed": 1
+  "added": 0,
+  "refreshed": 48,
+  "removed": 0
 }
