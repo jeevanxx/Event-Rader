@@ -1,5 +1,5 @@
 {
-  "lastRun": "17 Nov 2026",
+  "lastRun": "18 Nov 2026",
   "added": 1,
   "events": [
     {
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "auto-unstop-1773229",
-      "title": "Out of Bounds - Web Game Development Hackathon (Paid)",
+      "title": "Out of Bounds: web game dev hackathon",
       "kind": "hackathon",
       "end": "2026-11-29",
       "deadline": "2026-11-20",
@@ -1119,24 +1119,27 @@
       "mode": "Online",
       "venue": "Online",
       "organizer": "Code Variant",
-      "cost": "Free",
-      "team": "1–4",
+      "cost": "₹19 registration fee",
+      "team": "1 to 4",
       "eligibility": "All",
-      "prizes": "₹11,500 in cash prizes (total listed)",
+      "prizes": "₹10,000 winner, ₹1,000 and ₹500 runners-up; recognition for the top 10",
       "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "Out of Bounds on Unstop",
           "url": "https://unstop.com/hackathons/out-of-bounds-web-game-development-hackathon-code-variant-1773229"
         }
       ],
-      "fit": 73,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "8 Nov 2026",
+      "fit": 58,
+      "fitReason": "Online and cheap (₹19), and you can enter solo. A fun way to practise web dev, but the prizes after first place are tiny and it's game-focused rather than AI.",
+      "auto": false,
+      "verifiedAt": "18 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
-      "summary": "Presented by Code Variant — Build Different. Every game begins with an idea. In OUT OF BOUNDS, your team gets 12 hours to turn yours into a playable browser-based experience."
+      "summary": "Round 1: submit a 5-slide game concept by 21 Nov (Unstop registration closes 20 Nov, 1:20 PM). The top 50 teams get a 12-hour online build on Sun 29 Nov, 9 AM to 9 PM IST, with a surprise mechanic revealed at the six-hour mark. You need a hosted, playable game URL.",
+      "start": "2026-11-29",
+      "theme": "Build an original browser game, any genre",
+      "warning": "Unstop registration closes 20 Nov at 1:20 PM, but the idea deck is due 21 Nov. Register before the 20th."
     },
     {
       "id": "auto-unstop-1774417",
@@ -2743,7 +2746,7 @@
       "fitReason": "A good-sized prize and Chennai is reachable, and Round 1 is online. But it needs a team of at least 4 and Web3 knowledge, which is a niche skill.",
       "auto": false,
       "verifiedAt": "14 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-14",
       "start": "2027-01-09",
       "theme": "Web3: DeFi, Public goods or Open innovation; you choose your own problem in a track",
@@ -2771,7 +2774,7 @@
           "url": "https://unstop.com/workshops-webinars/inside-todays-technology-industry-data-software-ai-techbairn-1807625"
         }
       ],
-      "fit": 50,
+      "fit": 40,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "15 Nov 2026",
@@ -2831,7 +2834,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "17 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-14"
     },
     {
@@ -2862,7 +2865,7 @@
       "fitReason": "Free and you can join online, so no Bengaluru trip is needed. AI agent building fits your interests, and HackerRank results are recognised by recruiters. Expect a strong field.",
       "auto": false,
       "verifiedAt": "15 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-14",
       "deadline": "2026-12-12",
       "organizer": "HackerRank",
@@ -2898,7 +2901,7 @@
       "fitReason": "Online, free and on agentic AI, your main interest, with a long window to build. The cash prizes are small, and you need a team of 2 or more.",
       "auto": false,
       "verifiedAt": "15 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-14",
       "start": "2026-12-01",
       "theme": "Build autonomous AI agents that plan, use tools and act",
@@ -3146,7 +3149,7 @@
           "url": "https://unstop.com/workshops-webinars/live-webinar-on-ai-ml-with-data-science-19-november-2026-quality-thought-info-systems-1810208"
         }
       ],
-      "fit": 55,
+      "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "16 Nov 2026",
@@ -3175,7 +3178,7 @@
           "url": "https://unstop.com/workshops-webinars/your-future-in-tech-exploring-careers-in-data-ai-techbairn-1808006"
         }
       ],
-      "fit": 55,
+      "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "17 Nov 2026",
@@ -3204,7 +3207,7 @@
           "url": "https://unstop.com/workshops-webinars/if-ai-can-write-code-what-is-left-for-engineers-techbairn-1808004"
         }
       ],
-      "fit": 55,
+      "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "17 Nov 2026",
@@ -3491,7 +3494,7 @@
           "url": "https://unstop.com/workshops-webinars/beyond-the-ai-hype-the-changing-landscape-of-full-stack-development-techbairn-research-1808038"
         }
       ],
-      "fit": 55,
+      "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "17 Nov 2026",
@@ -3520,7 +3523,7 @@
           "url": "https://unstop.com/workshops-webinars/is-full-stack-development-still-in-demand-exploring-the-future-of-software-careers-techbairn-research-1808027"
         }
       ],
-      "fit": 55,
+      "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "17 Nov 2026",
@@ -3530,16 +3533,16 @@
     {
       "id": "auto-eventopia-clash-of-commits-2026-12-03",
       "title": "Clash of Commits",
-      "kind": "competition",
+      "kind": "hackathon",
       "start": "2026-12-03",
       "end": "2026-12-05",
       "city": "Chennai",
       "region": "tamilnadu",
       "mode": "In person",
-      "venue": "VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI",
-      "address": "VELLORE INSTITUTE OF TECHNOLOGY, CHENNAI, Chennai, Tamil Nadu",
+      "venue": "VIT Chennai",
+      "address": "Vellore Institute of Technology, Vandalur–Kelambakkam Road, Chennai",
       "cost": "₹199",
-      "summary": "# CLASH OF COMMITS ### Build Your Clan. Prepare for War. Claim the Crown. The kingdom is calling. The battlefield is open. Is your clan ready? Clash of Commits is not your usual hackathon.",
+      "summary": "Round 1 is an online 10-slide idea deck (register by 30 Nov). The top 120 teams go to VIT Chennai for a 24-hour hackathon, then the top 8 pitch in a knockout final, 3–5 Dec. Joining the WhatsApp group is mandatory.",
       "url": "https://eventopia.in/event/clash-of-commits-2026-12-04-0ie",
       "sources": [
         {
@@ -3547,12 +3550,19 @@
           "url": "https://eventopia.in/event/clash-of-commits-2026-12-04-0ie"
         }
       ],
-      "fit": 42,
-      "fitReason": "Auto-scored: needs travel, paid. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "17 Nov 2026",
+      "fit": 45,
+      "fitReason": "Chennai, with a fun format and a track for your interests, but you need a team of at least 4, there's a fee, no cash prize is listed, and it's mid-week (3–5 Dec).",
+      "auto": false,
+      "verifiedAt": "18 Nov 2026",
       "isNew": true,
-      "added": "2026-11-17"
+      "added": "2026-11-17",
+      "deadline": "2026-11-30",
+      "organizer": "VIT Chennai (listed on Eventopia; organising club not named)",
+      "team": "4 to 5",
+      "eligibility": "Not stated; registration is on Devfolio, and shortlisted teams must also register on the institute portal",
+      "prizes": "Not listed; physical certificates for winners, digital certificates for everyone",
+      "theme": "Eight tracks: AI/ML, robotics and IoT, web and apps, Web3, AR/VR, cybersecurity, fintech, open innovation",
+      "warning": "The ₹199 fee is from Eventopia; it's unclear whether it's for Round 1 or the offline rounds. No prize money is listed."
     },
     {
       "id": "auto-unstop-1811348",
@@ -3576,12 +3586,47 @@
           "url": "https://unstop.com/workshops-webinars/live-webinar-on-data-analyst-with-ai-19-november-2026-quality-thought-info-systems-1811348"
         }
       ],
-      "fit": 47,
+      "fit": 37,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "17 Nov 2026",
       "isNew": true,
       "added": "2026-11-17"
+    },
+    {
+      "id": "hack-for-tomorrow-excel-mec-2027",
+      "title": "Hack For Tomorrow (Excel 2026, MEC Kochi)",
+      "kind": "hackathon",
+      "start": "2027-01-02",
+      "end": "2027-01-03",
+      "deadline": "2026-12-05",
+      "city": "Kochi",
+      "region": "kerala",
+      "mode": "In person",
+      "venue": "Government Model Engineering College (MEC), Thrikkakara",
+      "address": "Thrikkakara, Edappally, Kochi, Kerala 682021",
+      "organizer": "Excel 2026, the techno-managerial fest of Government Model Engineering College, Kochi",
+      "cost": "Free",
+      "team": "2 to 4",
+      "eligibility": "Students from any college in India, all skill levels",
+      "prizes": "₹15,000 / ₹9,000 / ₹6,000 (₹30,000 pool)",
+      "theme": "Cognition Beyond Intelligence: AI that understands context and decides what to do",
+      "bring": "Laptop, charger, valid college ID card",
+      "perks": "Mentoring from industry professionals",
+      "summary": "24-hour flagship hackathon of MEC's Excel fest. Apply on Devfolio by 5 Dec. Check-in is at 9 AM, the build starts at 10 AM, then demos and awards the next morning.",
+      "warning": "The page says 2–3 January 2027, but its timeline labels the days as \"01 January\" and \"02 January\". Confirm in the WhatsApp community.",
+      "url": "https://hft.excelmec.org/",
+      "sources": [
+        {
+          "title": "Hack For Tomorrow official site",
+          "url": "https://hft.excelmec.org/"
+        }
+      ],
+      "verifiedAt": "18 Nov 2026",
+      "fit": 62,
+      "fitReason": "Free, from a well-known Kerala college, with an AI theme that suits you. Kochi is about 5–6 hours by train. Needs a team of 2+ and travel over New Year.",
+      "isNew": true,
+      "added": "2026-11-18"
     }
   ],
   "lastAutoRun": "17 Nov 2026",

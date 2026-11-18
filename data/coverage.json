@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "sections": {
     "A": {
       "checked": true,
@@ -10,7 +10,7 @@
       "checked": true,
       "partial": true,
       "found": 0,
-      "reviewed": 1
+      "reviewed": 2
     },
     "C": {
       "checked": true,
@@ -30,7 +30,7 @@
     "F": {
       "checked": true,
       "partial": true,
-      "found": 0
+      "found": 1
     },
     "G": {
       "checked": true,
@@ -38,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Reviewed HackZ'26 (CEG Anna University, from the automatic check). Searches in Kerala, the GDG chapters, Tirunelveli, Madurai and Chennai found only past events (RYHATHON at FXEC Tirunelveli on 29–30 Oct, Chennai Hackfest in Feb, KeralAI, Maker Sprint). TechBairn and Quality Thought talks now rank lower."
+  "notes": "Found Hack For Tomorrow (MEC Kochi) through a Kerala college-fest search and confirmed it on its official site. Reviewed Out of Bounds and Clash of Commits (VIT Chennai) from the automatic check. Other results were past (Hack With Bangalore 4.0 on 30 Oct, The Anvil, HackfiniX). Talks and webinars now rank even lower."
 }
