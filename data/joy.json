@@ -1,12 +1,26 @@
 {
-  "updated": "17 Nov 2026",
+  "updated": "18 Nov 2026",
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
+    {
+      "title": "National Library Week Celebration 2026",
+      "date": "2026-11-17",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/445",
+      "tech": false
+    },
     {
       "title": "Simulix 26",
       "date": "2026-11-16",
       "kind": "campus",
       "url": "https://joyuniversity.edu.in/Event-Listing/443",
+      "tech": false
+    },
+    {
+      "title": "Hand Embroidery Hoop Clock Making Workshop",
+      "date": "2026-11-13",
+      "kind": "workshop",
+      "url": "https://joyuniversity.edu.in/Event-Listing/444",
       "tech": false
     },
     {
@@ -52,17 +66,17 @@
       "tech": false
     },
     {
-      "title": "Hands on worshop Embedded and IoT",
-      "date": "2026-11-04",
-      "kind": "workshop",
-      "url": "https://joyuniversity.edu.in/Event-Listing/436",
-      "tech": true
-    },
-    {
       "title": "Education Loan Awareness Programme",
       "date": "2026-11-04",
       "kind": "campus",
       "url": "https://joyuniversity.edu.in/Event-Listing/435",
+      "tech": false
+    },
+    {
+      "title": "Game Development Club Inauguration",
+      "date": "2026-11-03",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/434",
       "tech": false
     },
     {
