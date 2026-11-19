@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 114
+      "found": 118
     },
     "Eventopia": {
       "ok": true,
@@ -11,14 +11,14 @@
     },
     "India Hackathons": {
       "ok": true,
-      "found": 12
+      "found": 13
     },
     "Joy University": {
       "ok": true,
-      "found": 428
+      "found": 429
     }
   },
-  "added": 0,
-  "refreshed": 48,
-  "removed": 0
+  "added": 6,
+  "refreshed": 45,
+  "removed": 3
 }

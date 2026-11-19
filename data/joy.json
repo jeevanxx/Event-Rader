@@ -1,5 +1,5 @@
 {
-  "updated": "18 Nov 2026",
+  "updated": "19 Nov 2026",
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
     {
@@ -7,6 +7,13 @@
       "date": "2026-11-17",
       "kind": "campus",
       "url": "https://joyuniversity.edu.in/Event-Listing/445",
+      "tech": false
+    },
+    {
+      "title": "Rice Transplanting",
+      "date": "2026-11-17",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/446",
       "tech": false
     },
     {
@@ -59,11 +66,11 @@
       "tech": false
     },
     {
-      "title": "Diya & Dandiya: Navarathri and Diwali Celebration",
-      "date": "2026-11-05",
-      "kind": "campus",
-      "url": "https://joyuniversity.edu.in/Event-Listing/437",
-      "tech": false
+      "title": "Hands on worshop Embedded and IoT",
+      "date": "2026-11-04",
+      "kind": "workshop",
+      "url": "https://joyuniversity.edu.in/Event-Listing/436",
+      "tech": true
     },
     {
       "title": "Education Loan Awareness Programme",
