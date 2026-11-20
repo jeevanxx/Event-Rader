@@ -1,6 +1,6 @@
 {
-  "lastRun": "19 Nov 2026",
-  "added": 6,
+  "lastRun": "20 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -2971,7 +2971,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3001,7 +3001,7 @@
       "fitReason": "Free, from a top Tamil Nadu university, with good prizes and a free online first round, so you only travel to Chennai if your team makes the top 20. Every idea needs a security angle, and you need a team of at least 2.",
       "auto": false,
       "verifiedAt": "17 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16",
       "start": "2027-01-29",
       "address": "Sardar Patel Road, Guindy, Chennai 600025",
@@ -3035,7 +3035,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3064,7 +3064,7 @@
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3095,7 +3095,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3123,7 +3123,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3148,7 +3148,7 @@
       "fitReason": "Auto-scored: needs travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3177,7 +3177,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3206,7 +3206,7 @@
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3235,7 +3235,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-16"
     },
     {
@@ -3458,38 +3458,45 @@
     },
     {
       "id": "auto-unstop-1817389",
-      "title": "PromptWars x Quad Bengaluru",
+      "title": "PromptWars × Quad Bengaluru: 3-hour AI vibe-coding hackathon",
       "kind": "hackathon",
-      "end": "2026-12-04",
+      "end": "2026-12-05",
       "deadline": "2026-12-04",
       "city": "Bangalore",
       "region": "bangalore",
       "mode": "In person",
-      "venue": "Quad AI School of Technology and Business, 27th Main Road, HSR Layout, Bengaluru 560102",
-      "address": "Bangalore, Karnataka",
-      "organizer": "Quad AI School of Technology & Management",
-      "cost": "Free",
-      "team": "1",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹20,000 in cash prizes (total listed)",
-      "summary": "A one-day AI vibe coding hackathon by Hack2Skill and Google for Developers, hosted by Quad AI at its HSR Layout campus in Bengaluru. Build a working AI solution, solo. Theme: Fraud Shield: Fighting AI-Powered Scams.",
+      "venue": "Quad AI School of Technology and Business",
+      "address": "27th Main Road, HSR Layout, Bengaluru 560102",
+      "organizer": "Hack2Skill and Google for Developers, hosted by Quad AI School of Technology & Management",
+      "cost": "Free (no fee listed)",
+      "team": "Solo only",
+      "eligibility": "Open to everyone: students, freshers, professionals; no coding background needed",
+      "prizes": "₹10,000 / ₹6,000 / ₹4,000",
+      "summary": "Saturday 5 Dec: check-in 9:30 AM, then a 3-hour build (11 AM to 2 PM). Hack2Skill's AI scores entries on a live leaderboard, and the top 10 pitch to a jury. You must register on both Unstop and Hack2Skill (hack2skill.com/event/promptwars-x-quadai).",
       "url": "https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "PromptWars × Quad on Unstop",
           "url": "https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389"
+        },
+        {
+          "title": "Hack2Skill event page",
+          "url": "https://hack2skill.com/event/promptwars-x-quadai"
         }
       ],
-      "fit": 61,
-      "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "19 Nov 2026",
+      "fit": 50,
+      "fitReason": "Short, free and solo, with Google for Developers behind it, and it's vibe coding like the AI Studio workshop you attended. But it's a long trip to Bengaluru for a 3-hour event.",
+      "auto": false,
+      "verifiedAt": "20 Nov 2026",
       "isNew": true,
-      "added": "2026-11-19"
+      "added": "2026-11-19",
+      "start": "2026-12-05",
+      "theme": "Fraud Shield: fighting AI-powered scams (exact problem revealed at kickoff)",
+      "bring": "Laptop; any AI tool is allowed"
     },
     {
       "id": "auto-unstop-1817749",
-      "title": "CodeUnited India - National Hackathon",
+      "title": "CodeUnited India: national online hackathon",
       "kind": "hackathon",
       "end": "2026-12-13",
       "deadline": "2026-12-02",
@@ -3498,23 +3505,28 @@
       "mode": "Online",
       "venue": "Online",
       "organizer": "HackWithPune",
-      "cost": "Free",
-      "team": "1–6",
-      "eligibility": "All",
-      "summary": "Top 3 teams: Paid internship opportunities. Top 3 teams : 30,000 prize pool. Every participant: .xyz domain and .cv domain. Every participant: $100 in Inkloom AI credits, $500 in Adaption platform credits, 100$ ASI Credits.",
+      "cost": "Free to register; ₹399 per team only if you reach Round 3",
+      "team": "1 to 6",
+      "eligibility": "Students, developers, designers and tech enthusiasts across India",
+      "summary": "Three online rounds from 3 to 13 Dec. Register on Unstop by 2 Dec, 1 PM, and join the WhatsApp group for round instructions.",
       "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "CodeUnited India on Unstop",
           "url": "https://unstop.com/hackathons/codeunited-india-national-hackathon-hackwithpune-1817749"
         }
       ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "19 Nov 2026",
+      "fit": 55,
+      "fitReason": "Online with an Agentic AI track, and you can enter solo. But the prizes are modest and there's a ₹399 fee to play the final round.",
+      "auto": false,
+      "verifiedAt": "20 Nov 2026",
       "isNew": true,
-      "added": "2026-11-19"
+      "added": "2026-11-19",
+      "start": "2026-12-03",
+      "prizes": "₹30,000 pool for the top 3, plus paid internship chances",
+      "theme": "Two tracks: Agentic AI and full-stack development",
+      "perks": "Free .xyz/.cv domain, AI platform credits and a digital certificate for every participant",
+      "warning": "The ₹399 Round 3 fee is unusual for a free hackathon. Read the rules before paying."
     },
     {
       "id": "auto-unstop-1817687",

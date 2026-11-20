@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "sections": {
     "A": {
       "checked": true,
@@ -10,7 +10,7 @@
       "checked": true,
       "partial": true,
       "found": 0,
-      "reviewed": 1
+      "reviewed": 2
     },
     "C": {
       "checked": true,
@@ -38,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Reviewed Data Sprint 2.0 from the automatic check. Searches in Chennai, Coimbatore, Trivandrum and Kochi (including dev.events Kochi and CNCF Trivandrum) found only past events or paid professional masterclasses."
+  "notes": "Reviewed CodeUnited India (online) and PromptWars × Quad (Bengaluru) from the automatic check. Kanyakumari searches (Startup Grind Kanniyakumari, Amrita Nagercoil, SXCCE) and Tamil Nadu January searches (ICT Academy Openweaver and others) found only past events. IndCareer failed to load."
 }
