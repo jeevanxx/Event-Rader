@@ -1,5 +1,5 @@
 {
-  "updated": "19 Nov 2026",
+  "updated": "20 Nov 2026",
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
     {
@@ -252,20 +252,6 @@
       "date": "2026-10-06",
       "kind": "workshop",
       "url": "https://joyuniversity.edu.in/Event-Listing/413",
-      "tech": false
-    },
-    {
-      "title": "Intel Unnati AI/ML Industrial Training",
-      "date": "2026-10-05",
-      "kind": "workshop",
-      "url": "https://joyuniversity.edu.in/Event-Listing/406",
-      "tech": true
-    },
-    {
-      "title": "Agri-Clinic Inauguration",
-      "date": "2026-10-05",
-      "kind": "campus",
-      "url": "https://joyuniversity.edu.in/Event-Listing/407",
       "tech": false
     },
     {
