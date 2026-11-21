@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 124
+      "found": 122
     },
     "Eventopia": {
       "ok": true,
-      "found": 12
+      "found": 11
     },
     "India Hackathons": {
       "ok": true,
@@ -18,7 +18,7 @@
       "found": 429
     }
   },
-  "added": 5,
-  "refreshed": 44,
+  "added": 2,
+  "refreshed": 47,
   "removed": 0
 }
