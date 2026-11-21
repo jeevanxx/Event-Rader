@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "sections": {
     "A": {
       "checked": true,
@@ -10,7 +10,7 @@
       "checked": true,
       "partial": true,
       "found": 0,
-      "reviewed": 2
+      "reviewed": 1
     },
     "C": {
       "checked": true,
@@ -38,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Reviewed CodeUnited India (online) and PromptWars × Quad (Bengaluru) from the automatic check. Kanyakumari searches (Startup Grind Kanniyakumari, Amrita Nagercoil, SXCCE) and Tamil Nadu January searches (ICT Academy Openweaver and others) found only past events. IndCareer failed to load."
+  "notes": "Reviewed CPP (Shaastra 2027) from the automatic check. Kerala searches (KSUM, TinkerHub, IEDC) found only past events. TinkHack (TinkerHub MEC Kochi) has a placeholder next edition on Devfolio dated 29–30 Jan 2027, but no title or details, so I didn't add it. I'll check again later. Shaastra 2027's own dates weren't found yet."
 }

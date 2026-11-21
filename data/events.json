@@ -1,6 +1,6 @@
 {
-  "lastRun": "20 Nov 2026",
-  "added": 5,
+  "lastRun": "21 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -3235,7 +3235,7 @@
       "fitReason": "Online, free and on AI/ML, and you can enter solo or in a team. Good practice with no travel, but the prizes are only merchandise.",
       "auto": false,
       "verifiedAt": "19 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-17",
       "start": "2026-11-23",
       "prizes": "Merchandise worth ₹30,000; 10 participants win a free 30-minute session with an industry expert or researcher",
@@ -3268,7 +3268,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "20 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-17"
     },
     {
@@ -3297,7 +3297,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "20 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-17"
     },
     {
@@ -3326,7 +3326,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "20 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-17"
     },
     {
@@ -3353,7 +3353,7 @@
       "fitReason": "Chennai, with a fun format and a track for your interests, but you need a team of at least 4, there's a fee, no cash prize is listed, and it's mid-week (3–5 Dec).",
       "auto": false,
       "verifiedAt": "18 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-17",
       "deadline": "2026-11-30",
       "organizer": "VIT Chennai (listed on Eventopia; organising club not named)",
@@ -3676,34 +3676,36 @@
     },
     {
       "id": "auto-unstop-1782995",
-      "title": "CPP - Competitive Programming Potpourri",
-      "kind": "hackathon",
+      "title": "Competitive Programming Potpourri (Shaastra 2027, IIT Madras)",
+      "kind": "challenge",
       "end": "2027-01-04",
-      "deadline": "2026-12-10",
+      "deadline": "2026-12-09",
       "city": "Chennai",
       "region": "tamilnadu",
-      "mode": "In person",
-      "venue": "IIT Madras",
-      "address": "Chennai, Tamil Nadu",
-      "organizer": "Indian Institute of Technology (IIT), Madras",
-      "cost": "Free",
-      "team": "1",
-      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "prizes": "₹50,000 in cash prizes (total listed)",
-      "summary": "Prelims: Online round open to all. Finals: Selected students from prelims will compete in an offline round at IITM! The event comprises coding challenges across 3 categories:. Participants must submit solutions within the time limit - This will be announced.",
+      "mode": "Online prelims, then an in-person final at IIT Madras",
+      "venue": "IIT Madras (finals)",
+      "address": "IIT Madras, Sardar Patel Road, Chennai 600036",
+      "organizer": "Shaastra 2027, the technical festival of IIT Madras",
+      "cost": "Free (no fee listed)",
+      "team": "Solo",
+      "eligibility": "Open to all students (any stream, UG or PG)",
+      "prizes": "₹25,000 / ₹15,000 / ₹10,000",
+      "summary": "Online prelims are open to everyone; selected students go to an offline final at IIT Madras during Shaastra 2027. AI tools and collaboration are banned in the prelims. Unstop registration closes at midnight as 10 Dec begins.",
       "url": "https://unstop.com/hackathons/cpp-competitive-programming-potpourri-shaastra-2027-iit-madras-1782995",
       "sources": [
         {
-          "title": "Unstop",
+          "title": "CPP on Unstop",
           "url": "https://unstop.com/hackathons/cpp-competitive-programming-potpourri-shaastra-2027-iit-madras-1782995"
         }
       ],
-      "fit": 57,
-      "fitReason": "Auto-scored: needs travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "20 Nov 2026",
+      "fit": 56,
+      "fitReason": "Good prizes and a Shaastra/IIT Madras name, with a free online first round you can do solo. But it's pure competitive programming, with no AI tools allowed, so it only pays off if you practise DSA.",
+      "auto": false,
+      "verifiedAt": "21 Nov 2026",
       "isNew": true,
-      "added": "2026-11-20"
+      "added": "2026-11-20",
+      "theme": "Three categories: competitive programming, code golf (shortest code wins) and debugging",
+      "warning": "The prelim and final dates aren't announced yet; Unstop shows the event window ending 4 Jan 2027."
     },
     {
       "id": "auto-unstop-1818997",
