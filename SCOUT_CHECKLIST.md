@@ -1,6 +1,6 @@
 # Event Radar daily checklist
 
-The daily check works through **every** section below, every day. Coverage is Tamil Nadu (all districts), Kerala (all districts), Bengaluru, and online events open to Indian students.
+The daily check works through **every** section below, every day. Coverage: Tamil Nadu (all districts), Kerala (all districts) and Bengaluru in depth; online events open to Indian students; and the rest of India (Hyderabad, Andhra, Mumbai, Pune, Delhi NCR and other cities) for hackathons and big fests worth a trip. Use region `india` for anything outside Tamil Nadu, Kerala and Bengaluru.
 
 Rules that apply everywhere:
 - Only events Jeevan can join: open to students from any college, or the public. Skip events limited to one college's own students, one city's colleges, women-only, or professionals only. If eligibility is unclear, include the event and say so.
@@ -8,7 +8,7 @@ Rules that apply everywhere:
 - Record which sections were checked and how many events each produced in `data/coverage.json` (see the end of this file).
 
 ## Before you start
-The free automatic check (GitHub Actions, 6:15 AM IST) has usually already added *Auto-found* cards (`auto: true`). Don't duplicate them. Where you verify one on its official page, fill in the missing fields, set `auto` to false (remove it) and rewrite `fitReason` honestly. Remove auto cards that turn out to be wrong or not joinable, and add their id to the top-level `removed` list in events.json so the automatic check doesn't add them back.
+The free automatic check (GitHub Actions, about 3:47 AM IST; it reads Unstop, Devfolio, Hack2Skill, Luma, Knowafest, Eventopia and India Hackathons) has usually already added *Auto-found* cards (`auto: true`). Don't duplicate them. Where you verify one on its official page, fill in the missing fields, set `auto` to false (remove it) and rewrite `fitReason` honestly. Remove auto cards that turn out to be wrong or not joinable, and add their id to the top-level `removed` list in events.json so the automatic check doesn't add them back.
 
 ## A. Re-check what's already in the app
 Every upcoming event in `data/events.json`: open its `url` and every `sources` link. Resolve warnings, catch changes (date, venue, deadline, price, registration closed, cancelled, postponed). Remove events that ended more than 14 days ago.
@@ -30,7 +30,8 @@ Every upcoming event in `data/events.json`: open its `url` and every `sources` l
 14. AllEvents: Nagercoil, Kanyakumari, Trivandrum, Madurai, Tirunelveli tech events
 15. Eventopia: eventopia.in/events/state/tamil-nadu and the Kerala state page (works well; good for college hackathons)
 16. TheTN.ai hackathon list: thetn.ai/hackathons (Tamil Nadu AI hackathons by city and date)
-17. India Hackathons (indiahackathons.com, Bengaluru and online), StartupGrantsIndia events, Scene044 (Chennai meetups)
+17. India Hackathons (indiahackathons.com: Bengaluru, Chennai, Hyderabad, Pune, Mumbai), StartupGrantsIndia events, Scene044 (Chennai meetups)
+18. Devfolio open hackathons (all of India), Hack2Skill (Google Build with AI bootcamps, PromptWars), Luma city pages (Hyderabad, Mumbai, Pune, Delhi too)
 
 Note: Unstop, Devnovate, Hackathon Radar and some college sites often can't be loaded by the checker. Find the same event on Eventopia, Knowafest, TheTN.ai or a search result instead, and say so in the coverage notes.
 
@@ -66,10 +67,12 @@ Search each city for "national level" technical symposiums, hackathons and works
 - Vellore / Kanchipuram / Krishnagiri: VIT Vellore (Riviera, GraVITas), and others
 - Kerala: CET Trivandrum, Mar Baselios, SCT, IIIT Kottayam, Digital University Kerala, CUSAT, Model Engineering College, Rajagiri, Saintgits, TKM, Amrita (Amritapuri, Kochi), NIT Calicut (Tathva), GEC Thrissur, Sahrdaya, Vidya, MITS, Adi Shankara, Federal Institute (FISAT), IIM Kozhikode
 - Bengaluru: IISc, IIIT-B, RVCE, PES, BMS, MSRIT, Christ, Presidency, NHCE, Dayananda Sagar, Reva, Jain
+- Rest of India (big fests and flagship hackathons only): IIT Bombay Techfest, IIT Madras Shaastra (TN), IIT Kanpur Techkriti, IIT Kharagpur Kshitij, IIT Delhi Tryst, IIT Hyderabad Elan, IIIT Hyderabad, BITS Pilani APOGEE, NIT Warangal Technozion, VIT-AP, plus MLH and Devfolio flagship hackathons (HackOdisha, Innerve, Diversion and similar)
 
 ## G. Wide-net searches (run several, vary the wording daily)
 - "hackathon" / "workshop" / "tech fest" / "symposium" + each month ahead + each of: Nagercoil, Kanyakumari, Tirunelveli, Madurai, Coimbatore, Chennai, Trichy, Trivandrum, Kochi, Kozhikode, Thrissur, Bengaluru
 - "online hackathon India students" + month
+- "hackathon" / "free workshop" + Hyderabad, Mumbai, Pune, Delhi + month
 - "free workshop" + AI / web development / cloud + Tamil Nadu / Kerala
 - "registration open" + hackathon + Tamil Nadu / Kerala
 

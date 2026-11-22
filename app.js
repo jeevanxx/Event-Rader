@@ -9,7 +9,9 @@
 
   const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
   const KIND = { hackathon:"Hackathon", workshop:"Workshop", conference:"Conference", meetup:"Meetup", competition:"Challenge" };
-  const REGION = { kanyakumari:"Kanyakumari", tamilnadu:"Tamil Nadu", kerala:"Kerala", bangalore:"Bengaluru", online:"Online" };
+  const REGION = { kanyakumari:"Kanyakumari", tamilnadu:"Tamil Nadu", kerala:"Kerala", bangalore:"Bengaluru", india:"Rest of India", online:"Online" };
+  const WEEKDAYS = ["Mon","Tue","Wed","Thu","Fri","Sat","Sun"];
+  const MONTHS_LONG = ["January","February","March","April","May","June","July","August","September","October","November","December"];
   const $ = (id) => document.getElementById(id);
 
   // ---- Local state (per device) ------------------------------------------
@@ -18,7 +20,10 @@
     set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (_) {} }
   };
   let statuses = store.get("radar-status", {});
-  let { view = "upcoming", region = "all" } = store.get("radar-filters", {});
+  let { view = "upcoming", region = "all", layout = "list" } = store.get("radar-filters", {});
+  const saveFilters = () => store.set("radar-filters", { view, region, layout });
+  let calMonth = null; // Date for the 1st of the shown month
+  let calDay = null;   // "YYYY-MM-DD" selected in the calendar
   let events = [];
 
   // ---- Helpers -------------------------------------------------------------
@@ -106,11 +111,84 @@
           ${btn("interested", "Interested")}
           ${btn("registered", "Registered")}
           ${btn("skipped", "Skip")}
+          ${gcalUrl(e) ? `<a class="act" href="${esc(gcalUrl(e))}" target="_blank" rel="noopener">Add to calendar</a>` : ""}
           ${url ? `<a class="link" href="${esc(url)}" target="_blank" rel="noopener">Event page ↗</a>` : ""}
         </div>
       </div>
     </article>`;
   }
+
+  // ---- Calendar -------------------------------------------------------------
+  const iso = (d) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+  const ymd = (s) => s.replace(/-/g, "");
+  function gcalUrl(e) {
+    const s = parse(e.start) || parse(e.end); if (!s) return "";
+    const en = parse(e.end) && parse(e.end) >= s ? parse(e.end) : s;
+    const after = new Date(en.getFullYear(), en.getMonth(), en.getDate() + 1); // all-day end is exclusive
+    const details = [e.summary, e.deadline ? `Register by ${fmt(e.deadline)}` : "", safeUrl(e.url)].filter(Boolean).join("\n\n");
+    const where = [e.venue, e.address || e.city].filter(Boolean).join(", ") || e.mode || "";
+    return "https://calendar.google.com/calendar/render?action=TEMPLATE" +
+      `&text=${encodeURIComponent(e.title)}&dates=${ymd(iso(s))}/${ymd(iso(after))}` +
+      `&details=${encodeURIComponent(details)}&location=${encodeURIComponent(where)}`;
+  }
+  const kindClass = (e) => e.kind === "hackathon" ? "hackathon" : e.kind === "workshop" ? "workshop" : "other";
+  // Days an event occupies: start..end (capped at 21 days so long online windows don't flood the month), or just its end date.
+  function eventDays(e) {
+    const s = parse(e.start), en = parse(e.end);
+    const first = s || en; if (!first) return [];
+    let last = en && en >= first ? en : first;
+    const span = Math.round((last - first) / 86400000);
+    if (span > 21) return [iso(first), iso(last)];
+    const out = []; for (let d = new Date(first); d <= last; d.setDate(d.getDate() + 1)) out.push(iso(d));
+    return out;
+  }
+  function calEvents(scope) { return scope.filter((e) => statusOf(e) !== "skipped"); }
+  function indexByDay(list) {
+    const map = {};
+    const add = (k, e, type) => { (map[k] = map[k] || []).push({ e, type }); };
+    list.forEach((e) => {
+      eventDays(e).forEach((k) => add(k, e, "on"));
+      if (e.deadline && parse(e.deadline)) add(e.deadline, e, "deadline");
+    });
+    return map;
+  }
+  function renderCal(scope) {
+    const t = today();
+    if (!calMonth) calMonth = new Date(t.getFullYear(), t.getMonth(), 1);
+    if (!calDay) calDay = iso(t);
+    const map = indexByDay(calEvents(scope));
+    $("calTitle").textContent = `${MONTHS_LONG[calMonth.getMonth()]} ${calMonth.getFullYear()}`;
+    const lead = (calMonth.getDay() + 6) % 7; // Monday first
+    const start = new Date(calMonth.getFullYear(), calMonth.getMonth(), 1 - lead);
+    let html = WEEKDAYS.map((w) => `<div class="wd" role="columnheader">${w}</div>`).join("");
+    for (let i = 0; i < 42; i++) {
+      const d = new Date(start.getFullYear(), start.getMonth(), start.getDate() + i);
+      if (i >= 35 && d.getMonth() !== calMonth.getMonth()) break;
+      const k = iso(d), items = map[k] || [];
+      const on = items.filter((x) => x.type === "on").sort((p, q) => (q.e.fit || 0) - (p.e.fit || 0)), dl = items.filter((x) => x.type === "deadline");
+      const dots = on.slice(0, 4).map((x) => `<i class="dot ${kindClass(x.e)}"></i>`).join("") + (on.length > 4 ? `<b class="more">+${on.length - 4}</b>` : "");
+      const labels = on.slice(0, 2).map((x) => `<span class="lab ${kindClass(x.e)}">${esc(x.e.title)}</span>`).join("");
+      const cls = ["day", d.getMonth() !== calMonth.getMonth() ? "out" : "", k === iso(t) ? "today" : "", k === calDay ? "sel" : "", items.length ? "has" : ""].filter(Boolean).join(" ");
+      const label = `${d.getDate()} ${MONTHS_LONG[d.getMonth()]}: ${on.length} event${on.length === 1 ? "" : "s"}${dl.length ? `, ${dl.length} registration deadline${dl.length === 1 ? "" : "s"}` : ""}`;
+      html += `<button class="${cls}" data-day="${k}" aria-label="${esc(label)}" aria-pressed="${k === calDay}"><span class="num">${d.getDate()}</span>${dl.length ? '<i class="dl-mark" aria-hidden="true"></i>' : ""}<span class="dots" aria-hidden="true">${dots}</span><span class="labs" aria-hidden="true">${labels}</span></button>`;
+    }
+    $("calGrid").innerHTML = html;
+    renderAgenda(map);
+  }
+  function renderAgenda(map) {
+    const items = map[calDay] || [];
+    const d = parse(calDay);
+    const head = `<h3>${d ? `${WEEKDAYS[(d.getDay() + 6) % 7]} ${d.getDate()} ${MONTHS_LONG[d.getMonth()]}` : ""}</h3>`;
+    if (!items.length) { $("agenda").innerHTML = head + `<p class="none">Nothing on this day. Days with dots have events; a red corner means a registration deadline.</p>`; return; }
+    const row = (x) => {
+      const e = x.e;
+      const when = x.type === "deadline" ? "Registration closes" : (e.start && e.end && e.start !== e.end ? `${fmt(e.start)} – ${fmt(e.end)}` : e.start ? fmt(e.start) : `Ends ${fmt(e.end)}`);
+      return `<li class="${x.type}"><button class="agrow" data-jump="${esc(e.id)}"><i class="${x.type === "deadline" ? "dl-mark" : "dot " + kindClass(e)}"></i><span><b>${esc(e.title)}</b><small>${esc(when)} · ${esc(e.city || REGION[e.region] || "")}${typeof e.fit === "number" ? ` · fit ${e.fit}` : ""}</small></span></button></li>`;
+    };
+    const ord = [...items.filter((x) => x.type === "deadline"), ...items.filter((x) => x.type === "on").sort((a, b) => (b.e.fit || 0) - (a.e.fit || 0))];
+    $("agenda").innerHTML = head + `<ul>${ord.map(row).join("")}</ul>`;
+  }
+
   function renderPicks() {
     const open = events.filter((e) => !isPast(e) && statusOf(e) !== "skipped" && typeof e.fit === "number" && !(e.deadline && days(e.deadline) < 0));
     open.sort((a, b) => b.fit - a.fit);
@@ -125,7 +203,10 @@
     document.querySelectorAll("#views .chip").forEach((b) => b.setAttribute("aria-pressed", b.dataset.view === view));
     document.querySelectorAll("#regions .chip").forEach((b) => b.setAttribute("aria-pressed", b.dataset.region === region));
     renderPicks();
+    document.querySelectorAll("#layouts button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.layout === layout));
     const inRegion = events.filter((e) => region === "all" || (region === "joy" ? e.joy : e.region === region));
+    $("cal").hidden = layout !== "cal"; $("list").hidden = layout === "cal"; $("views").hidden = layout === "cal";
+    if (layout === "cal") renderCal(inRegion);
     const counts = { upcoming: 0, interested: 0, registered: 0, skipped: 0, past: 0 };
     inRegion.forEach((e) => { const b = bucket(e); counts[b]++; if (b === "interested" || b === "registered") counts.upcoming++; });
     Object.keys(counts).forEach((k) => { $("n-" + k).textContent = counts[k] || ""; });
@@ -142,8 +223,19 @@
   }
 
   document.addEventListener("click", (ev) => {
-    const v = ev.target.closest("[data-view]"); if (v) { view = v.dataset.view; store.set("radar-filters", { view, region }); render(); return; }
-    const r = ev.target.closest("[data-region]"); if (r) { region = r.dataset.region; store.set("radar-filters", { view, region }); render(); return; }
+    const v = ev.target.closest("[data-view]"); if (v) { view = v.dataset.view; saveFilters(); render(); return; }
+    const r = ev.target.closest("[data-region]"); if (r) { region = r.dataset.region; saveFilters(); render(); return; }
+    const l = ev.target.closest("[data-layout]"); if (l) { layout = l.dataset.layout; saveFilters(); render(); return; }
+    const dd = ev.target.closest("[data-day]"); if (dd) { calDay = dd.dataset.day; const d = parse(calDay); if (d && d.getMonth() !== calMonth.getMonth()) calMonth = new Date(d.getFullYear(), d.getMonth(), 1); render(); return; }
+    if (ev.target.closest("#calPrev, #calNext")) { const step = ev.target.closest("#calPrev") ? -1 : 1; calMonth = new Date(calMonth.getFullYear(), calMonth.getMonth() + step, 1); render(); return; }
+    if (ev.target.closest("#calToday")) { const t = today(); calMonth = new Date(t.getFullYear(), t.getMonth(), 1); calDay = iso(t); render(); return; }
+    const j = ev.target.closest("[data-jump]");
+    if (j) {
+      const e = events.find((x) => x.id === j.dataset.jump); if (!e) return;
+      layout = "list"; view = isPast(e) ? "past" : statusOf(e) === "new" ? "upcoming" : bucket(e); saveFilters(); render();
+      const el = document.getElementById("ev-" + e.id); if (el) { el.scrollIntoView({ block: "start", behavior: "smooth" }); el.classList.add("flash"); setTimeout(() => el.classList.remove("flash"), 1600); }
+      return;
+    }
     const a = ev.target.closest("[data-set]");
     if (a) {
       const id = a.dataset.id, next = statuses[id] === a.dataset.set ? "new" : a.dataset.set;

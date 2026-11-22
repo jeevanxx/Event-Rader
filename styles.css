@@ -105,3 +105,48 @@ a.link:hover{text-decoration:underline}
 .joyfeed .jd{font-family:var(--f-mono);font-size:12px;color:var(--muted);flex:none;width:52px;padding-top:2px}
 .joyfeed a{color:var(--ink);text-decoration:none;overflow-wrap:anywhere}
 .joyfeed a:hover{color:var(--accent);text-decoration:underline}
+/* Layout switch + calendar */
+.seg{display:inline-flex;align-self:flex-start;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--surface)}
+.seg button{font:inherit;font-size:13px;font-weight:700;padding:7px 16px;border:none;background:transparent;color:var(--muted);cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.seg button:focus-visible,.day:focus-visible,.calnav:focus-visible,.caltoday:focus-visible,.agrow:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.cal{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:12px;display:flex;flex-direction:column;gap:10px}
+.calhead{display:flex;align-items:center;gap:6px}
+.calhead h2{font-family:var(--f-display);font-size:20px;margin:0 auto 0 4px;order:-1}
+.calnav,.caltoday{font:inherit;font-size:14px;font-weight:700;min-width:36px;height:36px;padding:0 10px;border:1px solid var(--line);border-radius:8px;background:transparent;color:var(--ink);cursor:pointer}
+.calnav{font-size:20px;line-height:1;padding:0}
+.calgrid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:3px}
+.wd{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:center;padding:2px 0}
+.day{position:relative;font:inherit;min-height:58px;padding:4px 4px 5px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);cursor:pointer;display:flex;flex-direction:column;align-items:flex-start;gap:3px;text-align:left;min-width:0;overflow:hidden}
+.day .num{font-family:var(--f-mono);font-size:12px;font-weight:700}
+.day.out{opacity:.45}
+.day.today .num{background:var(--accent);color:var(--accent-ink);border-radius:4px;padding:0 4px}
+.day.sel{border-color:var(--ink);box-shadow:inset 0 0 0 1px var(--ink)}
+.dots{display:flex;flex-wrap:wrap;gap:3px;align-items:center}
+.dot{display:inline-block;width:7px;height:7px;border-radius:50%;flex:none}
+.dot.hackathon{background:var(--accent)}
+.dot.workshop{background:var(--warn)}
+.dot.other{background:var(--muted)}
+.more{font-family:var(--f-mono);font-size:9.5px;color:var(--muted);font-weight:700}
+.dl-mark{display:inline-block;width:0;height:0;border-style:solid;border-width:0 11px 11px 0;border-color:transparent var(--hot) transparent transparent;flex:none}
+.day .dl-mark{position:absolute;top:0;right:0}
+.labs{display:none}
+.lab{display:block;font-size:11px;line-height:1.25;padding:1px 4px;border-radius:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%;border-left:3px solid var(--muted);background:var(--surface)}
+.lab.hackathon{border-color:var(--accent)}
+.lab.workshop{border-color:var(--warn)}
+.legend{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12px;color:var(--muted);margin:0}
+.legend span{display:inline-flex;align-items:center;gap:5px}
+.agenda h3{font-family:var(--f-display);font-size:17px;margin:4px 0 6px}
+.agenda ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px}
+.agenda .none{margin:0;color:var(--muted);font-size:13.5px}
+.agrow{font:inherit;width:100%;display:flex;gap:10px;align-items:flex-start;text-align:left;padding:8px 10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--ink);cursor:pointer}
+.agrow .dot,.agrow .dl-mark{margin-top:6px}
+.agrow span{display:flex;flex-direction:column;min-width:0}
+.agrow b{font-family:var(--f-display);font-weight:700;overflow-wrap:anywhere}
+.agrow small{color:var(--muted);font-size:12.5px}
+li.deadline .agrow{border-color:var(--hot-soft);background:var(--hot-soft)}
+li.deadline .agrow small{color:var(--hot)}
+.pass.flash{border-color:var(--accent);box-shadow:0 0 0 2px var(--accent)}
+a.act{text-decoration:none;display:inline-block}
+@media (min-width:640px){.day{min-height:84px}.labs{display:flex;flex-direction:column;gap:2px;width:100%}.dots{display:none}}
+@media (max-width:380px){.day{min-height:48px;padding:3px}.dot{width:6px;height:6px}}

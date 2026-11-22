@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Event Radar</title>
-<meta name="description" content="Hackathons, workshops and tech events you can join across Tamil Nadu, Kerala, Bengaluru and online, checked daily.">
+<meta name="description" content="Hackathons, workshops and tech events you can join across India and online, checked daily.">
 <meta name="theme-color" content="#1f6f5c">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" type="image/png" href="icons/favicon-64.png">
@@ -28,7 +28,7 @@
   <header>
     <span class="eyebrow">Hackathons · Workshops · Meetups · Challenges</span>
     <h1>Events you can actually join</h1>
-    <p class="sub">From Kanyakumari to Bengaluru and online. Checked every morning: new events, changed dates and closing registrations come straight to your notifications.</p>
+    <p class="sub">From Kanyakumari to the rest of India, plus online. Checked every morning: new events, changed dates and closing registrations come straight to your notifications.</p>
     <span class="scout" id="scout"></span>
   </header>
 
@@ -53,6 +53,10 @@
   </section>
 
   <div class="bar">
+    <div class="seg" id="layouts" role="group" aria-label="Layout">
+      <button data-layout="list" aria-pressed="true">List</button>
+      <button data-layout="cal" aria-pressed="false">Calendar</button>
+    </div>
     <div class="row" id="views" role="group" aria-label="Show">
       <button class="chip" data-view="upcoming" aria-pressed="true">Upcoming<span class="n" id="n-upcoming"></span></button>
       <button class="chip" data-view="interested" aria-pressed="false">Interested<span class="n" id="n-interested"></span></button>
@@ -66,12 +70,24 @@
       <button class="chip" data-region="tamilnadu" aria-pressed="false">Tamil Nadu</button>
       <button class="chip" data-region="kerala" aria-pressed="false">Kerala</button>
       <button class="chip" data-region="bangalore" aria-pressed="false">Bengaluru</button>
+      <button class="chip" data-region="india" aria-pressed="false">Rest of India</button>
       <button class="chip" data-region="online" aria-pressed="false">Online</button>
       <button class="chip" data-region="joy" aria-pressed="false">Joy University</button>
     </div>
   </div>
 
   <div class="status" id="status" role="status"></div>
+  <section class="cal" id="cal" hidden aria-label="Event calendar">
+    <div class="calhead">
+      <button class="calnav" id="calPrev" aria-label="Previous month">‹</button>
+      <h2 id="calTitle"></h2>
+      <button class="calnav" id="calNext" aria-label="Next month">›</button>
+      <button class="caltoday" id="calToday">Today</button>
+    </div>
+    <div class="calgrid" id="calGrid" role="grid"></div>
+    <p class="legend"><span><i class="dot hackathon"></i>Hackathon</span><span><i class="dot workshop"></i>Workshop</span><span><i class="dot other"></i>Other event</span><span><i class="dl-mark"></i>Registration closes</span></p>
+    <div class="agenda" id="agenda"></div>
+  </section>
   <div class="list" id="list">
     <div class="empty"><strong>Loading events…</strong>New finds from the daily check show up here.</div>
   </div>
