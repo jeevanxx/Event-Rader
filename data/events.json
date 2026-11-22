@@ -1,6 +1,6 @@
 {
-  "lastRun": "21 Nov 2026",
-  "added": 2,
+  "lastRun": "22 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -126,7 +126,7 @@
       "venue": "Digital University Kerala, Technocity Campus",
       "address": "Mangalapuram, Thonnakkal PO, Pallippuram, Trivandrum, Kerala 695317",
       "organizer": "GDG Trivandrum and GDG Cloud Trivandrum (Google Developer Groups)",
-      "cost": "Ticketed; price not shown on the event page",
+      "cost": "Free (register on myotherapp.in)",
       "eligibility": "Listed as suitable for beginners and experienced developers; student eligibility not stated separately",
       "theme": "Cloud computing, AI and Google technologies",
       "perks": "Talks, hands-on workshops, networking",
@@ -140,13 +140,18 @@
         {
           "title": "GDG Thiruvananthapuram",
           "url": "https://gdg.community.dev/gdg-thiruvananthapuram/"
+        },
+        {
+          "title": "Registration page (myotherapp)",
+          "url": "https://myotherapp.in/events/cloud-community-days-x-devfest-2026-dd9e17"
         }
       ],
-      "verifiedAt": "11 Nov 2026",
+      "verifiedAt": "22 Nov 2026",
       "fit": 84,
       "fitReason": "The closest DevFest to you: Trivandrum is a short trip from Nagercoil, so it's a day out, not an overnight trip. Beginner-friendly, Google AI and Cloud workshops, and a great place to meet Kerala's developer community. Ticket price isn't shown yet.",
       "isNew": false,
-      "added": "2026-10-31"
+      "added": "2026-10-31",
+      "warning": "Registering doesn't guarantee a seat: GDG Cloud Trivandrum reviews registrations and emails tickets to those confirmed. About 990 people had applied by 22 Nov. Check-in opens at 8:30 AM; sessions run 10 AM to 5 PM."
     },
     {
       "id": "huddle-global-2026",
@@ -3395,7 +3400,7 @@
       "verifiedAt": "18 Nov 2026",
       "fit": 62,
       "fitReason": "Free, from a well-known Kerala college, with an AI theme that suits you. Kochi is about 5–6 hours by train. Needs a team of 2+ and travel over New Year.",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-18"
     },
     {
@@ -3424,7 +3429,7 @@
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "21 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-18"
     },
     {

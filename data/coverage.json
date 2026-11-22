@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
-      "found": 0
+      "found": 0,
+      "updated": 1
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 0,
-      "reviewed": 1
+      "found": 0
     },
     "C": {
       "checked": true,
@@ -38,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Reviewed CPP (Shaastra 2027) from the automatic check. Kerala searches (KSUM, TinkerHub, IEDC) found only past events. TinkHack (TinkerHub MEC Kochi) has a placeholder next edition on Devfolio dated 29–30 Jan 2027, but no title or details, so I didn't add it. I'll check again later. Shaastra 2027's own dates weren't found yet."
+  "notes": "Re-checked DevFest Trivandrum: it's free, but seats are allocated after review. COMPUTE50 (PSG Tech) was found, but registration closed on 21 Nov. Other results were past or cancelled (Rockathon '26, PEC HACKS 3.0, 2025 DevFests)."
 }
