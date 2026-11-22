@@ -3,22 +3,38 @@
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 120
+      "found": 253
+    },
+    "Devfolio": {
+      "ok": true,
+      "found": 23
+    },
+    "Hack2Skill": {
+      "ok": true,
+      "found": 8
+    },
+    "Luma": {
+      "ok": true,
+      "found": 41
     },
     "Eventopia": {
       "ok": true,
-      "found": 10
+      "found": 19
+    },
+    "Knowafest": {
+      "ok": true,
+      "found": 12
     },
     "India Hackathons": {
       "ok": true,
-      "found": 9
+      "found": 13
     },
     "Joy University": {
       "ok": true,
-      "found": 429
+      "found": 430
     }
   },
-  "added": 3,
-  "refreshed": 42,
-  "removed": 2
+  "added": 100,
+  "refreshed": 45,
+  "removed": 0
 }
