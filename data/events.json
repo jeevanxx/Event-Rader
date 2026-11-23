@@ -1,6 +1,6 @@
 {
-  "lastRun": "22 Nov 2026",
-  "added": 100,
+  "lastRun": "23 Nov 2026",
+  "added": 0,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -3434,7 +3434,7 @@
       "fitReason": "Short, free and solo, with Google for Developers behind it, and it's vibe coding like the AI Studio workshop you attended. But it's a long trip to Bengaluru for a 3-hour event.",
       "auto": false,
       "verifiedAt": "20 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-19",
       "start": "2026-12-05",
       "theme": "Fraud Shield: fighting AI-powered scams (exact problem revealed at kickoff)",
@@ -3466,7 +3466,7 @@
       "fitReason": "Online with an Agentic AI track, and you can enter solo. But the prizes are modest and there's a ₹399 fee to play the final round.",
       "auto": false,
       "verifiedAt": "20 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-19",
       "start": "2026-12-03",
       "prizes": "₹30,000 pool for the top 3, plus paid internship chances",
@@ -3500,7 +3500,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "22 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-19"
     },
     {
@@ -3529,7 +3529,7 @@
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "22 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-19"
     },
     {
@@ -3556,7 +3556,7 @@
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "21 Nov 2026",
-      "isNew": true,
+      "isNew": false,
       "added": "2026-11-19"
     },
     {
@@ -5380,7 +5380,7 @@
     },
     {
       "id": "auto-devfolio-makerspark",
-      "title": "MakerSpark",
+      "title": "MakerSpark: 8-hour hardware hackathon (IEEE Sensors Council Kerala)",
       "kind": "hackathon",
       "start": "2026-12-09",
       "end": "2026-12-09",
@@ -5388,27 +5388,32 @@
       "city": "Thiruvananthapuram",
       "region": "kerala",
       "mode": "In person",
-      "venue": "IIITMK Building, Technopark Road, Technopark Campus, Karyavattom, Kazhakkoottam, Thiruvananthapuram, Keralam, India",
-      "address": "Thiruvananthapuram, Keralam",
-      "team": "1–4",
-      "summary": "**MakerSpark** is an 8-hour hardware-only hackathon organized by the **IEEE Sensors Council Kerala Chapter**, in collaboration with **Arduino, Maker Village, and Semicon Keralam**.",
+      "venue": "IIITM-K (Digital University Kerala building), Technopark",
+      "address": "IIITMK Building, Technopark Road, Technopark Campus, Karyavattom, Kazhakkoottam, Thiruvananthapuram",
+      "team": "1 to 4",
+      "summary": "Wed 9 Dec, 9 AM to 5 PM IST: an 8-hour hardware-only build at Technopark. Apply on Devfolio by 25 Nov (11:59 PM); teams are shortlisted.",
       "url": "https://makerspark.devfolio.co/",
       "sources": [
         {
-          "title": "Devfolio",
+          "title": "MakerSpark on Devfolio",
           "url": "https://makerspark.devfolio.co/"
         }
       ],
-      "fit": 61,
-      "fitReason": "Auto-scored: Trivandrum is a short trip. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "22 Nov 2026",
+      "fit": 62,
+      "fitReason": "Trivandrum is close (about 2 hours), the organisers are solid (IEEE, Arduino) and you get Arduino boards. But it's hardware-only, which is less your area than AI software, and it's a weekday.",
+      "auto": false,
+      "verifiedAt": "23 Nov 2026",
       "isNew": true,
-      "added": "2026-11-22"
+      "added": "2026-11-22",
+      "organizer": "IEEE Sensors Council Kerala Chapter, with Arduino, Maker Village and Semicon Keralam",
+      "theme": "Physical AI hardware projects on an Arduino UNO Q board; tracks: Industry 2.0, HealthTech, Utopia (sustainability, smart living), Odyssey (open)",
+      "prizes": "Prize pool (amount not listed)",
+      "perks": "Shortlisted teams get Arduino UNO Q boards to build with",
+      "warning": "The fee isn't stated on Devfolio, and it's a weekday (Wednesday)."
     },
     {
       "id": "auto-devfolio-hack-with-gdg-s4",
-      "title": "HACK WITH GDG S4",
+      "title": "Hack With GDG S4 (KSR College of Engineering)",
       "kind": "hackathon",
       "start": "2027-01-22",
       "end": "2027-01-24",
@@ -5416,51 +5421,56 @@
       "city": "KSR Kalvi Nagar",
       "region": "tamilnadu",
       "mode": "In person",
-      "venue": "K S R College of Engineering, KSR Kalvi Nagar, Tamil Nadu, India",
-      "address": "KSR Kalvi Nagar, Tamil Nadu",
-      "team": "1–4",
-      "summary": "Challenge Reality. Build What's Next.",
+      "venue": "K S R College of Engineering",
+      "address": "KSR Kalvi Nagar, Tiruchengode, Namakkal district, Tamil Nadu",
+      "team": "1 to 4",
+      "summary": "Round 1: submit an idea deck (PPT/PDF). Selected teams go to a 36-hour offline hackathon with mentors, meals and side events.",
       "url": "https://hack-with-gdg-s4.devfolio.co/",
       "sources": [
         {
-          "title": "Devfolio",
+          "title": "Hack With GDG S4 on Devfolio",
           "url": "https://hack-with-gdg-s4.devfolio.co/"
         }
       ],
-      "fit": 52,
-      "fitReason": "Auto-scored: in your state or next door. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "22 Nov 2026",
+      "fit": 45,
+      "fitReason": "A GDG-run 36-hour hackathon in Tamil Nadu, with meals provided. Tiruchengode is far (about 7 hours), and the dates are uncertain because it's been postponed.",
+      "auto": false,
+      "verifiedAt": "23 Nov 2026",
       "isNew": true,
-      "added": "2026-11-22"
+      "added": "2026-11-22",
+      "organizer": "Google Developer Groups on Campus, KSR College of Engineering (GDG KSRCE)",
+      "warning": "POSTPONED: the organisers say new dates will be announced. Devfolio still shows 22–24 Jan 2027 and a 31 Dec deadline."
     },
     {
       "id": "auto-devfolio-hack2027",
-      "title": "HACK2027",
+      "title": "HACK.2027: national 24-hour hybrid hackathon (SIMATS Chennai)",
       "kind": "hackathon",
       "start": "2027-02-18",
       "end": "2027-02-19",
       "deadline": "2026-12-31",
       "city": "Chennai",
       "region": "tamilnadu",
-      "mode": "In person",
-      "venue": "Saveetha University, Kanchipuram - Chennai Road, Chennai, Tamil Nadu, India",
-      "address": "Chennai, Tamil Nadu",
-      "team": "2–4",
-      "summary": "Innovate. Build. Disrupt. 24 Hours at SIMATS.",
+      "mode": "Online idea round, then a 24-hour offline final",
+      "venue": "SIMATS Engineering (Saveetha School of Engineering)",
+      "address": "Saveetha University, Kanchipuram–Chennai Road, Chennai",
+      "team": "2 to 4",
+      "summary": "Register on Devfolio by 31 Dec. Round 1 is an online idea/PPT screening in late January that picks the top 75 teams. Finalists build for 24 hours at SIMATS Chennai on 18–19 Feb 2027.",
       "url": "https://hack2027.devfolio.co/",
       "sources": [
         {
-          "title": "Devfolio",
+          "title": "HACK2027 on Devfolio",
           "url": "https://hack2027.devfolio.co/"
         }
       ],
-      "fit": 52,
-      "fitReason": "Auto-scored: in your state or next door. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "22 Nov 2026",
+      "fit": 56,
+      "fitReason": "A large national hackathon in Chennai with a free online first round, so you only travel if shortlisted. Prizes aren't announced yet, and you need a team of 2 or more.",
+      "auto": false,
+      "verifiedAt": "23 Nov 2026",
       "isNew": true,
-      "added": "2026-11-22"
+      "added": "2026-11-22",
+      "organizer": "SIMATS Engineering (Saveetha School of Engineering)",
+      "theme": "Software, AI, hardware and smart systems, and interdisciplinary engineering",
+      "prizes": "Not listed yet"
     },
     {
       "id": "auto-devfolio-texus27",

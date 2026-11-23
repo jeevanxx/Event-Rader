@@ -1,16 +1,16 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "sections": {
     "A": {
       "checked": true,
       "partial": true,
-      "found": 0,
-      "updated": 1
+      "found": 0
     },
     "B": {
       "checked": true,
       "partial": true,
-      "found": 0
+      "found": 0,
+      "reviewed": 3
     },
     "C": {
       "checked": true,
@@ -38,5 +38,5 @@
       "found": 0
     }
   },
-  "notes": "Re-checked DevFest Trivandrum: it's free, but seats are allocated after review. COMPUTE50 (PSG Tech) was found, but registration closed on 21 Nov. Other results were past or cancelled (Rockathon '26, PEC HACKS 3.0, 2025 DevFests)."
+  "notes": "Reviewed three hackathons the expanded automatic check found on Devfolio: MakerSpark (Trivandrum), Hack With GDG S4 (KSR College, postponed) and HACK.2027 (SIMATS Chennai). News reports say Shaastra 2027 at IIT Madras starts 2 Jan; its many workshops on Unstop stay unreviewed (usually paid). Kanyakumari and Trivandrum workshop searches found only past or school-level events. The overnight GitHub check for 23 Nov hadn't run yet."
 }
