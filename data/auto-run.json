@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "sources": {
     "Unstop": {
       "ok": true,
@@ -15,11 +15,11 @@
     },
     "Luma": {
       "ok": true,
-      "found": 41
+      "found": 43
     },
     "Eventopia": {
       "ok": true,
-      "found": 19
+      "found": 16
     },
     "Knowafest": {
       "ok": true,
@@ -34,7 +34,7 @@
       "found": 430
     }
   },
-  "added": 100,
-  "refreshed": 45,
-  "removed": 0
+  "added": 10,
+  "refreshed": 138,
+  "removed": 2
 }
