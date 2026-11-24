@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 253
+      "found": 257
     },
     "Devfolio": {
       "ok": true,
-      "found": 23
+      "found": 24
     },
     "Hack2Skill": {
       "ok": true,
@@ -15,15 +15,15 @@
     },
     "Luma": {
       "ok": true,
-      "found": 43
+      "found": 46
     },
     "Eventopia": {
       "ok": true,
-      "found": 16
+      "found": 17
     },
     "Knowafest": {
       "ok": true,
-      "found": 12
+      "found": 13
     },
     "India Hackathons": {
       "ok": true,
@@ -35,6 +35,6 @@
     }
   },
   "added": 10,
-  "refreshed": 138,
+  "refreshed": 136,
   "removed": 2
 }
