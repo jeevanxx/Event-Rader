@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 257
+      "found": 267
     },
     "Devfolio": {
       "ok": true,
@@ -15,11 +15,11 @@
     },
     "Luma": {
       "ok": true,
-      "found": 46
+      "found": 52
     },
     "Eventopia": {
       "ok": true,
-      "found": 17
+      "found": 18
     },
     "Knowafest": {
       "ok": true,
@@ -27,14 +27,14 @@
     },
     "India Hackathons": {
       "ok": true,
-      "found": 13
+      "found": 16
     },
     "Joy University": {
       "ok": true,
       "found": 430
     }
   },
-  "added": 10,
-  "refreshed": 136,
-  "removed": 2
+  "added": 14,
+  "refreshed": 131,
+  "removed": 3
 }
