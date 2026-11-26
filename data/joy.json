@@ -1,5 +1,5 @@
 {
-  "updated": "25 Nov 2026",
+  "updated": "26 Nov 2026",
   "source": "https://joyuniversity.edu.in/Latest-Events",
   "items": [
     {
@@ -63,6 +63,13 @@
       "date": "2026-11-06",
       "kind": "campus",
       "url": "https://joyuniversity.edu.in/Event-Listing/439",
+      "tech": false
+    },
+    {
+      "title": "Election Awareness Competitions 2026",
+      "date": "2026-11-06",
+      "kind": "campus",
+      "url": "https://joyuniversity.edu.in/Event-Listing/438",
       "tech": false
     },
     {
