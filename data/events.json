@@ -1,6 +1,6 @@
 {
-  "lastRun": "26 Nov 2026",
-  "added": 2,
+  "lastRun": "27 Nov 2026",
+  "added": 8,
   "events": [
     {
       "id": "great-indian-hackathon-2026",
@@ -319,40 +319,6 @@
       "isNew": false,
       "added": "2026-11-01",
       "warning": "As of 13 Nov the page still shows the 12 Nov registration deadline marked \"(May Extend)\", with Round 1 presentations on 14 Nov. Check the page before assuming it's closed."
-    },
-    {
-      "id": "paypal-ai-hackathon-2026",
-      "title": "PayPal AI Hackathon",
-      "kind": "competition",
-      "start": "2026-10-01",
-      "end": "2026-11-12",
-      "deadline": "2026-11-12",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online (Devpost)",
-      "organizer": "PayPal",
-      "cost": "Free (not stated as paid)",
-      "eligibility": "Anyone of legal age where they live; India is eligible. Individuals or teams.",
-      "prizes": "US$67,500 total; 1st US$12,000, plus five US$5,000 category awards",
-      "theme": "Any project that meaningfully uses the PayPal developer platform and AI, with a working prototype",
-      "summary": "Global online build competition. Submissions close 12 Nov (1:30 AM IST on 13 Nov); winners around 21 Dec.",
-      "url": "https://paypalaihackathon.devpost.com/",
-      "sources": [
-        {
-          "title": "StartupGrantsIndia listing",
-          "url": "https://www.startupgrantsindia.com/competitions/paypal-ai-hackathon"
-        },
-        {
-          "title": "Devpost page",
-          "url": "https://paypalaihackathon.devpost.com/"
-        }
-      ],
-      "verifiedAt": "9 Nov 2026",
-      "fit": 55,
-      "fitReason": "Huge prizes and payments plus AI is useful for an online business, but it's global, competitive, and you'd need to learn PayPal's APIs in under two weeks.",
-      "isNew": false,
-      "added": "2026-11-01"
     },
     {
       "id": "nexconn-build-challenge-2026",
@@ -926,7 +892,7 @@
       "fit": 60,
       "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
       "summary": "Reverse CodingX – Shaastra 2027. Ever wondered if you could work backwards from an output to uncover the logic behind it? Reverse CodingX is back with a fresh set of brain-teasing challenges that put your logical thinking and problem-solving skills to the test."
@@ -1141,7 +1107,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: in your state or next door, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
       "summary": "HackHere proudly presents THE SUMMIT EXPEDITION , a 24-hour national-level hackathon set against the breathtaking landscapes of Ooty, Tamil Nadu ."
@@ -1263,7 +1229,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: in your state or next door, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
       "summary": "Welcome to Shaastra, the annual technical festival of IIT Madras! Shaastra workshops are back on the ground with their stellar lineup of topics. Our trainers are experts in their domains and are specially selected to guide both absolute beginners and experienced participants."
@@ -1293,7 +1259,7 @@
       "fit": 50,
       "fitReason": "Auto-scored: in your state or next door, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
       "summary": "Welcome to Shaastra, the annual technical festival of IIT Madras! Shaastra workshops are back on the ground with its stellar lineup of topics. Our trainers are experts in their domains and are specially selected to guide both absolute beginners and experienced participants."
@@ -1323,7 +1289,7 @@
       "fit": 50,
       "fitReason": "Auto-scored: in your state or next door, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
       "summary": "Welcome to Shaastra, the annual technical festival of IIT Madras! Shaastra workshops are back on the ground with its stellar lineup of topics. Our trainers are experts in their domains and are specially selected to guide both absolute beginners and experienced participants."
@@ -1383,7 +1349,7 @@
       "fit": 62,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05",
       "summary": "Turn a real-world problem into a clear, practical solution with UPSC ZONE AI. This online workshop focuses on choosing the right problem, understanding who faces it, and exploring how applied AI can help."
@@ -1499,7 +1465,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: in your state or next door, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05"
     },
@@ -1526,7 +1492,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: in your state or next door, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-05"
     },
@@ -1751,7 +1717,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: in your state or next door, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-06"
     },
@@ -1781,7 +1747,7 @@
       "fit": 53,
       "fitReason": "Auto-scored: in your state or next door, paid, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-06"
     },
@@ -1811,7 +1777,7 @@
       "fit": 50,
       "fitReason": "Auto-scored: in your state or next door, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-06"
     },
@@ -1841,7 +1807,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: in your state or next door, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-06"
     },
@@ -1925,7 +1891,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: in your state or next door, paid, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-06"
     },
@@ -1956,7 +1922,7 @@
       "fit": 57,
       "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-06"
     },
@@ -1987,7 +1953,7 @@
       "fit": 57,
       "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-06"
     },
@@ -2078,7 +2044,7 @@
       "fit": 41,
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-08"
     },
@@ -2886,7 +2852,7 @@
       "fit": 62,
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-16"
     },
@@ -2917,7 +2883,7 @@
       "fit": 38,
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-16"
     },
@@ -2970,7 +2936,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-16"
     },
@@ -3027,35 +2993,6 @@
       ],
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "24 Nov 2026",
-      "isNew": false,
-      "added": "2026-11-16"
-    },
-    {
-      "id": "auto-unstop-1806984",
-      "title": "QuikCPQ AI Innovation Challenge 2027",
-      "kind": "hackathon",
-      "end": "2026-11-27",
-      "deadline": "2026-11-26",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "Quik CPQ Solutions LLP",
-      "cost": "Free",
-      "team": "1–4",
-      "eligibility": "Experienced Professionals, Engineering Students, Postgraduate, Undergraduate, Fresher, Management, Medical, Law, Arts, Commerce, Sciences & Others",
-      "summary": "Open to students and working professionals residing in India. Individual participants and teams are permitted. Recommended team size: 1–4 members. Participants must provide accurate registration information.",
-      "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984"
-        }
-      ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
       "verifiedAt": "24 Nov 2026",
       "isNew": false,
@@ -3119,7 +3056,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "25 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-17"
     },
@@ -3148,7 +3085,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "24 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-17"
     },
@@ -3347,7 +3284,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-19"
     },
@@ -3376,7 +3313,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-19"
     },
@@ -3408,36 +3345,6 @@
       "added": "2026-11-19"
     },
     {
-      "id": "auto-unstop-1817686",
-      "title": "MyOnne National Bug Bounty Challenge 2026",
-      "kind": "hackathon",
-      "end": "2026-11-28",
-      "deadline": "2026-11-26",
-      "city": "Online",
-      "region": "online",
-      "mode": "Online",
-      "venue": "Online",
-      "organizer": "MyOnne Amora Private Limited",
-      "cost": "Free",
-      "team": "1–4",
-      "eligibility": "All",
-      "prizes": "₹3,00,000 in cash prizes (total listed)",
-      "summary": "MyOnne National Bug Bounty Challenge 2026. MyOnne is opening its application to India's security research community. We invite independent security researchers, ethical hackers, penetration testers, application security professionals and cybersecurity students from across India…",
-      "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686",
-      "sources": [
-        {
-          "title": "Unstop",
-          "url": "https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686"
-        }
-      ],
-      "fit": 65,
-      "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
-      "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": false,
-      "added": "2026-11-20"
-    },
-    {
       "id": "auto-unstop-1811526",
       "title": "CircuitX",
       "kind": "hackathon",
@@ -3464,7 +3371,7 @@
       "fit": 41,
       "fitReason": "Auto-scored: needs a Bengaluru trip, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-20"
     },
@@ -3527,7 +3434,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-21"
     },
@@ -3556,7 +3463,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-21"
     },
@@ -3586,7 +3493,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: in your state or next door, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3615,7 +3522,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3644,7 +3551,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3673,7 +3580,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3704,7 +3611,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Patna, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3734,7 +3641,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kolkata, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22",
       "prizes": "₹6,000 in cash prizes (total listed)"
@@ -3765,7 +3672,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kolkata, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22",
       "prizes": "₹6,000 in cash prizes (total listed)"
@@ -3797,7 +3704,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kolkata, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3826,7 +3733,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3856,7 +3763,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3885,7 +3792,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3916,7 +3823,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Powai, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3947,7 +3854,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Bidar, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -3978,7 +3885,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kolkata, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4009,7 +3916,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Lucknow, free, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4039,7 +3946,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kanpur, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4070,7 +3977,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Bhubaneswar, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4101,7 +4008,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Mumbai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4132,7 +4039,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Gorakhpur, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4163,7 +4070,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Gurgaon, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4194,7 +4101,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Pune, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4225,7 +4132,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Pune, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4256,7 +4163,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Boisar, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4286,7 +4193,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Aurangabad, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4346,7 +4253,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Mumbai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4377,7 +4284,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Mumbai, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4385,19 +4292,19 @@
       "id": "auto-unstop-1771992",
       "title": "INDIA GOT SPOT 1.0",
       "kind": "hackathon",
-      "end": "2027-02-15",
-      "deadline": "2027-01-09",
-      "city": "Ghaziabad",
+      "end": "2027-02-20",
+      "deadline": "2027-02-10",
+      "city": "Delhi",
       "region": "india",
       "mode": "In person",
-      "venue": "Indraprastha Engineering College, ghaziabad ( Near Uttam Toyota )",
-      "address": "Ghaziabad, Uttar Pradesh",
+      "venue": "TBA",
+      "address": "Delhi, Delhi",
       "organizer": "Swastik Community",
       "cost": "Free",
-      "team": "1–4",
+      "team": "2–4",
       "eligibility": "All",
       "prizes": "₹10,62,400 in cash prizes (total listed)",
-      "summary": "Welcome to the INDIA GOT SPOT 1.0 - by Swastik Community. A team-based hackathon for bold ideas and practical solutions in Software Development. INDIA GOT SPOT 1.0 is an offline hackathon by Swastik Community, presented as an online coding challenge with team participation.",
+      "summary": "Welcome to the INDIA GOT SPOT 1.0 - by Swastik Community! A hackathon bringing Software Development ideas into the spotlight. INDIA GOT SPOT 1.0 is a Swastik Community hackathon focused on Software Development.",
       "url": "https://unstop.com/hackathons/india-got-spot-10-swastik-community-1771992",
       "sources": [
         {
@@ -4406,9 +4313,9 @@
         }
       ],
       "fit": 43,
-      "fitReason": "Auto-scored: a long trip to Ghaziabad, free. Details come straight from the listing and haven't been reviewed.",
+      "fitReason": "Auto-scored: a long trip to Delhi, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4439,7 +4346,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Delhi, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4469,7 +4376,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Gorakhpur, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4499,7 +4406,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kalyanpur, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4529,7 +4436,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kalyanpur, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4559,7 +4466,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Kalyanpur, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4589,7 +4496,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Delhi, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4620,7 +4527,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Thane, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4651,7 +4558,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Delhi, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4682,7 +4589,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to South Goa, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4712,7 +4619,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to West Delhi, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4770,7 +4677,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4800,7 +4707,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Powai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4830,7 +4737,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Gurgaon, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4860,7 +4767,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Gorakhpur, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4890,7 +4797,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Kolkata, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -4920,7 +4827,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Panvel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5072,7 +4979,7 @@
       "fit": 52,
       "fitReason": "Auto-scored: in your state or next door. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5100,7 +5007,7 @@
       "fit": 52,
       "fitReason": "Auto-scored: in your state or next door. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5124,7 +5031,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5148,7 +5055,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5310,7 +5217,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5337,7 +5244,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5364,7 +5271,7 @@
       "fit": 57,
       "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5390,7 +5297,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5417,7 +5324,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5497,7 +5404,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5550,7 +5457,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5577,7 +5484,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Hyderabad, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5603,7 +5510,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Hyderabad, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5630,7 +5537,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Rai Durg, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5657,7 +5564,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Hyderabad, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5684,7 +5591,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Hyderabad, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5711,7 +5618,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Mumbai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5738,7 +5645,7 @@
       "fit": 43,
       "fitReason": "Auto-scored: a long trip to Mumbai, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5765,7 +5672,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Mumbai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5819,7 +5726,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Pune, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5846,7 +5753,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Pune, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5873,7 +5780,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Pune, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5956,7 +5863,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: in your state or next door, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -5983,7 +5890,7 @@
       "fit": 52,
       "fitReason": "Auto-scored: in your state or next door. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -6064,7 +5971,7 @@
       "fit": 49,
       "fitReason": "Auto-scored: in your state or next door. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -6092,7 +5999,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: in your state or next door, paid. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -6119,7 +6026,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Pune, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -6146,7 +6053,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Mumbai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -6173,7 +6080,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Mumbai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": false,
       "added": "2026-11-22"
     },
@@ -6203,8 +6110,8 @@
       "fit": 60,
       "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6234,8 +6141,8 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Delhi, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6261,8 +6168,8 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6288,8 +6195,8 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6314,8 +6221,8 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6342,8 +6249,8 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6369,8 +6276,8 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6396,8 +6303,8 @@
       "fit": 53,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
-      "isNew": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": false,
       "added": "2026-11-23"
     },
     {
@@ -6425,7 +6332,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-24"
     },
@@ -6456,7 +6363,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Nagpur, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-24"
     },
@@ -6485,7 +6392,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, beginner-friendly, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-24"
     },
@@ -6515,7 +6422,7 @@
       "fit": 50,
       "fitReason": "Auto-scored: in your state or next door, paid, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-24"
     },
@@ -6543,7 +6450,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: needs a Bengaluru trip. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-24"
     },
@@ -6596,7 +6503,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-24"
     },
@@ -6651,7 +6558,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Mumbai, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-24"
     },
@@ -6708,7 +6615,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6717,7 +6624,7 @@
       "title": "CoMemor Contributor Challenge",
       "kind": "hackathon",
       "end": "2026-12-15",
-      "deadline": "2026-12-08",
+      "deadline": "2026-12-14",
       "city": "Online",
       "region": "online",
       "mode": "Online",
@@ -6737,7 +6644,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6768,7 +6675,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Hyderabad, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6797,7 +6704,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, beginner-friendly. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6826,7 +6733,7 @@
       "fit": 65,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6855,7 +6762,7 @@
       "fit": 45,
       "fitReason": "Auto-scored: online, no travel, free, matches your AI/web/startup interests, a talk or webinar, not hands-on. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6882,7 +6789,7 @@
       "fit": 50,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6909,7 +6816,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6935,7 +6842,7 @@
       "fit": 57,
       "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -6987,7 +6894,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Greater Noida, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -7014,7 +6921,7 @@
       "fit": 58,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -7041,7 +6948,7 @@
       "fit": 61,
       "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -7069,7 +6976,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Pune, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-25"
     },
@@ -7099,7 +7006,7 @@
       "fit": 48,
       "fitReason": "Auto-scored: a long trip to Hyderabad, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-26"
     },
@@ -7129,12 +7036,239 @@
       "fit": 68,
       "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
       "auto": true,
-      "verifiedAt": "26 Nov 2026",
+      "verifiedAt": "27 Nov 2026",
       "isNew": true,
       "added": "2026-11-26"
+    },
+    {
+      "id": "auto-unstop-1798676",
+      "title": "Protocol Zero: Boot | Hack | CTF",
+      "kind": "hackathon",
+      "end": "2027-03-13",
+      "deadline": "2026-12-02",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Shiv Nadar University, Chennai",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Centre for Cybersecurity, Trust and Reliability, IIT Madras (CyStar)",
+      "cost": "Free",
+      "team": "2–3",
+      "eligibility": "Engineering Students, Postgraduate, Undergraduate, Management, Medical, Law, Arts, Commerce, Sciences & Others",
+      "prizes": "₹10,00,000 in cash prizes (total listed)",
+      "summary": "Protocol Zero is a multi-stage cybersecurity competition focused on the security of modern communication systems and Secure Communication Protocol. Participate in an online Mini-CTF, expert-led Bootcamp, six-week Hackathon and onsite Attack-Defence CTF.",
+      "url": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/hackathons/protocol-zero-boot-hack-ctf-centre-for-cybersecurity-trust-and-reliability-iit-madras-cystar-1798676"
+        }
+      ],
+      "fit": 60,
+      "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
+    },
+    {
+      "id": "auto-unstop-1825369",
+      "title": "AI for CRM: From Customer Data to Business Decisions",
+      "kind": "workshop",
+      "end": "2026-11-28",
+      "deadline": "2026-11-28",
+      "city": "Bangalore",
+      "region": "bangalore",
+      "mode": "In person",
+      "venue": "CHRIST (Deemed to be University), Central Campus",
+      "address": "Bangalore, Karnataka",
+      "organizer": "Centre for Innovation and Entrepreneurship Development",
+      "cost": "Paid (amount on the listing)",
+      "team": "1",
+      "eligibility": "All",
+      "summary": "In an increasingly data-driven business environment, understanding customers is essential to building successful ventures. This workshop explores how artificial intelligence is transforming customer relationship management (CRM), enabling businesses to convert customer data into…",
+      "url": "https://unstop.com/workshops-webinars/ai-for-crm-from-customer-data-to-business-decisions-innowave26-centre-for-innovation-and-entrepreneur-1825369",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/workshops-webinars/ai-for-crm-from-customer-data-to-business-decisions-innowave26-centre-for-innovation-and-entrepreneur-1825369"
+        }
+      ],
+      "fit": 38,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, paid, matches your AI/web/startup interests, registration closes very soon. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
+    },
+    {
+      "id": "auto-unstop-1825326",
+      "title": "Pitch Perfect 4.0 – Startup Pitching Competition",
+      "kind": "competition",
+      "end": "2026-12-24",
+      "deadline": "2026-12-07",
+      "city": "Bhopal",
+      "region": "india",
+      "mode": "In person",
+      "venue": "LNCT Group of Colleges, Bhopal, Madhya Pradesh",
+      "address": "Bhopal, Madhya Pradesh",
+      "organizer": "LNCT Group of Colleges, Bhopal, Madhya Pradesh",
+      "cost": "Free",
+      "team": "2–5",
+      "eligibility": "All",
+      "summary": "E-Cell LNCTE presents Pitch Perfect 4.0 , a startup pitching competition designed to bring together aspiring entrepreneurs, innovators, and problem-solvers to transform their ideas into impactful ventures.",
+      "url": "https://unstop.com/competitions/pitch-perfect-40-startup-pitching-competition-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1825326",
+      "sources": [
+        {
+          "title": "Unstop",
+          "url": "https://unstop.com/competitions/pitch-perfect-40-startup-pitching-competition-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1825326"
+        }
+      ],
+      "fit": 48,
+      "fitReason": "Auto-scored: a long trip to Bhopal, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
+    },
+    {
+      "id": "auto-luma-evt-EBVkkdIlxeHsvxg",
+      "title": "Discover Open Source AI: Onboarding Sprint with GC.OS",
+      "kind": "meetup",
+      "start": "2026-11-27",
+      "end": "2026-11-27",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "address": "EPIP Zone, Bengaluru, India",
+      "organizer": "Polaris School of Technology",
+      "cost": "Free",
+      "eligibility": "Registration needs the host's approval",
+      "url": "https://luma.com/v66zshfn",
+      "sources": [
+        {
+          "title": "Luma",
+          "url": "https://luma.com/v66zshfn"
+        }
+      ],
+      "fit": 58,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
+    },
+    {
+      "id": "auto-luma-evt-V6tUOmQTy1BqLu5",
+      "title": "TALK-N-OPS AI-BUILDATHON",
+      "kind": "hackathon",
+      "start": "2026-11-28",
+      "end": "2026-11-28",
+      "city": "Bengaluru",
+      "region": "bangalore",
+      "mode": "In person",
+      "address": "Bellandur, Bengaluru, India",
+      "organizer": "Nasiko Labs",
+      "cost": "Free",
+      "eligibility": "Registration needs the host's approval",
+      "url": "https://luma.com/nasiko-kn7b",
+      "sources": [
+        {
+          "title": "Luma",
+          "url": "https://luma.com/nasiko-kn7b"
+        }
+      ],
+      "fit": 61,
+      "fitReason": "Auto-scored: needs a Bengaluru trip, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
+    },
+    {
+      "id": "auto-luma-evt-EenKcntYdC4qlbg",
+      "title": "BEYOND THE PROMPT — Build Websites That Don’t Look AI-Generated | OpenAI Student Collective x CIT",
+      "kind": "meetup",
+      "start": "2026-12-02",
+      "end": "2026-12-02",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "address": "Kundrathur, Chennai, India",
+      "organizer": "Madhanraj M",
+      "cost": "Free",
+      "eligibility": "Registration needs the host's approval",
+      "url": "https://luma.com/mucgzh68",
+      "sources": [
+        {
+          "title": "Luma",
+          "url": "https://luma.com/mucgzh68"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
+    },
+    {
+      "id": "auto-luma-evt-rnkhQRrzuO1BsT4",
+      "title": "CAMPUS.EXE - Turn College Problems into Real Apps | OpenAI Student Collective x CIT",
+      "kind": "meetup",
+      "start": "2026-12-04",
+      "end": "2026-12-04",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "address": "Kundrathur, Chennai, India",
+      "organizer": "Madhanraj M",
+      "cost": "Free",
+      "eligibility": "Registration needs the host's approval",
+      "url": "https://luma.com/xiyqvg84",
+      "sources": [
+        {
+          "title": "Luma",
+          "url": "https://luma.com/xiyqvg84"
+        }
+      ],
+      "fit": 65,
+      "fitReason": "Auto-scored: in your state or next door, free, matches your AI/web/startup interests. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
+    },
+    {
+      "id": "auto-knowafest-cybersecurity-360-from-threat-intelligence-to-digital-resilience-2026-2026-12-09",
+      "title": "Cybersecurity 360°: From Threat Intelligence to Digital Resilience 2026",
+      "kind": "competition",
+      "start": "2026-12-09",
+      "end": "2026-12-09",
+      "city": "Chennai",
+      "region": "tamilnadu",
+      "mode": "In person",
+      "venue": "Department of Computer Technology, Madras Institute of Technology",
+      "address": "Chennai, Tamil Nadu",
+      "organizer": "Madras Institute of Technology",
+      "cost": "Free",
+      "summary": "The Department of Computer Technology, Anna University, MIT Campus, in collaboration with Tamil Nadu Dr. Ambedkar Law University, jointly organizes a one-day hands-on bootcamp titled \"Cybersecurity 360°: From Threat Intelligence to Digital Resilience\" on December 9, 2026.This bootcamp aims to…",
+      "url": "https://www.knowafest.com/event/cybersecurity-360-from-threat-intelligence-to-digital-resilience",
+      "sources": [
+        {
+          "title": "Knowafest",
+          "url": "https://www.knowafest.com/event/cybersecurity-360-from-threat-intelligence-to-digital-resilience"
+        }
+      ],
+      "fit": 57,
+      "fitReason": "Auto-scored: in your state or next door, free. Details come straight from the listing and haven't been reviewed.",
+      "auto": true,
+      "verifiedAt": "27 Nov 2026",
+      "isNew": true,
+      "added": "2026-11-27"
     }
   ],
-  "lastAutoRun": "26 Nov 2026",
+  "lastAutoRun": "27 Nov 2026",
   "removed": [
     "auto-unstop-1799780",
     "auto-unstop-1799782",
