@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "sources": {
     "Unstop": {
       "ok": true,
-      "found": 271
+      "found": 267
     },
     "Devfolio": {
       "ok": true,
-      "found": 24
+      "found": 25
     },
     "Hack2Skill": {
       "ok": true,
@@ -15,11 +15,11 @@
     },
     "Luma": {
       "ok": true,
-      "found": 55
+      "found": 57
     },
     "Eventopia": {
       "ok": true,
-      "found": 19
+      "found": 20
     },
     "Knowafest": {
       "ok": true,
@@ -34,7 +34,7 @@
       "found": 431
     }
   },
-  "added": 8,
-  "refreshed": 128,
-  "removed": 3
+  "added": 7,
+  "refreshed": 124,
+  "removed": 5
 }
